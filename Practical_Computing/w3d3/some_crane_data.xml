@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraneData>
+   <Event>
+      <EventId>250386110</EventId>
+      <Timestamp>2013-07-12 04:24:05.000</Timestamp>
+      <Visible>true</Visible>
+      <Heading>0.0</Heading>
+   </Event>
+   <Event>
+      <EventId>250386111</EventId>
+      <Timestamp>2013-07-12 04:38:51.000</Timestamp>
+      <Visible>true</Visible>
+      <Heading>0.0</Heading>
+   </Event>
+   <Event>
+      <EventId>250386112</EventId>
+      <Timestamp>2013-07-12 04:53:33.000</Timestamp>
+      <Visible>true</Visible>
+      <Heading>0.0</Heading>
+   </Event>
+</CraneData>
