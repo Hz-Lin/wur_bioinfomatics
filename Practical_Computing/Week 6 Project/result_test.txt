@@ -1,0 +1,93 @@
+This is a test
+
+This is the feature matrix
+
+[[  9.89605727e-05   5.34387093e-04   7.93732042e-04 ...,   7.35072309e-03
+    1.17215272e-02   9.28932659e-03]
+ [  2.60160826e-03   5.05220076e-03   3.03438215e-03 ...,   1.64954904e-04
+    1.26856182e-04   1.63280235e-05]
+ [  2.72344771e-03   4.15277778e-03   3.97549020e-03 ...,   8.79399070e-04
+    2.31988712e-04   8.00962815e-05]
+ ..., 
+ [  3.39249325e-04   4.39278545e-03   1.13800313e-02 ...,   7.62469444e-04
+    2.28324752e-03   2.51174564e-03]
+ [  7.08104631e-04   5.29328103e-03   3.07389016e-03 ...,   7.84433599e-03
+    1.58184178e-02   5.65875287e-04]
+ [  1.29653006e-03   2.09346686e-03   2.63457600e-03 ...,   4.01560883e-04
+    1.56437187e-04   2.70421159e-05]]
+
+This is the rgb matrix with means for RGB
+
+[[ 180.26968326  171.58023379  182.56455505]
+ [ 159.84410707  110.23703618   19.2617558 ]
+ [ 145.33578125  110.01916667   63.76040625]
+ [ 160.139       165.44308081  135.6409798 ]
+ [  91.37467047   77.93964194   95.17197521]
+ [ 164.62947315  156.936231    140.60918946]
+ [ 168.00125107  177.61167952  161.20455013]
+ [ 145.53176681   85.21418455   51.38693133]
+ [ 119.46366516   89.40822775  135.93932881]
+ [ 157.12702317  124.71997326   22.99751337]
+ [ 170.05412732  120.03311159   12.61389127]
+ [ 169.47880784  162.73318431  130.29898824]
+ [ 148.79080114  152.09281831  123.48547926]
+ [ 174.75499285  121.42819027   10.61736052]
+ [ 200.59418112  192.9027553   173.05127168]
+ [ 123.39684848  107.67884848   18.13732121]
+ [ 107.07416988  103.36099743  132.08507722]
+ [  96.98105455   84.43249697   68.21726061]
+ [ 127.91455556   78.15498889   15.27666667]
+ [ 150.86039322  149.28641258  131.36419238]
+ [  98.68515837   73.41126697  136.16962293]
+ [ 152.81074346  103.97167484   86.26227941]
+ [ 158.72368836   99.55925049   81.01460552]
+ [ 143.21458999   74.32461129   32.21040469]
+ [ 182.19773134  136.82109453   34.49936318]
+ [ 139.06108168   88.2912362    72.86264901]
+ [ 176.07522769   91.1876017    50.36044323]
+ [ 154.89659197  118.04998133   26.85210084]
+ [ 112.04888651   59.22229122  126.823005  ]
+ [ 167.74665457  114.83918935   66.56359347]
+ [ 139.12781838   83.26893688  142.41459579]
+ [ 192.36367273  170.3549697   152.75290909]
+ [ 126.88216374   89.41851202  181.29487979]
+ [ 135.02319944  105.32036646  100.79459479]
+ [ 186.95130864  115.86953909  103.39192593]
+ [ 142.53943452  136.87706101  132.63358631]
+ [ 149.79314488  134.78357479   56.89182568]
+ [  98.81450928   93.92756852  120.96462423]
+ [ 115.89846082  107.08390873  156.67906462]
+ [ 154.90168097  102.05137339   45.69261087]]
+KMeans Clustering for rgb matrix
+
+cluster1 include: image_0807.jpg image_0808.jpg image_0810.jpg image_0809.jpg image_0812.jpg image_0806.jpg image_0801.jpg image_0802.jpg image_0811.jpg image_0805.jpg
+cluster2 include: image_0489.jpg image_0483.jpg image_1296.jpg image_0481.jpg image_0491.jpg image_0490.jpg image_0733.jpg image_1305.jpg image_0485.jpg image_0725.jpg
+cluster3 include: image_1308.jpg image_1297.jpg image_0487.jpg image_1307.jpg image_1300.jpg image_1303.jpg image_1302.jpg image_1294.jpg image_1301.jpg
+cluster4 include: image_0730.jpg image_0724.jpg image_0731.jpg image_0727.jpg image_0732.jpg image_0729.jpg image_0493.jpg image_0728.jpg image_0482.jpg image_0726.jpg image_0486.jpg
+
+mencoder "mf://tmprot_000.jpeg,tmprot_001.jpeg,tmprot_002.jpeg,tmprot_003.jpeg,tmprot_004.jpeg,tmprot_005.jpeg,tmprot_006.jpeg,tmprot_007.jpeg,tmprot_008.jpeg,tmprot_009.jpeg,tmprot_010.jpeg,tmprot_011.jpeg,tmprot_012.jpeg,tmprot_013.jpeg,tmprot_014.jpeg,tmprot_015.jpeg,tmprot_016.jpeg,tmprot_017.jpeg,tmprot_018.jpeg,tmprot_019.jpeg" -mf fps=10 -o kmeans.mp4 -ovc lavc                         -lavcopts vcodec=msmpeg4v2:vbitrate=2000
+mencoder "mf://tmprot_000.jpeg,tmprot_001.jpeg,tmprot_002.jpeg,tmprot_003.jpeg,tmprot_004.jpeg,tmprot_005.jpeg,tmprot_006.jpeg,tmprot_007.jpeg,tmprot_008.jpeg,tmprot_009.jpeg,tmprot_010.jpeg,tmprot_011.jpeg,tmprot_012.jpeg,tmprot_013.jpeg,tmprot_014.jpeg,tmprot_015.jpeg,tmprot_016.jpeg,tmprot_017.jpeg,tmprot_018.jpeg,tmprot_019.jpeg" -mf fps=10 -o kmeans.mp4 -ovc lavc                         -lavcopts vcodec=msmpeg4v2:vbitrate=1800; ffmpeg -i kmeans.mp4 -r 10 kmeans.ogv
+Hierarchical Clustering for rgb matrix
+
+cluster1 include: image_1308.jpg image_1297.jpg image_0487.jpg image_1296.jpg image_1307.jpg image_1300.jpg image_1303.jpg image_1302.jpg image_1294.jpg image_1301.jpg
+cluster2 include: image_0730.jpg image_0724.jpg image_0731.jpg image_0727.jpg image_0732.jpg image_0729.jpg image_0493.jpg image_0728.jpg image_0726.jpg
+cluster3 include: image_0807.jpg image_0808.jpg image_0810.jpg image_0809.jpg image_0812.jpg image_0806.jpg image_0801.jpg image_0802.jpg image_0811.jpg image_0805.jpg
+cluster4 include: image_0489.jpg image_0483.jpg image_0481.jpg image_0491.jpg image_0490.jpg image_0482.jpg image_0733.jpg image_1305.jpg image_0485.jpg image_0725.jpg image_0486.jpg
+
+mencoder "mf://tmprot_000.jpeg,tmprot_001.jpeg,tmprot_002.jpeg,tmprot_003.jpeg,tmprot_004.jpeg,tmprot_005.jpeg,tmprot_006.jpeg,tmprot_007.jpeg,tmprot_008.jpeg,tmprot_009.jpeg,tmprot_010.jpeg,tmprot_011.jpeg,tmprot_012.jpeg,tmprot_013.jpeg,tmprot_014.jpeg,tmprot_015.jpeg,tmprot_016.jpeg,tmprot_017.jpeg,tmprot_018.jpeg,tmprot_019.jpeg" -mf fps=10 -o hc.mp4 -ovc lavc                         -lavcopts vcodec=msmpeg4v2:vbitrate=2000
+mencoder "mf://tmprot_000.jpeg,tmprot_001.jpeg,tmprot_002.jpeg,tmprot_003.jpeg,tmprot_004.jpeg,tmprot_005.jpeg,tmprot_006.jpeg,tmprot_007.jpeg,tmprot_008.jpeg,tmprot_009.jpeg,tmprot_010.jpeg,tmprot_011.jpeg,tmprot_012.jpeg,tmprot_013.jpeg,tmprot_014.jpeg,tmprot_015.jpeg,tmprot_016.jpeg,tmprot_017.jpeg,tmprot_018.jpeg,tmprot_019.jpeg" -mf fps=10 -o hc.mp4 -ovc lavc                         -lavcopts vcodec=msmpeg4v2:vbitrate=1800; ffmpeg -i hc.mp4 -r 10 hc.ogv
+KMeans Clustering for feature matrix
+
+cluster1 include: image_0489.jpg image_1308.jpg image_0483.jpg image_1297.jpg image_0487.jpg image_1296.jpg image_1307.jpg image_0481.jpg image_0491.jpg image_0490.jpg image_0482.jpg image_1300.jpg image_0733.jpg image_1303.jpg image_1305.jpg image_0485.jpg image_0725.jpg image_1294.jpg image_0486.jpg
+cluster2 include: image_0730.jpg image_0724.jpg image_0731.jpg image_0727.jpg image_0732.jpg image_0729.jpg image_0493.jpg image_0728.jpg image_0726.jpg
+cluster3 include: image_0807.jpg image_0808.jpg image_0810.jpg image_0809.jpg image_0806.jpg image_0802.jpg image_1302.jpg image_0805.jpg image_1301.jpg
+cluster4 include: image_0812.jpg image_0801.jpg image_0811.jpg
+
+Hierarchical Clustering for feature matrix
+
+cluster1 include: image_0489.jpg image_1308.jpg image_0483.jpg image_1297.jpg image_1296.jpg image_1307.jpg image_0481.jpg image_0491.jpg image_0493.jpg image_0728.jpg image_0490.jpg image_0482.jpg image_1300.jpg image_0733.jpg image_1303.jpg image_1305.jpg image_0485.jpg image_0725.jpg image_1294.jpg image_0486.jpg
+cluster2 include: image_0730.jpg image_0724.jpg image_0731.jpg image_0727.jpg image_0732.jpg image_0729.jpg image_0726.jpg
+cluster3 include: image_0807.jpg image_0808.jpg image_0810.jpg image_0809.jpg image_0806.jpg image_0487.jpg image_0802.jpg image_1302.jpg image_0805.jpg image_1301.jpg
+cluster4 include: image_0812.jpg image_0801.jpg image_0811.jpg
+
+The END

@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.1) multiple sequence alignment
+
+
+INS_HUMAN        -----------------------MALW-MRLLPLLALLALWGPDPAAAFVNQHLCGSHLV
+INSR2_HUMAN      -----------------------MALW-MRLLPLLALLALWGPDPAAAFVNQHLCGSHLV
+IGF2_HUMAN       ---------------------MGIPMG-KSMLVLLTFLAFASCCIAAYRPSETLCGGELV
+IGF1_HUMAN       MGKISSLPTQLFKCCFCDFLKVKMHTMSSSHLFYLA-LCLLTFTSSATAGPETLCGAELV
+                                        :       *  *: *.:     :*    : ***..**
+
+INS_HUMAN        EALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAG-------SLQPLA--LEGSLQ
+INSR2_HUMAN      EALYLVCGERGFFYTPKTRREAEDLQASALSLSSSTSTWPEGLDATARAPPALVVTANIG
+IGF2_HUMAN       DTLQFVCGDRGFYFSRPASRVSRRSRG---------------------------------
+IGF1_HUMAN       DALQFVCGDRGFYFNKPTGYGSSSRRA---------------------------------
+                 ::* :***:***::.  :   :   :                                  
+
+INS_HUMAN        KRG------IV------------EQCCTSICSLYQLENYCN-------------------
+INSR2_HUMAN      QAGGSSSRQFRQRALGTSDSPVLFIHCPGAAGTAQGLEYRGRRVTTEL------------
+IGF2_HUMAN       ---------------------IVEECCFRSCDLALLETYCATPAKSERDVSTPPTVLPDN
+IGF1_HUMAN       -----------------PQTGIVDECCFRSCDLRRLEMYCAPLKPAKSARSVRA----QR
+                                           *   .       *                     
+
+INS_HUMAN        ------------------------------------------------------------
+INSR2_HUMAN      --------------VW------------------------EEVDSS---PQPQGSESLPA
+IGF2_HUMAN       FPRYPVGKFFQY-DTWKQSTQRLRRGLPALLRARRGHVLAKELEAFREAKRHRPLIALPT
+IGF1_HUMAN       HTDMPKTQKYQPPSTNKNTKSQRRKGWPKTHPGGE---QKEGTEAS---LQIRGK-----
+                                                                             
+
+INS_HUMAN        --------------------------------------
+INSR2_HUMAN      QPPAQPAPQPEPQQARE-PSPEVSCCGLWPRRPQRSQN
+IGF2_HUMAN       QDPAHGGAPPEMASNRK---------------------
+IGF1_HUMAN       ----------KKEQRREIGSRNAECRGKKGK-------
+                                                       

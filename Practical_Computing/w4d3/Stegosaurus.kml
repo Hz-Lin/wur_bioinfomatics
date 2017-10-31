@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+</Document>
+</kml><name>Stegosaurus_1</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.389999,42.035831</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_2</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.916199,42.152302</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_3</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.048615,42.017776</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_4</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-108.199997,43.630001</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_5</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-109.205833,40.423611</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_6</name>
+    <description>Stegosaurus, 150.8 MA</description>
+    <Point>
+       <coordinates>-109.300552,40.441387</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_7</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.192596,39.675598</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_8</name>
+    <description>Stegosaurus ungulatus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_9</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_10</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_11</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_12</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_13</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.224701,38.539501</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_14</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.224701,38.539501</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_15</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_16</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.982803,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_17</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.021599,41.893101</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_18</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.002197,41.893101</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_19</name>
+    <description>Stegosaurus ungulatus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.1073,41.8825</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_20</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.963402,41.9077</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_21</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-107.816666,44.650002</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_22</name>
+    <description>Stegosaurus, 152.1 MA</description>
+    <Point>
+       <coordinates>-105.231598,38.547501</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_23</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.212502,38.541</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_24</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.212502,38.541</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_25</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.193703,38.544998</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_26</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.210602,38.5168</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_27</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-108.397202,38.583099</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_28</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-102.824997,36.897499</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_29</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-102.962776,36.903057</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_30</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.291,41.967098</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_31</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.138054,41.980556</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_32</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-110.367203,39.014301</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_33</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.00222,41.893055</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_34</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.00222,41.893055</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_35</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-104.734703,44.458099</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_36</name>
+    <description>Wuerhosaurus homheni, 122.46 MA</description>
+    <Point>
+       <coordinates>85.792046,46.043884</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_37</name>
+    <description>Wuerhosaurus homheni, 122.46 MA</description>
+    <Point>
+       <coordinates>85.666664,46.099998</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_38</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-108.774719,39.167778</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_39</name>
+    <description>Hesperosaurus mjosi, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.698891,44.348057</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_40</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.356903,41.916302</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_41</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.310997,41.951698</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_42</name>
+    <description>Stegosaurus stenops, 157.3 MA</description>
+    <Point>
+       <coordinates>-110.6875,39.216667</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_43</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.90976,42.155437</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_44</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-102.962776,36.903057</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_45</name>
+    <description>Stegosaurus ungulatus, 157.3 MA</description>
+    <Point>
+       <coordinates>-109.036133,39.200081</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_46</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-108.647003,39.076099</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_47</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.908501,42.152802</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_48</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-107.779167,44.535557</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_49</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.021599,41.893101</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_50</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.390556,42.035831</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_51</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.916199,42.152302</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_52</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.886398,42.146099</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_53</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.908424,42.149494</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_54</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-109.1651,40.504601</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_55</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.866402,44.0933</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_56</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-109.524025,40.456348</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_57</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-109.741203,38.710346</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_58</name>
+    <description>Stegosaurus, 163.5 MA</description>
+    <Point>
+       <coordinates>-107.814163,44.632221</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_59</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-108.826668,45.22361</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_60</name>
+    <description>Stegosaurus, 150.8 MA</description>
+    <Point>
+       <coordinates>-108.800003,39.200001</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_61</name>
+    <description>Stegosaurus ungulatus, 161.2 MA</description>
+    <Point>
+       <coordinates>-8.812128,39.662338</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_62</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.85611,42.196388</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_63</name>
+    <description>Stegosaurus, 113 MA</description>
+    <Point>
+       <coordinates>-110.991669,39.068333</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_64</name>
+    <description>Hesperosaurus mjosi, 157.3 MA</description>
+    <Point>
+       <coordinates>-107.816666,44.650002</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_65</name>
+    <description>Hesperosaurus mjosi, 161.2 MA</description>
+    <Point>
+       <coordinates>-107.458336,44.051388</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_66</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-110.813889,38.25222</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_67</name>
+    <description>Stegosaurus ungulatus, 150.8 MA</description>
+    <Point>
+       <coordinates>-109.300552,40.441387</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_68</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.390556,42.035831</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_69</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-107.400002,38.450001</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_70</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-107.400002,38.450001</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_71</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-105.908501,42.152802</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_72</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-110.6875,39.216667</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_73</name>
+    <description>Stegosaurus, 122.46 MA</description>
+    <Point>
+       <coordinates>119.383331,62.516666</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_74</name>
+    <description>Stegosaurus, 155.7 MA</description>
+    <Point>
+       <coordinates>-108.477219,38.853611</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_75</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-106.866402,44.0933</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>Stegosaurus_76</name>
+    <description>Stegosaurus, 157.3 MA</description>
+    <Point>
+       <coordinates>-108.391647,40.455929</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

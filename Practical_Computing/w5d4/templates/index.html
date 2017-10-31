@@ -1,0 +1,16 @@
+<html>
+<head
+></head>
+<body>
+<h1>Blast results plants vs human</h1>
+  <form method="get" action="/results">
+    <select name="target">
+      {% for target in targets %}
+        <option>{{ target }}</option>
+      {% endfor %}
+    </select>
+    <input type="text" name="cutoff">
+    <input type="submit" value="Search">
+  </form>
+</body>
+</html>

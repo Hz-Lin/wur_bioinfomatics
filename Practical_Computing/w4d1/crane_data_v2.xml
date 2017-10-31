@@ -1,0 +1,3585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraneData>
+   <Event>
+      <event-id>250386109</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 04:10:14.000</timestamp>
+      <location-long>13.3524</location-long>
+      <location-lat>57.33415</location-lat>
+      <argos:altitude></argos:altitude>
+      <gps:hdop></gps:hdop>
+      <ground-speed></ground-speed>
+      <heading></heading>
+      <tag-tech-spec></tag-tech-spec>
+      <tag-voltage></tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386110</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 04:24:05.000</timestamp>
+      <location-long>13.352072</location-long>
+      <location-lat>57.333359</location-lat>
+      <argos:altitude>210.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386111</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 04:38:51.000</timestamp>
+      <location-long>13.352212</location-long>
+      <location-lat>57.333355</location-lat>
+      <argos:altitude>203.0</argos:altitude>
+      <gps:hdop>8.3</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386112</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 04:53:33.000</timestamp>
+      <location-long>13.352979</location-long>
+      <location-lat>57.334042</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>2.7</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386113</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 05:08:33.000</timestamp>
+      <location-long>13.352137</location-long>
+      <location-lat>57.333359</location-lat>
+      <argos:altitude>190.0</argos:altitude>
+      <gps:hdop>3.0</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386114</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 05:23:03.000</timestamp>
+      <location-long>13.352302</location-long>
+      <location-lat>57.333248</location-lat>
+      <argos:altitude>238.0</argos:altitude>
+      <gps:hdop>4.4</gps:hdop>
+      <ground-speed>0.3598</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386115</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 05:37:52.000</timestamp>
+      <location-long>13.352108</location-long>
+      <location-lat>57.333355</location-lat>
+      <argos:altitude>217.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.2056</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.18</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386116</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 05:52:34.000</timestamp>
+      <location-long>13.353911</location-long>
+      <location-lat>57.332504</location-lat>
+      <argos:altitude>211.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.7196</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386117</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 06:07:03.000</timestamp>
+      <location-long>13.356677</location-long>
+      <location-lat>57.329998</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386118</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 06:21:33.000</timestamp>
+      <location-long>13.357165</location-long>
+      <location-lat>57.331528</location-lat>
+      <argos:altitude>212.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.3084</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386119</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 06:36:03.000</timestamp>
+      <location-long>13.357065</location-long>
+      <location-lat>57.33144</location-lat>
+      <argos:altitude>185.0</argos:altitude>
+      <gps:hdop>5.8</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386120</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 06:50:33.000</timestamp>
+      <location-long>13.357157</location-long>
+      <location-lat>57.331959</location-lat>
+      <argos:altitude>210.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386121</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 07:05:22.000</timestamp>
+      <location-long>13.356156</location-long>
+      <location-lat>57.33271</location-lat>
+      <argos:altitude>226.0</argos:altitude>
+      <gps:hdop>2.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386122</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 07:20:03.000</timestamp>
+      <location-long>13.356693</location-long>
+      <location-lat>57.332546</location-lat>
+      <argos:altitude>225.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386123</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 07:34:33.000</timestamp>
+      <location-long>13.357377</location-long>
+      <location-lat>57.332115</location-lat>
+      <argos:altitude>203.0</argos:altitude>
+      <gps:hdop>5.4</gps:hdop>
+      <ground-speed>0.3084</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386124</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 07:49:03.000</timestamp>
+      <location-long>13.35646</location-long>
+      <location-lat>57.331192</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>3.0</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386125</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 08:03:33.000</timestamp>
+      <location-long>13.356058</location-long>
+      <location-lat>57.332119</location-lat>
+      <argos:altitude>213.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386126</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 08:18:03.000</timestamp>
+      <location-long>13.356136</location-long>
+      <location-lat>57.332569</location-lat>
+      <argos:altitude>263.0</argos:altitude>
+      <gps:hdop>3.8</gps:hdop>
+      <ground-speed>0.514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386127</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 08:32:33.000</timestamp>
+      <location-long>13.348945</location-long>
+      <location-lat>57.328117</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386128</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 08:47:03.000</timestamp>
+      <location-long>13.356408</location-long>
+      <location-lat>57.33234</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386129</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 09:01:33.000</timestamp>
+      <location-long>13.356604</location-long>
+      <location-lat>57.331955</location-lat>
+      <argos:altitude>191.0</argos:altitude>
+      <gps:hdop>6.4</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386130</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 09:16:33.000</timestamp>
+      <location-long>13.356423</location-long>
+      <location-lat>57.332775</location-lat>
+      <argos:altitude>216.0</argos:altitude>
+      <gps:hdop>2.5</gps:hdop>
+      <ground-speed>0.4112</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386131</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 09:31:03.000</timestamp>
+      <location-long>13.355884</location-long>
+      <location-lat>57.332047</location-lat>
+      <argos:altitude>221.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386132</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 09:45:33.000</timestamp>
+      <location-long>13.35643</location-long>
+      <location-lat>57.332603</location-lat>
+      <argos:altitude>208.0</argos:altitude>
+      <gps:hdop>2.8</gps:hdop>
+      <ground-speed>0.5654</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386133</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 10:01:03.000</timestamp>
+      <location-long>13.355565</location-long>
+      <location-lat>57.33263</location-lat>
+      <argos:altitude>173.0</argos:altitude>
+      <gps:hdop>4.7</gps:hdop>
+      <ground-speed>1.4906</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386134</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 10:32:21.000</timestamp>
+      <location-long>13.358492</location-long>
+      <location-lat>57.333363</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386135</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 10:47:03.000</timestamp>
+      <location-long>13.359863</location-long>
+      <location-lat>57.3311</location-lat>
+      <argos:altitude>217.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.3598</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386136</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 11:02:33.000</timestamp>
+      <location-long>13.359132</location-long>
+      <location-lat>57.328773</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386137</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 11:17:03.000</timestamp>
+      <location-long>13.365976</location-long>
+      <location-lat>57.330219</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386138</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 11:31:33.000</timestamp>
+      <location-long>13.363298</location-long>
+      <location-lat>57.330372</location-lat>
+      <argos:altitude>222.0</argos:altitude>
+      <gps:hdop>3.9</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386139</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 11:46:33.000</timestamp>
+      <location-long>13.36431</location-long>
+      <location-lat>57.329205</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386140</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 12:01:03.000</timestamp>
+      <location-long>13.362835</location-long>
+      <location-lat>57.331089</location-lat>
+      <argos:altitude>236.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386141</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 12:15:33.000</timestamp>
+      <location-long>13.362846</location-long>
+      <location-lat>57.332001</location-lat>
+      <argos:altitude>223.0</argos:altitude>
+      <gps:hdop>15.5</gps:hdop>
+      <ground-speed>0.4112</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386142</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 12:30:22.000</timestamp>
+      <location-long>13.362112</location-long>
+      <location-lat>57.336975</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386143</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 12:45:03.000</timestamp>
+      <location-long>13.363147</location-long>
+      <location-lat>57.331215</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>3.6</gps:hdop>
+      <ground-speed>0.4626</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386144</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 13:30:04.000</timestamp>
+      <location-long>13.364398</location-long>
+      <location-lat>57.332127</location-lat>
+      <argos:altitude>217.0</argos:altitude>
+      <gps:hdop>1.9</gps:hdop>
+      <ground-speed>0.5654</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386145</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 13:44:33.000</timestamp>
+      <location-long>13.367507</location-long>
+      <location-lat>57.332104</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>3.8</gps:hdop>
+      <ground-speed>1.028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386146</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 13:59:33.000</timestamp>
+      <location-long>13.367097</location-long>
+      <location-lat>57.332119</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>2.0</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386147</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 14:14:03.000</timestamp>
+      <location-long>13.367229</location-long>
+      <location-lat>57.333225</location-lat>
+      <argos:altitude>224.0</argos:altitude>
+      <gps:hdop>4.3</gps:hdop>
+      <ground-speed>0.6168</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386148</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 14:28:33.000</timestamp>
+      <location-long>13.366444</location-long>
+      <location-lat>57.334175</location-lat>
+      <argos:altitude>214.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.6682</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386149</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 14:58:22.000</timestamp>
+      <location-long>13.390092</location-long>
+      <location-lat>57.344379</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386150</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 15:13:03.000</timestamp>
+      <location-long>13.364923</location-long>
+      <location-lat>57.33337</location-lat>
+      <argos:altitude>223.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386151</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 15:27:33.000</timestamp>
+      <location-long>13.364952</location-long>
+      <location-lat>57.333378</location-lat>
+      <argos:altitude>218.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386152</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 15:42:03.000</timestamp>
+      <location-long>13.365474</location-long>
+      <location-lat>57.333488</location-lat>
+      <argos:altitude>229.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386153</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 15:56:33.000</timestamp>
+      <location-long>13.365911</location-long>
+      <location-lat>57.333309</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386154</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 16:11:20.000</timestamp>
+      <location-long>13.367443</location-long>
+      <location-lat>57.332138</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>2.4</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386155</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 16:26:05.000</timestamp>
+      <location-long>13.367784</location-long>
+      <location-lat>57.333004</location-lat>
+      <argos:altitude>211.0</argos:altitude>
+      <gps:hdop>2.8</gps:hdop>
+      <ground-speed>0.5654</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386156</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 16:40:51.000</timestamp>
+      <location-long>13.36959</location-long>
+      <location-lat>57.332397</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386157</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 16:56:21.000</timestamp>
+      <location-long>13.36648</location-long>
+      <location-lat>57.332184</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386158</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 17:11:27.000</timestamp>
+      <location-long>13.372728</location-long>
+      <location-lat>57.336472</location-lat>
+      <argos:altitude>-38.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386159</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 17:26:03.000</timestamp>
+      <location-long>13.372998</location-long>
+      <location-lat>57.335587</location-lat>
+      <argos:altitude>217.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386160</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 17:40:33.000</timestamp>
+      <location-long>13.37313</location-long>
+      <location-lat>57.335548</location-lat>
+      <argos:altitude>205.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386161</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 17:55:04.000</timestamp>
+      <location-long>13.373034</location-long>
+      <location-lat>57.335609</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>2.0</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386162</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 18:09:33.000</timestamp>
+      <location-long>13.373025</location-long>
+      <location-lat>57.33556</location-lat>
+      <argos:altitude>213.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386163</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 18:24:03.000</timestamp>
+      <location-long>13.373043</location-long>
+      <location-lat>57.335831</location-lat>
+      <argos:altitude>234.0</argos:altitude>
+      <gps:hdop>12.9</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386164</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 18:38:33.000</timestamp>
+      <location-long>13.373029</location-long>
+      <location-lat>57.335564</location-lat>
+      <argos:altitude>208.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386165</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 18:53:03.000</timestamp>
+      <location-long>13.374619</location-long>
+      <location-lat>57.33617</location-lat>
+      <argos:altitude>214.0</argos:altitude>
+      <gps:hdop>2.2</gps:hdop>
+      <ground-speed>0.5654</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386166</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 19:07:33.000</timestamp>
+      <location-long>13.374518</location-long>
+      <location-lat>57.336143</location-lat>
+      <argos:altitude>210.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386167</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 19:22:03.000</timestamp>
+      <location-long>13.373043</location-long>
+      <location-lat>57.335552</location-lat>
+      <argos:altitude>211.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386168</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-12 19:36:34.000</timestamp>
+      <location-long>13.373081</location-long>
+      <location-lat>57.335579</location-lat>
+      <argos:altitude>210.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386169</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 02:51:04.000</timestamp>
+      <location-long>13.371177</location-long>
+      <location-lat>57.335339</location-lat>
+      <argos:altitude>213.0</argos:altitude>
+      <gps:hdop>2.1</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386170</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 03:05:51.000</timestamp>
+      <location-long>13.370653</location-long>
+      <location-lat>57.335388</location-lat>
+      <argos:altitude>208.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386171</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 03:20:27.000</timestamp>
+      <location-long>13.370461</location-long>
+      <location-lat>57.335266</location-lat>
+      <argos:altitude>202.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386172</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 03:35:21.000</timestamp>
+      <location-long>13.370412</location-long>
+      <location-lat>57.335396</location-lat>
+      <argos:altitude>199.0</argos:altitude>
+      <gps:hdop>3.4</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386173</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 03:49:57.000</timestamp>
+      <location-long>13.370182</location-long>
+      <location-lat>57.335346</location-lat>
+      <argos:altitude>210.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386174</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 04:04:33.000</timestamp>
+      <location-long>13.369485</location-long>
+      <location-lat>57.333595</location-lat>
+      <argos:altitude>212.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386175</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 04:19:03.000</timestamp>
+      <location-long>13.367858</location-long>
+      <location-lat>57.332806</location-lat>
+      <argos:altitude>213.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386176</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 04:33:33.000</timestamp>
+      <location-long>13.367537</location-long>
+      <location-lat>57.332821</location-lat>
+      <argos:altitude>208.0</argos:altitude>
+      <gps:hdop>2.3</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386177</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 04:48:03.000</timestamp>
+      <location-long>13.366629</location-long>
+      <location-lat>57.333027</location-lat>
+      <argos:altitude>223.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386178</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 05:02:33.000</timestamp>
+      <location-long>13.366487</location-long>
+      <location-lat>57.333107</location-lat>
+      <argos:altitude>224.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386179</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 05:17:03.000</timestamp>
+      <location-long>13.366517</location-long>
+      <location-lat>57.333</location-lat>
+      <argos:altitude>219.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386180</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 05:31:33.000</timestamp>
+      <location-long>13.364697</location-long>
+      <location-lat>57.332905</location-lat>
+      <argos:altitude>223.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.7196</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386181</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 05:46:03.000</timestamp>
+      <location-long>13.364282</location-long>
+      <location-lat>57.333248</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386182</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 06:00:33.000</timestamp>
+      <location-long>13.364607</location-long>
+      <location-lat>57.333546</location-lat>
+      <argos:altitude>225.0</argos:altitude>
+      <gps:hdop>3.2</gps:hdop>
+      <ground-speed>0.3598</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386183</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 06:15:03.000</timestamp>
+      <location-long>13.36529</location-long>
+      <location-lat>57.333084</location-lat>
+      <argos:altitude>191.0</argos:altitude>
+      <gps:hdop>6.8</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386184</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 06:29:33.000</timestamp>
+      <location-long>13.36525</location-long>
+      <location-lat>57.333355</location-lat>
+      <argos:altitude>220.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.1542</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386185</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 06:44:03.000</timestamp>
+      <location-long>13.365235</location-long>
+      <location-lat>57.333351</location-lat>
+      <argos:altitude>222.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.19</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386186</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 06:58:33.000</timestamp>
+      <location-long>13.366662</location-long>
+      <location-lat>57.332672</location-lat>
+      <argos:altitude>184.0</argos:altitude>
+      <gps:hdop>2.3</gps:hdop>
+      <ground-speed>0.2056</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386187</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 07:13:21.000</timestamp>
+      <location-long>13.364433</location-long>
+      <location-lat>57.32962</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386188</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 07:27:57.000</timestamp>
+      <location-long>13.364382</location-long>
+      <location-lat>57.32943</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386189</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 07:42:33.000</timestamp>
+      <location-long>13.362872</location-long>
+      <location-lat>57.330311</location-lat>
+      <argos:altitude>187.0</argos:altitude>
+      <gps:hdop>3.6</gps:hdop>
+      <ground-speed>0.257</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386190</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 07:57:33.000</timestamp>
+      <location-long>13.35898</location-long>
+      <location-lat>57.331379</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386191</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 08:12:03.000</timestamp>
+      <location-long>13.362785</location-long>
+      <location-lat>57.33062</location-lat>
+      <argos:altitude>221.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386192</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 08:26:33.000</timestamp>
+      <location-long>13.362945</location-long>
+      <location-lat>57.330555</location-lat>
+      <argos:altitude>258.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386193</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 08:41:03.000</timestamp>
+      <location-long>13.363981</location-long>
+      <location-lat>57.331684</location-lat>
+      <argos:altitude>257.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386194</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 08:55:33.000</timestamp>
+      <location-long>13.364284</location-long>
+      <location-lat>57.333096</location-lat>
+      <argos:altitude>229.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386195</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 09:10:03.000</timestamp>
+      <location-long>13.363961</location-long>
+      <location-lat>57.333549</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>2.8</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386196</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 09:24:33.000</timestamp>
+      <location-long>13.366213</location-long>
+      <location-lat>57.334385</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>2.5</gps:hdop>
+      <ground-speed>0.6168</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>2</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386197</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 09:39:03.000</timestamp>
+      <location-long>13.36658</location-long>
+      <location-lat>57.333366</location-lat>
+      <argos:altitude>225.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386198</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 09:53:33.000</timestamp>
+      <location-long>13.365893</location-long>
+      <location-lat>57.333233</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386199</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 10:08:03.000</timestamp>
+      <location-long>13.366248</location-long>
+      <location-lat>57.332462</location-lat>
+      <argos:altitude>213.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386200</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 10:22:33.000</timestamp>
+      <location-long>13.367893</location-long>
+      <location-lat>57.330143</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386201</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 10:53:51.000</timestamp>
+      <location-long>13.362473</location-long>
+      <location-lat>57.332836</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386202</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 11:08:27.000</timestamp>
+      <location-long>13.364643</location-long>
+      <location-lat>57.333847</location-lat>
+      <argos:altitude>174.0</argos:altitude>
+      <gps:hdop>11.5</gps:hdop>
+      <ground-speed>0.0514</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386203</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 11:23:03.000</timestamp>
+      <location-long>13.36539</location-long>
+      <location-lat>57.33392</location-lat>
+      <argos:altitude>219.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386204</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 11:37:33.000</timestamp>
+      <location-long>13.365278</location-long>
+      <location-lat>57.334129</location-lat>
+      <argos:altitude>212.0</argos:altitude>
+      <gps:hdop>2.1</gps:hdop>
+      <ground-speed>0.2056</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386205</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 11:52:34.000</timestamp>
+      <location-long>13.364634</location-long>
+      <location-lat>57.333992</location-lat>
+      <argos:altitude>182.0</argos:altitude>
+      <gps:hdop>14.7</gps:hdop>
+      <ground-speed>0.3084</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386206</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 12:07:03.000</timestamp>
+      <location-long>13.366478</location-long>
+      <location-lat>57.330673</location-lat>
+      <argos:altitude>-37.0</argos:altitude>
+      <gps:hdop>0.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>1</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>250386207</event-id>
+      <visible>true</visible>
+      <timestamp>2013-07-13 12:21:51.000</timestamp>
+      <location-long>13.36587</location-long>
+      <location-lat>57.335022</location-lat>
+      <argos:altitude>236.0</argos:altitude>
+      <gps:hdop>2.6</gps:hdop>
+      <ground-speed>0.1028</ground-speed>
+      <heading>0.0</heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>4.2</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>8621</tag-local-identifier>
+      <individual-local-identifier>8621</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862121</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 15:31:00.000</timestamp>
+      <location-long>9.023235</location-long>
+      <location-lat>53.327049</location-lat>
+      <argos:altitude>-1.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862120</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 16:02:00.000</timestamp>
+      <location-long>9.01259</location-long>
+      <location-lat>53.32468</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862119</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 16:09:00.000</timestamp>
+      <location-long>9.012775</location-long>
+      <location-lat>53.324688</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>2.5</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862118</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 16:39:00.000</timestamp>
+      <location-long>9.012618</location-long>
+      <location-lat>53.323452</location-lat>
+      <argos:altitude>-6.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862117</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 17:10:00.000</timestamp>
+      <location-long>9.012445</location-long>
+      <location-lat>53.323288</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862116</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 17:40:00.000</timestamp>
+      <location-long>9.012386</location-long>
+      <location-lat>53.323299</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862115</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 18:11:00.000</timestamp>
+      <location-long>9.01237</location-long>
+      <location-lat>53.323277</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862114</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 18:42:00.000</timestamp>
+      <location-long>9.012448</location-long>
+      <location-lat>53.323185</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862113</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 19:12:00.000</timestamp>
+      <location-long>9.011177</location-long>
+      <location-lat>53.323357</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862112</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 19:43:00.000</timestamp>
+      <location-long>9.011125</location-long>
+      <location-lat>53.32338</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862111</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 20:14:00.000</timestamp>
+      <location-long>9.01099</location-long>
+      <location-lat>53.323418</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862110</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 20:45:00.000</timestamp>
+      <location-long>9.010939</location-long>
+      <location-lat>53.323406</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862109</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 21:15:00.000</timestamp>
+      <location-long>9.011048</location-long>
+      <location-lat>53.32338</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862108</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 21:46:00.000</timestamp>
+      <location-long>9.010937</location-long>
+      <location-lat>53.323395</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862107</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 22:17:00.000</timestamp>
+      <location-long>9.01092</location-long>
+      <location-lat>53.323395</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862106</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 22:47:00.000</timestamp>
+      <location-long>9.011138</location-long>
+      <location-lat>53.323303</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862105</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 23:18:00.000</timestamp>
+      <location-long>9.011105</location-long>
+      <location-lat>53.32328</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>0.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862104</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-18 23:49:00.000</timestamp>
+      <location-long>9.011127</location-long>
+      <location-lat>53.323273</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862103</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 00:20:00.000</timestamp>
+      <location-long>9.011127</location-long>
+      <location-lat>53.323277</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862102</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 00:50:00.000</timestamp>
+      <location-long>9.011102</location-long>
+      <location-lat>53.323273</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862101</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 01:21:00.000</timestamp>
+      <location-long>9.011124</location-long>
+      <location-lat>53.323277</location-lat>
+      <argos:altitude>-1.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862100</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 01:52:00.000</timestamp>
+      <location-long>9.011082</location-long>
+      <location-lat>53.323277</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862099</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 02:23:00.000</timestamp>
+      <location-long>9.011118</location-long>
+      <location-lat>53.323288</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862098</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 02:53:00.000</timestamp>
+      <location-long>9.011102</location-long>
+      <location-lat>53.323292</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1094862097</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 03:24:00.000</timestamp>
+      <location-long>9.011075</location-long>
+      <location-lat>53.32325</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958262</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 03:55:00.000</timestamp>
+      <location-long>9.01108</location-long>
+      <location-lat>53.323284</location-lat>
+      <argos:altitude>-1.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958261</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 04:26:00.000</timestamp>
+      <location-long>9.011086</location-long>
+      <location-lat>53.323288</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958260</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 04:56:00.000</timestamp>
+      <location-long>9.011082</location-long>
+      <location-lat>53.323277</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958259</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 05:27:00.000</timestamp>
+      <location-long>9.011068</location-long>
+      <location-lat>53.32328</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958258</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 05:58:00.000</timestamp>
+      <location-long>9.01106</location-long>
+      <location-lat>53.323261</location-lat>
+      <argos:altitude>-5.0</argos:altitude>
+      <gps:hdop>2.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958257</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 06:08:00.000</timestamp>
+      <location-long>9.011053</location-long>
+      <location-lat>53.323303</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958256</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 06:39:00.000</timestamp>
+      <location-long>9.011122</location-long>
+      <location-lat>53.322674</location-lat>
+      <argos:altitude>-4.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958255</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 07:40:00.000</timestamp>
+      <location-long>9.016767</location-long>
+      <location-lat>53.318645</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958254</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 08:11:00.000</timestamp>
+      <location-long>9.022893</location-long>
+      <location-lat>53.327065</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>3.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958253</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 08:41:00.000</timestamp>
+      <location-long>9.022695</location-long>
+      <location-lat>53.327133</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>4.1</gps:hdop>
+      <ground-speed>2.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958252</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 09:12:00.000</timestamp>
+      <location-long>9.022703</location-long>
+      <location-lat>53.327431</location-lat>
+      <argos:altitude>-1.0</argos:altitude>
+      <gps:hdop>2.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958251</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 09:43:00.000</timestamp>
+      <location-long>9.022627</location-long>
+      <location-lat>53.327381</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958250</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 10:14:00.000</timestamp>
+      <location-long>9.023002</location-long>
+      <location-lat>53.327072</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>2.7</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958249</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 10:44:00.000</timestamp>
+      <location-long>9.022928</location-long>
+      <location-lat>53.327465</location-lat>
+      <argos:altitude>-4.0</argos:altitude>
+      <gps:hdop>2.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958248</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 11:15:00.000</timestamp>
+      <location-long>9.022582</location-long>
+      <location-lat>53.327572</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958247</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 11:46:00.000</timestamp>
+      <location-long>9.022984</location-long>
+      <location-lat>53.328175</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>2.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958246</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 12:17:00.000</timestamp>
+      <location-long>9.022445</location-long>
+      <location-lat>53.327278</location-lat>
+      <argos:altitude>3.0</argos:altitude>
+      <gps:hdop>2.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958245</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 12:47:00.000</timestamp>
+      <location-long>9.022654</location-long>
+      <location-lat>53.32737</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958244</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 13:18:00.000</timestamp>
+      <location-long>9.022772</location-long>
+      <location-lat>53.327496</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958243</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 13:49:00.000</timestamp>
+      <location-long>9.02269</location-long>
+      <location-lat>53.327385</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958242</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 14:20:00.000</timestamp>
+      <location-long>9.022752</location-long>
+      <location-lat>53.327419</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958241</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 14:51:00.000</timestamp>
+      <location-long>9.02326</location-long>
+      <location-lat>53.327076</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958240</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 15:21:00.000</timestamp>
+      <location-long>9.022308</location-long>
+      <location-lat>53.327358</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958239</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 15:51:00.000</timestamp>
+      <location-long>9.022061</location-long>
+      <location-lat>53.327293</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958238</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 16:08:00.000</timestamp>
+      <location-long>9.011207</location-long>
+      <location-lat>53.323784</location-lat>
+      <argos:altitude>-1.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958237</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 16:39:00.000</timestamp>
+      <location-long>9.011806</location-long>
+      <location-lat>53.323372</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.6</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958236</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-19 17:10:00.000</timestamp>
+      <location-long>9.012415</location-long>
+      <location-lat>53.323547</location-lat>
+      <argos:altitude>-4.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958235</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-20 06:11:00.000</timestamp>
+      <location-long>9.01007</location-long>
+      <location-lat>53.322567</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958234</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-20 16:07:00.000</timestamp>
+      <location-long>9.057281</location-long>
+      <location-lat>53.366032</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958233</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-21 06:13:00.000</timestamp>
+      <location-long>9.05675</location-long>
+      <location-lat>53.36544</location-lat>
+      <argos:altitude>-13.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958232</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-21 16:05:00.000</timestamp>
+      <location-long>9.011766</location-long>
+      <location-lat>53.323212</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958231</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-22 06:14:00.000</timestamp>
+      <location-long>9.011835</location-long>
+      <location-lat>53.323753</location-lat>
+      <argos:altitude>-3.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958230</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-22 16:04:00.000</timestamp>
+      <location-long>9.112759</location-long>
+      <location-lat>53.348183</location-lat>
+      <argos:altitude>5.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958229</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-23 06:16:00.000</timestamp>
+      <location-long>9.113593</location-long>
+      <location-lat>53.348167</location-lat>
+      <argos:altitude>6.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958228</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-23 16:03:00.000</timestamp>
+      <location-long>9.11124</location-long>
+      <location-lat>53.349598</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>1.5</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958227</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-24 06:17:00.000</timestamp>
+      <location-long>9.112373</location-long>
+      <location-lat>53.349854</location-lat>
+      <argos:altitude>3.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958226</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-24 16:02:00.000</timestamp>
+      <location-long>9.109983</location-long>
+      <location-lat>53.371067</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.61</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958225</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-25 06:19:00.000</timestamp>
+      <location-long>9.109259</location-long>
+      <location-lat>53.370636</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958224</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-25 16:01:00.000</timestamp>
+      <location-long>9.11533</location-long>
+      <location-lat>53.376125</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958223</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-26 06:21:00.000</timestamp>
+      <location-long>9.11224</location-long>
+      <location-lat>53.372025</location-lat>
+      <argos:altitude>3.0</argos:altitude>
+      <gps:hdop>1.7</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.62</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958222</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-26 16:00:00.000</timestamp>
+      <location-long>9.358111</location-long>
+      <location-lat>53.385826</location-lat>
+      <argos:altitude>8.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958221</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-27 06:22:00.000</timestamp>
+      <location-long>9.375252</location-long>
+      <location-lat>53.402615</location-lat>
+      <argos:altitude>11.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958220</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-27 15:57:00.000</timestamp>
+      <location-long>9.110244</location-long>
+      <location-lat>53.370525</location-lat>
+      <argos:altitude>5.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958219</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-28 06:23:00.000</timestamp>
+      <location-long>9.107998</location-long>
+      <location-lat>53.370003</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958218</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-28 15:57:00.000</timestamp>
+      <location-long>9.113631</location-long>
+      <location-lat>53.349995</location-lat>
+      <argos:altitude>10.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958217</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-29 06:25:00.000</timestamp>
+      <location-long>9.113948</location-long>
+      <location-lat>53.348354</location-lat>
+      <argos:altitude>5.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958216</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-29 15:56:00.000</timestamp>
+      <location-long>9.109578</location-long>
+      <location-lat>53.363358</location-lat>
+      <argos:altitude>1.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958215</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-30 06:27:00.000</timestamp>
+      <location-long>9.108909</location-long>
+      <location-lat>53.348228</location-lat>
+      <argos:altitude>0.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958214</event-id>
+      <visible>true</visible>
+      <timestamp>2015-11-30 15:56:00.000</timestamp>
+      <location-long>9.113907</location-long>
+      <location-lat>53.350113</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958213</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-01 06:28:00.000</timestamp>
+      <location-long>9.113485</location-long>
+      <location-lat>53.350769</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>2.1</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958212</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-01 15:56:00.000</timestamp>
+      <location-long>9.143599</location-long>
+      <location-lat>53.367035</location-lat>
+      <argos:altitude>55.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>22.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958211</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-02 06:30:00.000</timestamp>
+      <location-long>9.109155</location-long>
+      <location-lat>53.349087</location-lat>
+      <argos:altitude>2.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958210</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-02 15:54:00.000</timestamp>
+      <location-long>9.109226</location-long>
+      <location-lat>53.348442</location-lat>
+      <argos:altitude>-2.0</argos:altitude>
+      <gps:hdop>3.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958209</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-03 06:31:00.000</timestamp>
+      <location-long>9.108603</location-long>
+      <location-lat>53.348408</location-lat>
+      <argos:altitude>3.0</argos:altitude>
+      <gps:hdop>1.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.63</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958208</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-03 15:54:00.000</timestamp>
+      <location-long>9.11793</location-long>
+      <location-lat>53.351601</location-lat>
+      <argos:altitude>8.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958207</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-04 06:32:00.000</timestamp>
+      <location-long>9.113624</location-long>
+      <location-lat>53.351353</location-lat>
+      <argos:altitude>5.0</argos:altitude>
+      <gps:hdop>1.1</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958206</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-04 15:53:00.000</timestamp>
+      <location-long>9.114525</location-long>
+      <location-lat>53.351372</location-lat>
+      <argos:altitude>5.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958205</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-05 06:34:00.000</timestamp>
+      <location-long>9.113956</location-long>
+      <location-lat>53.348362</location-lat>
+      <argos:altitude>4.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958204</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-05 15:53:00.000</timestamp>
+      <location-long>9.36096</location-long>
+      <location-lat>53.385536</location-lat>
+      <argos:altitude>10.0</argos:altitude>
+      <gps:hdop>1.0</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958203</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-06 06:35:00.000</timestamp>
+      <location-long>9.325153</location-long>
+      <location-lat>53.376366</location-lat>
+      <argos:altitude>13.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958202</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-06 15:51:00.000</timestamp>
+      <location-long>9.569928</location-long>
+      <location-lat>53.259403</location-lat>
+      <argos:altitude>28.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958201</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-07 06:36:00.000</timestamp>
+      <location-long>9.569118</location-long>
+      <location-lat>53.260033</location-lat>
+      <argos:altitude>24.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958200</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-07 15:51:00.000</timestamp>
+      <location-long>9.570416</location-long>
+      <location-lat>53.259651</location-lat>
+      <argos:altitude>27.0</argos:altitude>
+      <gps:hdop>1.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958199</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-08 06:35:00.000</timestamp>
+      <location-long>9.570113</location-long>
+      <location-lat>53.260288</location-lat>
+      <argos:altitude>26.0</argos:altitude>
+      <gps:hdop>0.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958198</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-08 15:50:00.000</timestamp>
+      <location-long>9.570363</location-long>
+      <location-lat>53.25985</location-lat>
+      <argos:altitude>28.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958197</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-09 06:36:00.000</timestamp>
+      <location-long>9.570267</location-long>
+      <location-lat>53.260052</location-lat>
+      <argos:altitude>29.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958196</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-09 15:50:00.000</timestamp>
+      <location-long>9.570162</location-long>
+      <location-lat>53.259071</location-lat>
+      <argos:altitude>24.0</argos:altitude>
+      <gps:hdop>1.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958195</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 06:38:00.000</timestamp>
+      <location-long>9.570068</location-long>
+      <location-lat>53.259296</location-lat>
+      <argos:altitude>29.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.64</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958194</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 11:41:00.000</timestamp>
+      <location-long>9.623796</location-long>
+      <location-lat>53.279766</location-lat>
+      <argos:altitude>34.0</argos:altitude>
+      <gps:hdop>0.9</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958193</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 12:12:00.000</timestamp>
+      <location-long>9.637121</location-long>
+      <location-lat>53.272266</location-lat>
+      <argos:altitude>36.0</argos:altitude>
+      <gps:hdop>1.3</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.66</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958192</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 12:43:00.000</timestamp>
+      <location-long>9.637557</location-long>
+      <location-lat>53.272507</location-lat>
+      <argos:altitude>35.0</argos:altitude>
+      <gps:hdop>2.3</gps:hdop>
+      <ground-speed>1.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958191</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 13:13:00.000</timestamp>
+      <location-long>9.636033</location-long>
+      <location-lat>53.272831</location-lat>
+      <argos:altitude>31.0</argos:altitude>
+      <gps:hdop>2.2</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958190</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 13:44:00.000</timestamp>
+      <location-long>9.635656</location-long>
+      <location-lat>53.272591</location-lat>
+      <argos:altitude>28.0</argos:altitude>
+      <gps:hdop>2.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.66</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958189</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 14:14:00.000</timestamp>
+      <location-long>9.638817</location-long>
+      <location-lat>53.296185</location-lat>
+      <argos:altitude>34.0</argos:altitude>
+      <gps:hdop>1.4</gps:hdop>
+      <ground-speed>2.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+   <Event>
+      <event-id>1119958188</event-id>
+      <visible>true</visible>
+      <timestamp>2015-12-10 14:45:00.000</timestamp>
+      <location-long>9.63322</location-long>
+      <location-lat>53.296234</location-lat>
+      <argos:altitude>35.0</argos:altitude>
+      <gps:hdop>3.8</gps:hdop>
+      <ground-speed>0.0</ground-speed>
+      <heading></heading>
+      <tag-tech-spec>3</tag-tech-spec>
+      <tag-voltage>3.65</tag-voltage>
+      <sensor-type>gps</sensor-type>
+      <individual-taxon-canonical-name>Grus grus</individual-taxon-canonical-name>
+      <tag-local-identifier>7558</tag-local-identifier>
+      <individual-local-identifier>7558</individual-local-identifier>
+      <study-name>GPS telemetry of Common Cranes, Sweden</study-name>
+   </Event>
+</CraneData>

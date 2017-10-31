@@ -1,0 +1,38 @@
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid  #17202a;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color:  #d5f5e3;
+}
+</style>
+</head>
+<body>
+<h1>Blast results plants vs human</h1>
+<table>
+    <tr>
+     <th>query</th>
+     <th>target</th>
+     <th>E-value</th>
+     <th>Description of query</th>
+    </tr>
+    {% for row in rows %}
+      <tr>
+      {% for cell in row%}
+      <td>{{ cell }}</td>
+      {% endfor %}
+      </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
+
