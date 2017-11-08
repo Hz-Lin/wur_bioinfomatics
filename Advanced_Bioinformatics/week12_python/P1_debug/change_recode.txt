@@ -1,0 +1,34 @@
+6a7
+> DeBugged by: Huizhi Lin (88112518130)
+20c21
+<         if not line.stripit():
+---
+>         if not line.strip():
+23c24
+<             label = line.strip()[1:]
+---
+>             label = line.strip('\n')[1:]
+26c27
+<             seqs[label] += line.strip()[1:]
+---
+>             seqs[label] += line.strip('\n')[0:]
+40c41
+<     for label, seq in seqs.items()
+---
+>     for label, seq in seqs.items():
+45c46
+<         for i in range(len(seq)-kmer_size):
+---
+>         for i in range(len(seq)-kmer_size+1):
+74c75
+<         print(k, v)
+---
+>             print(k, v)
+85c86
+<     cmd = 'jellyphish count -m {} -s 1000000 -o {} {}'\
+---
+>     cmd = 'jellyfish count -m {} -s 1000000 -o {} {}'\
+102c103
+<     kmers = extract_kmers(dna_seqs, skip_unknown=True, k=14)
+---
+>     kmers = extract_kmers(dna_seqs, skip_unknown=True, k=15)
