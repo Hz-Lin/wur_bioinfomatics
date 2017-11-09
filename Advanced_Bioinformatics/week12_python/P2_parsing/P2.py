@@ -11,11 +11,12 @@ test = True
 
 # Parse the file
 # Read the  GenBank file
-infile_name = 'argonaut.gb'
-infile = open(infile_name,'r')
+infile = open('argonaut.gb','r')
 # Creat a list of asccession numbers and another list of organism names
 list_accession = []
 list_organism = []
+list_sequence = []
+begin = False
 for line in infile:
     line = line.strip()
     if line.startswith('ACCESSION'):
@@ -24,21 +25,7 @@ for line in infile:
     elif line.startswith('ORGANISM'):
         organism = line.split('  ')[1]
         list_organism.append(organism)
-if test==True:
-    print(list_accession)
-    print(len(list_accession))
-    print(list_organism)
-    print(len(list_organism))
-
-# Read the  GenBank file
-infile_name = 'argonaut.gb'
-infile = open(infile_name,'r')
-# Creat a list of sequences
-list_sequence = []
-begin = False
-for line in infile:
-    line = line.strip()
-    if line.startswith('ORIGIN'):
+    elif line.startswith('ORIGIN'):
         seq = ''
         begin = True
     elif line.startswith('//'):
@@ -51,14 +38,19 @@ for line in infile:
 if test==True:
     print(list_sequence)
     print(len(list_sequence))
-        
+    print(list_accession)
+    print(len(list_accession))
+    print(list_organism)
+    print(len(list_organism))
+       
 # Close the file
 infile.close()
 
-
-
 # Creat a function to calculate the GC content
 def cal_gc(seq):
+    '''return the GC content percentage of a DNA sequence
+        seq: string, DNA sequence
+    '''
     gc_num = seq.count('g') + seq.count('c')
     gc_percentage = gc_num/len(seq)
     return(gc_percentage)
