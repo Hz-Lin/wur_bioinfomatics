@@ -27,6 +27,7 @@ outfile = open('result_p3.txt','w')
 # Creat a function to parsing the input file
 def parsing(infile):
     '''return a dictionary with seq_number as key, seq and quality seq as values
+        
         infile_name:object, the input file
     ''' 
     dic = {}
@@ -46,6 +47,7 @@ def parsing(infile):
 # Create a list contain all the sequence
 def seq_list(dic):
     '''return a list of all the sequences
+        
         dic: dictionary, dictionary created from the function parsing
     '''
     seq_list = []
@@ -57,6 +59,7 @@ def seq_list(dic):
 # Create a list contain all the quality lines
 def quality_list(dic):
     '''return a list of all the quality lines
+        
         dic: dictionary, dictionary created from the function parsing
     '''
     quality_list = []
@@ -68,6 +71,7 @@ def quality_list(dic):
 # create a function to calulate the longest, shortest and averate seqence length
 def cal_len (seq_list):
     '''return a string of longest, shortest and averate seqence length
+        
         seq_list: a list or sequences
     '''
     len_total = 0
@@ -86,6 +90,7 @@ def cal_len (seq_list):
 # Create a function to create a nested list of all sequence's quality
 def nest_quality(quality_list):
     '''return a list with quality_value_list nested in
+        
         quality_list: list, created by quality_list() function
     '''
     list_quality = []
@@ -100,6 +105,7 @@ def nest_quality(quality_list):
 # Create a function to calulate the average quality score at each position
 def avg_quality(list_quality):
     '''return a list of qulaity values corresponding to the position
+        
         list_quality: list, with quality_value_list nested in
     '''
     # calculate the longest seq
