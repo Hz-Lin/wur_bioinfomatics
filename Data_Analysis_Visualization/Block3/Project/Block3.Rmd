@@ -5,45 +5,47 @@ date: "November 14, 2017"
 output: word_document
 ---
 
-First, we read the data.
+In this report we apply hierarchical clustering, and apply K-means clustering to the dataset containing skin tissue. This data contains samples derived from normal and tumour samples. Clustering is preformed separately for the genes and the samples. The genes are clustered based on their expression in different samples and the samples are clustered based on the expression levels of the genes.
+
+To start with we read in the data in two variables, one for the original data and one for the transposed version.
 ```{r read data}
 skin.df <- read.table('get_normal_vs_tumor2_RAW_Skin.out',sep=' ',header=TRUE,stringsAsFactors=FALSE)
-```
-Then we created the transposed dataset for further analsys.
-```{r transpose data}
+# transpose data
 skin.tdf <- data.frame(t(skin.df[,-2562]))
 colnames(skin.tdf)<-paste0(skin.df$tissue,1:72)
 ```
 
 ## Task 1: Clustering the genes
 
-We used the tranposed data frame
 ### K-means clustering
-First we tried k-mean clustering with k=2
+We used the transposed data frame for K-means clustering of the genes. First we tried k-means clustering with k=2. For nstart we chose the value 20, this means that of 20 attempts to create 2 clusters the best attempt is shown.
 ```{r k-means on genes k2}
 dim(skin.tdf)
 km.gene <- kmeans(skin.tdf,2,nstart=20)
 ```
-Then we used Elbow Method to check the opimal k value.
+
+Then we used Elbow Method to check the optimal k value. This method visualises when a clustering attempt does not get any “better” by a flattening of a curve.
 ```{r elbow method}
 set.seed(6)
 wcss <- vector()
 for (i in 1:20) wcss[i] <- sum(kmeans(skin.tdf,i)$withinss)
 plot(1:20,wcss,type='b')
 ```
+
 Based on this plot, we chose k=8 as the optimal k value. Bucasue after 8 there is no siginificant improment on the clustering. Then we proformed k-mean clustering again with k=8.
 ```{r k-means on genes k8}
 km.gene8 <- kmeans(skin.tdf,8,nstart=20)
 ```
-We also compared the total withinss value between these two k-mean clustering results.
+
+In order to check whether this elbow method actually delivered on it’s promises we compared the total value between of the k=2 attempt to the k=8 attempt.
 ```{r k-means total withinss}
 km.gene$tot.withinss
 km.gene8$tot.withinss
 ```
-Base on there two numbers, we conclude that 8 clusters method is better than the 2 clusters method.
+Km.gene8 gives a far smaller number for tot.withinss. the value for tot.withinss is the sum of the within-cluster sum of squares for each cluster and can therefore be used to assess how good the clustering result is. Based on these two numbers, we conclude that 8 clusters method is far better than the 2 clusters method.
 
 ### hierarchical clustering
-First, we perfrm hierachical clustering of the genes based on Euclidean distance. We tried both complete and average linkage.
+For hierarchical clustering on the genes, using the Euclidian distanc, there are two ways work with this distance. This first block of code shows how we preformed hierarchicalclustering using complete and average linkage. This block contains the code for the first plot too.
 ```{r hc genes Euclidean}
 # use complete linkage
 hc.gene.com <- hclust(dist(skin.tdf),method="complete")
@@ -54,7 +56,7 @@ plot(hc.gene.com,main="complete linkage",xlab='',ylab='',cex=.9)
 plot(hc.gene.avg,main="average linkage",xlab='',ylab='',cex=.9)
 ```
 
-Base on the denrograms, Euclidean distance ma not be suitable here. Therefore, we used a correlation based distance for hc clustering. And this time, we also used both omplete and average linkage.
+Base on the denrograms we conduced that Euclidean distance might not be suitable here. Both plots show one odd duckling (GAPDH) and the rest of the genes seem to be clustered rather peculiarly together. Therefore we decided to try using a correlation based distance for hc clustering. This time, like we did before, we used both complete and average linkage.
 ```{r hc genes correlation}
 # calculate the correlation based distance
 skin.tdf.cordist <- as.dist(1-cor(skin.df[,1:2561]))
@@ -66,17 +68,15 @@ hccor.gene.avg <- hclust(skin.tdf.cordist,method="average")
 plot(hccor.gene.com,main="complete linkage",xlab='',ylab='',cex=.9)
 plot(hccor.gene.avg,main="average linkage",xlab='',ylab='',cex=.9)
 ```
-When clustering genes, test using different definitions of distance. What do you observe?
-There are big differences in results from using different definitions of distance. Based on the denrograms we got, we concluded that using complete linkage is more suitable here. Because by using complete linage, there are less variances (differences) within the same cluster group.
 
-Therefore we used correlation based distance with the complete linkage for futher analsys.
-We deciede to cut the tree into 5 clusters.
+There are big differences in results from using different definitions of distance. Based on the denrograms we got, we concluded that using complete linkage is more suitable here. It prevents outliers from getting their own cluster and improves the overall readability of the dendrogram. This is because by using complete linage, there are less variances (differences) within the same cluster group.
+Therefore we used correlation based distance with complete linkage for further analysis. When looking at the plot we decided to cut the tree into 5 clusters, this is shown in the block of code below
 ```{r cut tree genes}
 hc.gene=cutree(hccor.gene.com,5)
 table(hc.gene)
 ```
 
-Visualize the gene expression levels in the different samples from genes in at least two clusters. Use a visualization that enables to compare the similarity between expression levels of genes that are clustered together. Comment on what you observe.
+In order to visualise the difference in gene expression between the 5 clusters we produced heatmaps. First we visualise the clusters we used by drawing a line in the plot where we cut the dendrogram. We create 3 heatmaps that can be compared with each other for difference in expression. This correlation of expression within clusters and the difference in expression between clusters is the reason the genes were assigned to different clusters. The last two heatmaps were not produced to increase the readability of this document.
 ```{r Visualize gene expression}
 hcld.hccor <- as.dendrogram(hccor.gene.com)
 plot(hcld.hccor, cex=.3)
@@ -92,14 +92,13 @@ heatmap(hc2,Rowv=NA,Colv=NA,scale='none',col=heat.colors(256),margins=c(5,10))
 hc3 <- data.matrix(skin.tdf[unlist(cuthcd$lower[[3]]),])
 heatmap(hc3,Rowv=NA,Colv=NA,scale='none',col=heat.colors(256),margins=c(5,10))
 ```
+Here we see recurrent patterns for lower gene expression represented by the yellow lines. Because of this patters it is clear why these genes were clustered together.
 
 ## Task 2: Clustering the samples
-
-We used the skin.df data frame for this task.
+We used the skin.df data frame to complete this task.
 
 ### K-means clustering
-
-First, we used k-means clustering to seperated smaples into two clusters.
+First, we used k-means clustering to separate the samples into two clusters.
 ```{r k-means samples k2}
 dim(skin.df)
 #create a data frame without the labels
@@ -108,14 +107,16 @@ km.sample <- kmeans(skin.df.nolab,2,nstart=20)
 km.sample$cluster
 table(km.sample$cluster)
 ```
-Then we used the Elbow Method to detecte the optimal k value
+
+The fact that the data is derived for two groups of tissue samples led us to believe that choosing k=2 would probably be the best choice. We used the Elbow Method to detected if this was true, and if not what the actual optimal k value would be.
 ```{r elbow method on samples}
 set.seed(6)
 wcss <- vector()
 for (i in 1:10) wcss[i] <- sum(kmeans(skin.df.nolab,i)$withinss)
 plot(1:10,wcss,type='b')
 ```
-As the plot shows, the optimal k value is around 6. Then we preformed the k-means clustering again with k=6. And we also compared the results form clustering with k=6 to clustering with k=2.
+A
+s the plot shows, the optimal k value is around 6. Then we preformed the k-means clustering again with k=6. And we also compared the results form clustering with k=6 to clustering with k=2.
 ```{r k-means on samples k6}
 km.sample6 <- kmeans(skin.df.nolab,6,nstart=20)
 km.sample6$cluster
@@ -124,13 +125,15 @@ km.sample$tot.withinss
 km.sample6$tot.withinss
 table(km.sample$cluster,km.sample6$cluster)
 ```
-As the table shows, with 2 clusters, the smaller cluster (with 9 samples) stayed the same in 6 clusters. The bigger cluster was futher being divided into 4 sub clusters.
-Then we compare clustering results obtained with different approaches with the known labels.
+
+As the plot shows, the optimal k value is around 6. Then we preformed the k-means clustering again with k=6. We compared the results form clustering with k=6 to clustering with k=2 by calculating the tot.withinss value.
 ```{r k2 and k6 compare to real label}
 table(km.sample$cluster,skin.df$tissue)
 table(km.sample6$cluster,skin.df$tissue)
 ```
-We also tried to cluster the samples into 3 clusters, which result into 1 cluster contain only tumor samples, and other 2 cluster contain only normal samples.
+As the table shows, when comparing the two clustering methods, the smaller cluster (with 9 samples) stayed the same when changing k=2 to k=6. The bigger cluster was further divided into 4 sub clusters. Then we compared the clustering results obtained with the code above to each other whilst their original labels were assigned to them.
+
+When trying to cluster the samples into 3 clusters one cluster would contain all the tumour samples whilst the two other clusters hold all the normal samples. This could indicate that the normal group is divided in sub clusters.
 ```{r k-means on samples k3}
 km.sample3 <- kmeans(skin.df.nolab,3,nstart=20)
 km.sample3$cluster
@@ -140,8 +143,7 @@ table(km.sample3$cluster,skin.df$tissue)
 ```
 
 ### hierarchical clustering
-
-First, we perfrm hierachical clustering of the samples based on Euclidean distance. We tried both complete and average linkage.
+First we performed hierarchical clustering of the samples based on Euclidean distance. We tried both complete and average linkage.
 ```{r hc samples Euclidean}
 # use complete linkage
 hce.sample.com <- hclust(dist(skin.df.nolab),method="complete")
@@ -165,8 +167,7 @@ plot(hccor.sample.com,main="complete linkage",xlab='',ylab='',cex=.9)
 plot(hccor.sample.avg,main="average linkage",xlab='',ylab='',cex=.9)
 ```
 
-There are differences in results from using different definitions of distance. However it is difficult to concluded which method is more suitable here. Therefore, we cut all 4 trees and compare the results to the know label.
-
+There are definitely differences in results from using different definitions of distance and different linkages. Based on these dendrograms it is difficult to concluded whether Euclidean distance is superior to correlation based distance. The superiority of either complete or average linkage is equally hard to determine. To make this a bit easier we cut all 4 trees and compare the results in the following tables.
 ```{r cut tree samples}
 # Euclidean distance, complete linkage
 euc.com=cutree(hce.sample.com,5)
@@ -182,5 +183,5 @@ cor.avg=cutree(hccor.sample.avg,4)
 table(cor.avg,skin.df$tissue)
 ```
 
-When clustering samples, compare clustering results obtained with different approaches with the known labels for these samples. What do you learn from this?
-Can you say something on how many clusters there are in this dataset?
+When comparing the two tables based on the Euclidian distance derived data it is hard to determine which one is better. The main difference is that when using different complete linkage the normal samples are divided into three clusters whilst using average linkage there are two clusters. This difference is not there because a smaller amount of clusters were chosen to create this table, this is visible through the difference in cluster size, amongst the two different linkage methods they don’t match.
+For using the correlation based distance derived data we are of the opinion that average linkage is the better option. This is the case because a few normal samples seem to be added to clusters that otherwise only contain tumour samples. When you look at the second row of the third table you’ll see that there is one cluster that contains 22 tumour samples and two normal samples.
