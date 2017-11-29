@@ -1,0 +1,1961 @@
+EC number	KEGG pathway(s)
+1.1.1.1	"Glycolysis / Gluconeogenesis; Fatty acid degradation; Glycine, serine and threonine metabolism; Tyrosine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.2	Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.27	Glycolysis / Gluconeogenesis; Cysteine and methionine metabolism; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.2.7	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.2.8	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.-	"Glycolysis / Gluconeogenesis; Arginine biosynthesis; Glycine, serine and threonine metabolism; Lysine biosynthesis; Arginine and proline metabolism; Tryptophan metabolism; Pyruvate metabolism"
+1.2.1.12	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.3	"Glycolysis / Gluconeogenesis; Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Fatty acid degradation; Valine, leucine and isoleucine degradation; Lysine degradation; Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.2.1.5	Glycolysis / Gluconeogenesis; Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Biosynthesis of secondary metabolites
+1.2.1.59	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.9	Glycolysis / Gluconeogenesis; Pentose phosphate pathway
+1.2.1.90	Glycolysis / Gluconeogenesis; Pentose phosphate pathway
+1.2.4.1	Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.7.1	Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Pyruvate metabolism
+1.2.7.6	Glycolysis / Gluconeogenesis
+1.8.1.4	"Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Glycine, serine and threonine metabolism; Valine, leucine and isoleucine degradation; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.1.12	Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.1	Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Galactose metabolism; Starch and sucrose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.11	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.146	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.147	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.2	Glycolysis / Gluconeogenesis; Galactose metabolism; Starch and sucrose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.40	Glycolysis / Gluconeogenesis; Purine metabolism; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.41	Glycolysis / Gluconeogenesis; Starch and sucrose metabolism
+2.7.1.63	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.69	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Galactose metabolism; Ascorbate and aldarate metabolism; Starch and sucrose metabolism
+2.7.2.3	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.3.10	Glycolysis / Gluconeogenesis
+3.1.3.11	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.3.13	Glycolysis / Gluconeogenesis
+3.1.3.80	Glycolysis / Gluconeogenesis
+3.1.3.9	Glycolysis / Gluconeogenesis; Galactose metabolism; Starch and sucrose metabolism
+3.2.1.86	Glycolysis / Gluconeogenesis
+4.1.1.1	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.1.32	Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.1.49	Glycolysis / Gluconeogenesis; Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.2.13	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Fructose and mannose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.1.11	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.1.3.15	Glycolysis / Gluconeogenesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.1.3.3	Glycolysis / Gluconeogenesis; Galactose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.3.1.1	Glycolysis / Gluconeogenesis; Fructose and mannose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.3.1.9	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Starch and sucrose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.2.11	"Glycolysis / Gluconeogenesis; Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+5.4.2.12	"Glycolysis / Gluconeogenesis; Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+5.4.2.2	Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Galactose metabolism; Purine metabolism; Starch and sucrose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.2.4	Glycolysis / Gluconeogenesis
+6.2.1.1	Glycolysis / Gluconeogenesis; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.2.1.13	Glycolysis / Gluconeogenesis; Pyruvate metabolism
+1.1.1.286	Citrate cycle (TCA cycle); Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.37	Citrate cycle (TCA cycle); Cysteine and methionine metabolism; Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.41	Citrate cycle (TCA cycle); Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.42	Citrate cycle (TCA cycle); Glutathione metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.5.4	Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.4.2	Citrate cycle (TCA cycle); Lysine degradation; Tryptophan metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.7.3	Citrate cycle (TCA cycle)
+1.3.5.1	Citrate cycle (TCA cycle); Oxidative phosphorylation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.3.5.4	Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.1.61	Citrate cycle (TCA cycle); Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.3.1	Citrate cycle (TCA cycle); Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.3.8	Citrate cycle (TCA cycle); Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.8.3.18	Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.1.2	Citrate cycle (TCA cycle); Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.1.3	Citrate cycle (TCA cycle); Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.2.1.4	Citrate cycle (TCA cycle); Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.2.1.5	Citrate cycle (TCA cycle); Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.4.1.1	Citrate cycle (TCA cycle); Pyruvate metabolism
+1.1.1.215	Pentose phosphate pathway
+1.1.1.343	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.359	Pentose phosphate pathway; Galactose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.360	Pentose phosphate pathway; Galactose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.363	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.388	Pentose phosphate pathway
+1.1.1.43	Pentose phosphate pathway; Glutathione metabolism
+1.1.1.44	Pentose phosphate pathway; Glutathione metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.47	Pentose phosphate pathway
+1.1.1.49	Pentose phosphate pathway; Glutathione metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.3.4	Pentose phosphate pathway
+1.1.3.5	Pentose phosphate pathway
+1.1.5.2	Pentose phosphate pathway
+1.1.5.9	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.99.3	Pentose phosphate pathway
+1.2.1.89	Pentose phosphate pathway
+1.2.7.5	Pentose phosphate pathway
+1.2.99.8	Pentose phosphate pathway
+2.2.1.1	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.2.1.2	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.12	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.13	Pentose phosphate pathway
+2.7.1.15	Pentose phosphate pathway
+2.7.1.165	"Pentose phosphate pathway; Glycine, serine and threonine metabolism"
+2.7.1.178	Pentose phosphate pathway; Galactose metabolism
+2.7.1.45	Pentose phosphate pathway
+2.7.4.23	Pentose phosphate pathway
+2.7.6.1	Pentose phosphate pathway; Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.1.17	Pentose phosphate pathway; Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.1.31	Pentose phosphate pathway; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.2.14	Pentose phosphate pathway
+4.1.2.4	Pentose phosphate pathway
+4.1.2.43	Pentose phosphate pathway
+4.1.2.51	Pentose phosphate pathway; Galactose metabolism
+4.1.2.55	Pentose phosphate pathway; Galactose metabolism
+4.1.2.9	Pentose phosphate pathway
+4.2.1.12	Pentose phosphate pathway
+4.2.1.140	Pentose phosphate pathway; Galactose metabolism
+4.2.1.39	Pentose phosphate pathway
+4.3.1.29	Pentose phosphate pathway
+4.3.1.9	Pentose phosphate pathway
+5.1.3.1	Pentose phosphate pathway; Pentose and glucuronate interconversions; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.3.1.27	Pentose phosphate pathway
+5.3.1.6	Pentose phosphate pathway; Fructose and mannose metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.2.7	Pentose phosphate pathway; Purine metabolism
+1.1.1.-	"Pentose and glucuronate interconversions; Fructose and mannose metabolism; Pyrimidine metabolism; Tetracycline biosynthesis; Phenylalanine, tyrosine and tryptophan biosynthesis"
+1.1.1.10	Pentose and glucuronate interconversions
+1.1.1.11	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+1.1.1.12	Pentose and glucuronate interconversions
+1.1.1.125	Pentose and glucuronate interconversions
+1.1.1.127	Pentose and glucuronate interconversions
+1.1.1.13	Pentose and glucuronate interconversions
+1.1.1.130	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+1.1.1.137	Pentose and glucuronate interconversions
+1.1.1.14	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+1.1.1.15	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+1.1.1.175	Pentose and glucuronate interconversions
+1.1.1.179	Pentose and glucuronate interconversions
+1.1.1.19	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+1.1.1.21	Pentose and glucuronate interconversions; Fructose and mannose metabolism; Galactose metabolism
+1.1.1.22	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism
+1.1.1.250	Pentose and glucuronate interconversions
+1.1.1.287	Pentose and glucuronate interconversions
+1.1.1.307	Pentose and glucuronate interconversions
+1.1.1.365	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+1.1.1.372	Pentose and glucuronate interconversions
+1.1.1.380	Pentose and glucuronate interconversions
+1.1.1.45	Pentose and glucuronate interconversions
+1.1.1.56	Pentose and glucuronate interconversions
+1.1.1.57	Pentose and glucuronate interconversions
+1.1.1.58	Pentose and glucuronate interconversions
+1.1.1.9	Pentose and glucuronate interconversions
+1.1.2.2	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+2.4.1.17	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism; Starch and sucrose metabolism
+2.7.1.16	Pentose and glucuronate interconversions
+2.7.1.17	Pentose and glucuronate interconversions
+2.7.1.43	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+2.7.1.47	Pentose and glucuronate interconversions
+2.7.1.5	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+2.7.1.53	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+2.7.7.40	Pentose and glucuronate interconversions
+2.7.7.44	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+2.7.7.64	Pentose and glucuronate interconversions; Galactose metabolism; Ascorbate and aldarate metabolism; Biosynthesis of antibiotics
+2.7.7.9	Pentose and glucuronate interconversions; Galactose metabolism; Starch and sucrose metabolism; Biosynthesis of antibiotics
+3.1.1.11	Pentose and glucuronate interconversions; Starch and sucrose metabolism
+3.1.1.68	Pentose and glucuronate interconversions
+3.2.1.15	Pentose and glucuronate interconversions; Starch and sucrose metabolism
+3.2.1.31	Pentose and glucuronate interconversions; Starch and sucrose metabolism
+3.2.1.67	Pentose and glucuronate interconversions; Starch and sucrose metabolism
+4.1.1.34	Pentose and glucuronate interconversions
+4.1.1.85	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+4.1.2.19	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+4.1.2.28	Pentose and glucuronate interconversions
+4.1.2.54	Pentose and glucuronate interconversions
+4.2.1.141	Pentose and glucuronate interconversions
+4.2.1.146	Pentose and glucuronate interconversions
+4.2.1.7	Pentose and glucuronate interconversions
+4.2.1.8	Pentose and glucuronate interconversions
+4.2.1.82	Pentose and glucuronate interconversions
+4.2.2.2	Pentose and glucuronate interconversions
+4.2.2.6	Pentose and glucuronate interconversions
+4.2.2.9	Pentose and glucuronate interconversions
+5.-.-.-	Pentose and glucuronate interconversions; Steroid biosynthesis
+5.1.3.4	Pentose and glucuronate interconversions; Ascorbate and aldarate metabolism
+5.3.1.-	Pentose and glucuronate interconversions; Galactose metabolism
+5.3.1.12	Pentose and glucuronate interconversions
+5.3.1.15	Pentose and glucuronate interconversions
+5.3.1.17	Pentose and glucuronate interconversions
+5.3.1.4	Pentose and glucuronate interconversions
+5.3.1.5	Pentose and glucuronate interconversions; Fructose and mannose metabolism
+1.1.1.122	Fructose and mannose metabolism; Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+1.1.1.132	Fructose and mannose metabolism
+1.1.1.135	Fructose and mannose metabolism
+1.1.1.138	Fructose and mannose metabolism
+1.1.1.140	Fructose and mannose metabolism
+1.1.1.17	Fructose and mannose metabolism
+1.1.1.173	Fructose and mannose metabolism
+1.1.1.187	Fructose and mannose metabolism
+1.1.1.271	Fructose and mannose metabolism
+1.1.1.281	Fructose and mannose metabolism
+1.1.1.289	Fructose and mannose metabolism
+1.1.1.377	Fructose and mannose metabolism
+1.1.1.378	Fructose and mannose metabolism
+1.1.1.67	Fructose and mannose metabolism
+1.1.99.21	Fructose and mannose metabolism
+2.4.1.-	Fructose and mannose metabolism
+2.4.1.217	Fructose and mannose metabolism
+2.4.1.269	Fructose and mannose metabolism
+2.4.1.33	Fructose and mannose metabolism
+2.7.1.105	Fructose and mannose metabolism
+2.7.1.28	Fructose and mannose metabolism
+2.7.1.3	Fructose and mannose metabolism
+2.7.1.4	Fructose and mannose metabolism; Starch and sucrose metabolism
+2.7.1.51	Fructose and mannose metabolism
+2.7.1.52	Fructose and mannose metabolism
+2.7.1.55	Fructose and mannose metabolism
+2.7.1.56	Fructose and mannose metabolism
+2.7.1.7	Fructose and mannose metabolism
+2.7.1.90	Fructose and mannose metabolism
+2.7.7.13	Fructose and mannose metabolism; Biosynthesis of secondary metabolites
+2.7.7.22	Fructose and mannose metabolism
+2.7.7.30	Fructose and mannose metabolism
+3.1.1.-	Fructose and mannose metabolism; Ascorbate and aldarate metabolism; Terpenoid backbone biosynthesis
+3.1.1.65	Fructose and mannose metabolism
+3.1.3.-	Fructose and mannose metabolism
+3.1.3.22	Fructose and mannose metabolism
+3.1.3.46	Fructose and mannose metabolism
+3.1.3.54	Fructose and mannose metabolism
+3.1.3.70	Fructose and mannose metabolism
+3.2.1.137	Fructose and mannose metabolism
+3.2.1.77	Fructose and mannose metabolism
+3.2.1.78	Fructose and mannose metabolism
+3.2.1.80	Fructose and mannose metabolism
+3.6.1.21	Fructose and mannose metabolism; Purine metabolism; Starch and sucrose metabolism
+3.7.1.-	Fructose and mannose metabolism
+4.1.2.17	Fructose and mannose metabolism
+4.1.2.53	Fructose and mannose metabolism
+4.2.1.47	Fructose and mannose metabolism
+4.2.1.68	Fructose and mannose metabolism
+4.2.1.90	Fructose and mannose metabolism
+4.2.2.11	Fructose and mannose metabolism
+4.2.2.3	Fructose and mannose metabolism
+5.1.3.-	Fructose and mannose metabolism
+5.3.1.14	Fructose and mannose metabolism
+5.3.1.25	Fructose and mannose metabolism
+5.3.1.7	Fructose and mannose metabolism
+5.3.1.8	Fructose and mannose metabolism; Biosynthesis of secondary metabolites
+5.4.2.8	Fructose and mannose metabolism; Biosynthesis of secondary metabolites
+1.1.1.120	Galactose metabolism
+1.1.1.16	Galactose metabolism
+1.1.1.251	Galactose metabolism
+1.1.1.48	Galactose metabolism
+1.1.3.9	Galactose metabolism
+2.4.1.123	Galactose metabolism
+2.4.1.22	Galactose metabolism
+2.4.1.67	Galactose metabolism
+2.4.1.82	Galactose metabolism
+2.7.1.101	Galactose metabolism
+2.7.1.144	Galactose metabolism
+2.7.1.58	Galactose metabolism
+2.7.1.6	Galactose metabolism
+2.7.7.10	Galactose metabolism
+2.7.7.12	Galactose metabolism
+3.1.1.25	Galactose metabolism; Ascorbate and aldarate metabolism
+3.2.1.10	Galactose metabolism; Starch and sucrose metabolism
+3.2.1.108	Galactose metabolism
+3.2.1.20	Galactose metabolism; Starch and sucrose metabolism
+3.2.1.22	Galactose metabolism
+3.2.1.23	Galactose metabolism
+3.2.1.26	Galactose metabolism; Starch and sucrose metabolism
+3.2.1.85	Galactose metabolism
+3.5.1.25	Galactose metabolism; Biosynthesis of antibiotics
+4.1.2.21	Galactose metabolism
+4.1.2.40	Galactose metabolism
+4.2.1.6	Galactose metabolism
+5.1.3.2	Galactose metabolism
+5.3.1.26	Galactose metabolism
+5.4.99.9	Galactose metabolism
+1.1.1.129	Ascorbate and aldarate metabolism
+1.1.1.20	Ascorbate and aldarate metabolism
+1.1.1.203	Ascorbate and aldarate metabolism
+1.1.1.316	Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+1.1.1.376	Ascorbate and aldarate metabolism
+1.1.1.46	Ascorbate and aldarate metabolism
+1.1.3.8	Ascorbate and aldarate metabolism
+1.10.3.3	Ascorbate and aldarate metabolism
+1.11.1.11	Ascorbate and aldarate metabolism; Glutathione metabolism
+1.13.99.1	Ascorbate and aldarate metabolism
+1.14.-.-	Ascorbate and aldarate metabolism; Steroid biosynthesis; Ubiquinone and other terpenoid-quinone biosynthesis; Tetracycline biosynthesis; Tryptophan metabolism
+1.2.1.26	Ascorbate and aldarate metabolism
+1.3.2.3	Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+1.3.3.12	Ascorbate and aldarate metabolism
+1.6.5.4	Ascorbate and aldarate metabolism
+1.8.5.1	Ascorbate and aldarate metabolism; Glutathione metabolism
+2.7.7.69	Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+3.1.1.15	Ascorbate and aldarate metabolism
+3.1.1.19	Ascorbate and aldarate metabolism
+3.1.3.93	Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+4.1.1.-	Ascorbate and aldarate metabolism; Purine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Tryptophan metabolism; Pyruvate metabolism
+4.1.2.18	Ascorbate and aldarate metabolism
+4.1.2.20	Ascorbate and aldarate metabolism
+4.2.1.25	Ascorbate and aldarate metabolism
+4.2.1.40	Ascorbate and aldarate metabolism
+4.2.1.41	Ascorbate and aldarate metabolism
+4.2.1.42	Ascorbate and aldarate metabolism
+4.2.1.43	Ascorbate and aldarate metabolism
+5.1.3.18	Ascorbate and aldarate metabolism; Biosynthesis of secondary metabolites
+5.1.3.22	Ascorbate and aldarate metabolism
+5.5.1.-	Ascorbate and aldarate metabolism
+1.1.1.100	Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids
+1.14.19.2	Fatty acid biosynthesis; Biosynthesis of unsaturated fatty acids
+1.3.1.10	Fatty acid biosynthesis
+1.3.1.104	Fatty acid biosynthesis
+1.3.1.9	Fatty acid biosynthesis
+2.3.1.-	Fatty acid biosynthesis; Tetracycline biosynthesis; Lysine degradation; Arginine and proline metabolism; Histidine metabolism; Tyrosine metabolism
+2.3.1.179	Fatty acid biosynthesis
+2.3.1.180	Fatty acid biosynthesis
+2.3.1.39	Fatty acid biosynthesis
+2.3.1.41	Fatty acid biosynthesis
+2.3.1.85	Fatty acid biosynthesis
+2.3.1.86	Fatty acid biosynthesis
+3.1.2.14	Fatty acid biosynthesis
+3.1.2.21	Fatty acid biosynthesis; Starch and sucrose metabolism
+4.2.1.59	Fatty acid biosynthesis
+5.3.3.14	Fatty acid biosynthesis
+6.2.1.3	Fatty acid biosynthesis; Fatty acid degradation
+6.4.1.2	Fatty acid biosynthesis; Tetracycline biosynthesis; Pyruvate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.211	Fatty acid elongation; Fatty acid degradation; Biosynthesis of unsaturated fatty acids
+1.1.1.330	Fatty acid elongation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+1.1.1.35	"Fatty acid elongation; Fatty acid degradation; Primary bile acid biosynthesis; Valine, leucine and isoleucine degradation; Lysine degradation; Tryptophan metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.3.1.38	Fatty acid elongation; Biosynthesis of unsaturated fatty acids
+1.3.1.8	Fatty acid elongation
+1.3.1.93	Fatty acid elongation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+2.3.1.16	"Fatty acid elongation; Fatty acid degradation; Valine, leucine and isoleucine degradation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.1.199	Fatty acid elongation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+3.1.2.2	Fatty acid elongation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+3.1.2.22	Fatty acid elongation
+4.2.1.134	Fatty acid elongation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+4.2.1.17	"Fatty acid elongation; Fatty acid degradation; Valine, leucine and isoleucine degradation; Lysine degradation; Phenylalanine metabolism; Tryptophan metabolism; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.74	Fatty acid elongation; Fatty acid degradation
+1.1.1.192	Fatty acid degradation
+1.1.99.20	Fatty acid degradation
+1.14.14.1	Fatty acid degradation; Tryptophan metabolism; Biosynthesis of secondary metabolites
+1.14.15.3	Fatty acid degradation
+1.18.1.1	Fatty acid degradation
+1.18.1.3	Fatty acid degradation
+1.18.1.4	Fatty acid degradation
+1.2.1.48	Fatty acid degradation
+1.2.5.2	Fatty acid degradation; Pyruvate metabolism
+1.3.3.6	Fatty acid degradation; Biosynthesis of unsaturated fatty acids; Biosynthesis of secondary metabolites
+1.3.8.1	"Fatty acid degradation; Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites"
+1.3.8.6	Fatty acid degradation; Lysine degradation; Tryptophan metabolism; Biosynthesis of antibiotics
+1.3.8.7	"Fatty acid degradation; Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.3.8.8	Fatty acid degradation
+1.3.8.9	Fatty acid degradation
+1.3.99.-	"Fatty acid degradation; Valine, leucine and isoleucine degradation"
+2.3.1.21	Fatty acid degradation
+2.3.1.9	"Fatty acid degradation; Valine, leucine and isoleucine degradation; Lysine degradation; Tryptophan metabolism; Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+5.1.2.3	Fatty acid degradation
+5.3.3.8	Fatty acid degradation
+6.2.1.20	Fatty acid degradation
+6.2.1.6	Fatty acid degradation; Lysine degradation
+1.1.1.170	Steroid biosynthesis; Biosynthesis of antibiotics
+1.1.1.270	Steroid biosynthesis; Biosynthesis of antibiotics
+1.14.13.126	Steroid biosynthesis
+1.14.13.13	Steroid biosynthesis
+1.14.13.132	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.14.13.159	Steroid biosynthesis
+1.14.13.70	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.14.13.72	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.14.19.20	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.3.1.21	Steroid biosynthesis; Biosynthesis of secondary metabolites
+1.3.1.70	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.3.1.71	Steroid biosynthesis; Biosynthesis of antibiotics
+1.3.1.72	Steroid biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.143	Steroid biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.41	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.1.26	Steroid biosynthesis
+2.3.1.73	Steroid biosynthesis
+2.5.1.21	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.1.13	Steroid biosynthesis
+5.3.3.5	Steroid biosynthesis; Biosynthesis of secondary metabolites
+5.4.99.7	Steroid biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.99.8	Steroid biosynthesis; Biosynthesis of secondary metabolites
+5.5.1.9	Steroid biosynthesis; Biosynthesis of secondary metabolites
+1.1.1.181	Primary bile acid biosynthesis
+1.1.1.50	Primary bile acid biosynthesis
+1.14.13.100	Primary bile acid biosynthesis
+1.14.13.15	Primary bile acid biosynthesis
+1.14.13.17	Primary bile acid biosynthesis
+1.14.13.95	Primary bile acid biosynthesis
+1.14.13.98	Primary bile acid biosynthesis
+1.14.13.99	Primary bile acid biosynthesis
+1.14.99.38	Primary bile acid biosynthesis
+1.17.99.3	Primary bile acid biosynthesis
+1.3.1.3	Primary bile acid biosynthesis
+2.3.1.176	Primary bile acid biosynthesis
+2.3.1.65	Primary bile acid biosynthesis
+3.1.2.27	Primary bile acid biosynthesis
+3.5.1.24	Primary bile acid biosynthesis
+4.2.1.107	Primary bile acid biosynthesis
+5.1.99.4	Primary bile acid biosynthesis
+6.2.1.7	Primary bile acid biosynthesis
+1.1.1.237	Ubiquinone and other terpenoid-quinone biosynthesis; Tyrosine metabolism; Phenylalanine metabolism; Biosynthesis of secondary metabolites
+1.13.11.27	Ubiquinone and other terpenoid-quinone biosynthesis; Tyrosine metabolism; Phenylalanine metabolism
+1.14.13.-	Ubiquinone and other terpenoid-quinone biosynthesis; Histidine metabolism; Phenylalanine metabolism; Tryptophan metabolism
+1.14.13.11	Ubiquinone and other terpenoid-quinone biosynthesis; Phenylalanine metabolism; Biosynthesis of secondary metabolites
+1.14.13.116	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+1.17.4.4	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+1.21.98.1	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+1.6.5.2	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.114	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.163	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.201	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.222	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.295	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.64	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.1.1.95	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.2.1.9	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.4.1.194	Ubiquinone and other terpenoid-quinone biosynthesis
+2.5.1.-	Ubiquinone and other terpenoid-quinone biosynthesis; Cysteine and methionine metabolism; Tryptophan metabolism; Sulfur metabolism
+2.5.1.115	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.116	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.117	Ubiquinone and other terpenoid-quinone biosynthesis
+2.5.1.120	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.39	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.74	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.93	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+2.6.1.5	"Ubiquinone and other terpenoid-quinone biosynthesis; Cysteine and methionine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+3.1.2.23	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+3.1.2.28	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+3.2.1.-	Ubiquinone and other terpenoid-quinone biosynthesis
+3.2.2.26	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+3.2.2.30	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+3.5.4.40	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.1.1.90	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.1.1.98	Ubiquinone and other terpenoid-quinone biosynthesis
+4.1.3.36	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.1.3.40	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.2.1.113	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.2.1.151	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+4.2.99.20	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+5.4.4.2	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.5.1.24	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+6.2.1.12	Ubiquinone and other terpenoid-quinone biosynthesis; Phenylalanine metabolism; Biosynthesis of secondary metabolites
+6.2.1.26	Ubiquinone and other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+1.10.2.2	Oxidative phosphorylation
+1.6.5.11	Oxidative phosphorylation
+1.6.5.3	Oxidative phosphorylation
+1.6.99.3	Oxidative phosphorylation
+1.9.3.1	Oxidative phosphorylation
+2.7.4.1	Oxidative phosphorylation
+3.6.1.1	Oxidative phosphorylation
+3.6.3.10	Oxidative phosphorylation
+3.6.3.14	Oxidative phosphorylation
+3.6.3.6	Oxidative phosphorylation
+1.14.13.165	Arginine biosynthesis; Arginine and proline metabolism; Biosynthesis of antibiotics
+1.14.13.39	Arginine biosynthesis; Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.38	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.4.1.2	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Nitrogen metabolism"
+1.4.1.3	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; D-Glutamine and D-glutamate metabolism; Nitrogen metabolism"
+1.4.1.4	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Nitrogen metabolism"
+2.1.3.3	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.1.3.9	Arginine biosynthesis
+2.3.1.1	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.1.35	Arginine biosynthesis; Biosynthesis of antibiotics
+2.6.1.-	"Arginine biosynthesis; Purine metabolism; Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis; Arginine and proline metabolism; Phenylalanine metabolism; Tryptophan metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis"
+2.6.1.1	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Arginine and proline metabolism; Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.11	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.6.1.2	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism"
+2.7.2.-	Arginine biosynthesis; Lysine biosynthesis
+2.7.2.2	Arginine biosynthesis; Purine metabolism; Nitrogen metabolism
+2.7.2.8	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.1.14	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.1.16	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.1.2	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; D-Glutamine and D-glutamate metabolism"
+3.5.1.38	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; D-Glutamine and D-glutamate metabolism; Biosynthesis of secondary metabolites"
+3.5.1.5	Arginine biosynthesis; Purine metabolism
+3.5.1.54	Arginine biosynthesis
+3.5.3.1	Arginine biosynthesis; Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.3.6	Arginine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.3.2.1	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+6.3.1.2	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Glyoxylate and dicarboxylate metabolism; Nitrogen metabolism"
+6.3.2.-	Arginine biosynthesis; Tryptophan metabolism
+6.3.4.16	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Nitrogen metabolism"
+6.3.4.5	"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+6.3.4.6	Arginine biosynthesis
+1.1.1.154	Purine metabolism
+1.1.1.205	Purine metabolism; Biosynthesis of secondary metabolites
+1.1.1.350	Purine metabolism
+1.14.13.113	Purine metabolism
+1.17.1.4	Purine metabolism
+1.17.3.2	Purine metabolism; Biosynthesis of secondary metabolites
+1.17.4.1	Purine metabolism; Pyrimidine metabolism; Glutathione metabolism
+1.17.4.2	Purine metabolism; Pyrimidine metabolism
+1.7.1.7	Purine metabolism
+1.7.3.3	Purine metabolism
+2.1.2.2	Purine metabolism; One carbon pool by folate; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.1.2.3	Purine metabolism; One carbon pool by folate; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.1.2.4	Purine metabolism; One carbon pool by folate
+2.1.3.5	Purine metabolism
+2.4.2.-	Purine metabolism
+2.4.2.1	Purine metabolism; Pyrimidine metabolism; Biosynthesis of secondary metabolites
+2.4.2.14	"Purine metabolism; Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.4.2.15	Purine metabolism
+2.4.2.16	Purine metabolism
+2.4.2.22	Purine metabolism; Biosynthesis of secondary metabolites
+2.4.2.7	Purine metabolism
+2.4.2.8	Purine metabolism; Biosynthesis of secondary metabolites
+2.7.1.113	Purine metabolism
+2.7.1.20	Purine metabolism
+2.7.1.25	Purine metabolism; Sulfur metabolism
+2.7.1.73	Purine metabolism
+2.7.1.74	Purine metabolism; Pyrimidine metabolism
+2.7.1.76	Purine metabolism
+2.7.4.10	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.4.11	Purine metabolism
+2.7.4.3	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.4.6	Purine metabolism; Pyrimidine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.4.8	Purine metabolism
+2.7.6.5	Purine metabolism
+2.7.7.4	Purine metabolism; Sulfur metabolism; Biosynthesis of antibiotics
+2.7.7.53	Purine metabolism
+2.7.7.6	Purine metabolism; Pyrimidine metabolism
+2.7.7.7	Purine metabolism; Pyrimidine metabolism
+2.7.7.8	Purine metabolism; Pyrimidine metabolism
+3.1.3.5	Purine metabolism; Pyrimidine metabolism; Biosynthesis of secondary metabolites
+3.1.3.6	Purine metabolism; Pyrimidine metabolism
+3.1.4.16	Purine metabolism; Pyrimidine metabolism
+3.1.4.17	Purine metabolism
+3.1.4.35	Purine metabolism
+3.1.4.53	Purine metabolism
+3.1.5.1	Purine metabolism
+3.1.7.2	Purine metabolism
+3.2.2.1	Purine metabolism
+3.2.2.12	Purine metabolism
+3.2.2.2	Purine metabolism
+3.2.2.4	Purine metabolism
+3.2.2.7	Purine metabolism
+3.2.2.8	Purine metabolism; Pyrimidine metabolism
+3.5.1.116	Purine metabolism
+3.5.2.-	Purine metabolism; Histidine metabolism
+3.5.2.17	Purine metabolism
+3.5.2.5	Purine metabolism
+3.5.3.-	Purine metabolism
+3.5.3.26	Purine metabolism
+3.5.3.4	Purine metabolism
+3.5.3.9	Purine metabolism
+3.5.4.10	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.4.2	Purine metabolism
+3.5.4.3	Purine metabolism
+3.5.4.4	Purine metabolism
+3.5.4.6	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.4.8	Purine metabolism
+3.6.1.-	Purine metabolism
+3.6.1.11	Purine metabolism
+3.6.1.13	Purine metabolism
+3.6.1.14	Purine metabolism
+3.6.1.15	Purine metabolism
+3.6.1.17	Purine metabolism; Pyrimidine metabolism
+3.6.1.19	Purine metabolism; Pyrimidine metabolism
+3.6.1.20	Purine metabolism
+3.6.1.29	Purine metabolism
+3.6.1.3	Purine metabolism
+3.6.1.40	Purine metabolism
+3.6.1.41	Purine metabolism
+3.6.1.5	Purine metabolism; Pyrimidine metabolism
+3.6.1.6	Purine metabolism; Pyrimidine metabolism
+3.6.1.61	Purine metabolism
+3.6.1.64	Purine metabolism
+3.6.1.66	Purine metabolism
+3.6.1.8	Purine metabolism; Pyrimidine metabolism
+3.6.1.9	Purine metabolism; Starch and sucrose metabolism
+4.1.1.21	Purine metabolism; Biosynthesis of secondary metabolites
+4.1.1.97	Purine metabolism
+4.3.2.2	"Purine metabolism; Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.3.2.3	Purine metabolism
+4.6.1.1	Purine metabolism
+4.6.1.2	Purine metabolism
+5.1.99.3	Purine metabolism
+5.4.99.18	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.2.6	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.3.1	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.4.13	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.4.18	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.4.23	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+6.3.4.4	"Purine metabolism; Alanine, aspartate and glutamate metabolism"
+6.3.4.7	Purine metabolism
+6.3.5.2	Purine metabolism
+6.3.5.3	Purine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.14.99.46	Pyrimidine metabolism
+1.17.99.4	Pyrimidine metabolism
+1.3.1.1	Pyrimidine metabolism
+1.3.1.14	Pyrimidine metabolism
+1.3.1.2	Pyrimidine metabolism
+1.3.5.2	Pyrimidine metabolism
+1.3.98.1	Pyrimidine metabolism
+1.8.1.9	Pyrimidine metabolism
+2.1.1.148	Pyrimidine metabolism; One carbon pool by folate
+2.1.1.45	Pyrimidine metabolism; One carbon pool by folate
+2.1.2.8	Pyrimidine metabolism; One carbon pool by folate
+2.1.3.2	"Pyrimidine metabolism; Alanine, aspartate and glutamate metabolism"
+2.4.2.10	Pyrimidine metabolism
+2.4.2.2	Pyrimidine metabolism
+2.4.2.3	Pyrimidine metabolism
+2.4.2.4	Pyrimidine metabolism
+2.4.2.6	Pyrimidine metabolism
+2.4.2.9	Pyrimidine metabolism
+2.7.1.21	Pyrimidine metabolism
+2.7.1.48	Pyrimidine metabolism
+2.7.1.83	Pyrimidine metabolism
+2.7.4.14	Pyrimidine metabolism
+2.7.4.22	Pyrimidine metabolism
+2.7.4.9	Pyrimidine metabolism
+3.2.-.-	Pyrimidine metabolism
+3.2.2.10	Pyrimidine metabolism
+3.2.2.3	Pyrimidine metabolism
+3.5.1.-	"Pyrimidine metabolism; Glycine, serine and threonine metabolism; Glutathione metabolism"
+3.5.1.110	Pyrimidine metabolism
+3.5.1.6	Pyrimidine metabolism
+3.5.1.95	Pyrimidine metabolism
+3.5.2.1	Pyrimidine metabolism
+3.5.2.2	Pyrimidine metabolism
+3.5.2.3	Pyrimidine metabolism
+3.5.4.1	Pyrimidine metabolism; Arginine and proline metabolism
+3.5.4.12	Pyrimidine metabolism
+3.5.4.13	Pyrimidine metabolism
+3.5.4.30	Pyrimidine metabolism
+3.5.4.5	Pyrimidine metabolism
+3.6.1.12	Pyrimidine metabolism
+3.6.1.23	Pyrimidine metabolism
+3.6.1.39	Pyrimidine metabolism
+4.1.1.23	Pyrimidine metabolism
+4.2.1.70	Pyrimidine metabolism
+6.3.4.2	Pyrimidine metabolism
+6.3.5.5	"Pyrimidine metabolism; Alanine, aspartate and glutamate metabolism"
+1.2.1.16	"Alanine, aspartate and glutamate metabolism; Tyrosine metabolism"
+1.2.1.24	"Alanine, aspartate and glutamate metabolism"
+1.2.1.79	"Alanine, aspartate and glutamate metabolism"
+1.2.1.88	"Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism"
+1.4.1.1	"Alanine, aspartate and glutamate metabolism"
+1.4.1.13	"Alanine, aspartate and glutamate metabolism; Nitrogen metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.4.1.14	"Alanine, aspartate and glutamate metabolism; Nitrogen metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.4.3.1	"Alanine, aspartate and glutamate metabolism"
+1.4.3.15	"Alanine, aspartate and glutamate metabolism; D-Glutamine and D-glutamate metabolism"
+1.4.3.16	"Alanine, aspartate and glutamate metabolism"
+1.4.3.2	"Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism; Valine, leucine and isoleucine degradation; Tyrosine metabolism; Phenylalanine metabolism; Tryptophan metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis"
+2.3.1.17	"Alanine, aspartate and glutamate metabolism"
+2.6.1.12	"Alanine, aspartate and glutamate metabolism"
+2.6.1.14	"Alanine, aspartate and glutamate metabolism"
+2.6.1.15	"Alanine, aspartate and glutamate metabolism"
+2.6.1.16	"Alanine, aspartate and glutamate metabolism; Biosynthesis of antibiotics"
+2.6.1.19	"Alanine, aspartate and glutamate metabolism"
+2.6.1.44	"Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Biosynthesis of secondary metabolites"
+2.6.1.96	"Alanine, aspartate and glutamate metabolism"
+3.4.17.21	"Alanine, aspartate and glutamate metabolism"
+3.5.1.1	"Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites"
+3.5.1.111	"Alanine, aspartate and glutamate metabolism"
+3.5.1.15	"Alanine, aspartate and glutamate metabolism; Histidine metabolism"
+3.5.1.3	"Alanine, aspartate and glutamate metabolism"
+3.5.1.7	"Alanine, aspartate and glutamate metabolism"
+4.1.1.12	"Alanine, aspartate and glutamate metabolism; Cysteine and methionine metabolism"
+4.1.1.15	"Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites"
+4.3.1.1	"Alanine, aspartate and glutamate metabolism"
+5.1.1.13	"Alanine, aspartate and glutamate metabolism"
+6.3.1.1	"Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites"
+6.3.1.17	"Alanine, aspartate and glutamate metabolism"
+6.3.2.41	"Alanine, aspartate and glutamate metabolism"
+6.3.2.42	"Alanine, aspartate and glutamate metabolism"
+6.3.5.4	"Alanine, aspartate and glutamate metabolism; Biosynthesis of secondary metabolites"
+1.14.13.38	Tetracycline biosynthesis; Biosynthesis of antibiotics
+1.14.14.-	Tetracycline biosynthesis
+2.1.1.-	Tetracycline biosynthesis; Cysteine and methionine metabolism; Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Tryptophan metabolism
+4.2.1.-	"Tetracycline biosynthesis; Lysine biosynthesis; Tyrosine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis"
+6.3.5.-	Tetracycline biosynthesis
+1.1.1.103	"Glycine, serine and threonine metabolism"
+1.1.1.29	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.3	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.381	"Glycine, serine and threonine metabolism"
+1.1.1.75	"Glycine, serine and threonine metabolism"
+1.1.1.81	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites"
+1.1.1.95	"Glycine, serine and threonine metabolism; Biosynthesis of antibiotics"
+1.1.3.17	"Glycine, serine and threonine metabolism"
+1.1.99.1	"Glycine, serine and threonine metabolism"
+1.14.11.-	"Glycine, serine and threonine metabolism"
+1.14.15.7	"Glycine, serine and threonine metabolism"
+1.2.1.11	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.2.1.8	"Glycine, serine and threonine metabolism"
+1.4.2.1	"Glycine, serine and threonine metabolism"
+1.4.3.21	"Glycine, serine and threonine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Biosynthesis of secondary metabolites"
+1.4.3.3	"Glycine, serine and threonine metabolism; Penicillin and cephalosporin biosynthesis; Arginine and proline metabolism; D-Arginine and D-ornithine metabolism; Biosynthesis of antibiotics"
+1.4.3.4	"Glycine, serine and threonine metabolism; Arginine and proline metabolism; Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Tryptophan metabolism; Biosynthesis of secondary metabolites"
+1.4.4.2	"Glycine, serine and threonine metabolism"
+1.5.3.1	"Glycine, serine and threonine metabolism"
+1.5.8.3	"Glycine, serine and threonine metabolism"
+1.5.8.4	"Glycine, serine and threonine metabolism"
+2.1.1.156	"Glycine, serine and threonine metabolism"
+2.1.1.157	"Glycine, serine and threonine metabolism"
+2.1.1.161	"Glycine, serine and threonine metabolism"
+2.1.1.2	"Glycine, serine and threonine metabolism; Arginine and proline metabolism"
+2.1.1.20	"Glycine, serine and threonine metabolism"
+2.1.1.5	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism"
+2.1.2.1	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; One carbon pool by folate; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.1.2.10	"Glycine, serine and threonine metabolism; One carbon pool by folate"
+2.1.4.1	"Glycine, serine and threonine metabolism; Arginine and proline metabolism"
+2.3.1.178	"Glycine, serine and threonine metabolism"
+2.3.1.29	"Glycine, serine and threonine metabolism"
+2.3.1.37	"Glycine, serine and threonine metabolism"
+2.6.1.4	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.45	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.51	"Glycine, serine and threonine metabolism"
+2.6.1.52	"Glycine, serine and threonine metabolism; Biosynthesis of antibiotics"
+2.6.1.76	"Glycine, serine and threonine metabolism"
+2.7.1.31	"Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.7.1.39	"Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites"
+2.7.2.4	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.7.3.5	"Glycine, serine and threonine metabolism"
+2.7.8.8	"Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites"
+3.1.3.3	"Glycine, serine and threonine metabolism; Biosynthesis of antibiotics"
+3.1.3.38	"Glycine, serine and threonine metabolism"
+3.5.3.3	"Glycine, serine and threonine metabolism; Arginine and proline metabolism"
+4.1.1.86	"Glycine, serine and threonine metabolism"
+4.1.2.5	"Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.108	"Glycine, serine and threonine metabolism"
+4.2.1.20	"Glycine, serine and threonine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+4.2.1.22	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Biosynthesis of antibiotics"
+4.2.3.1	"Glycine, serine and threonine metabolism; Biosynthesis of secondary metabolites"
+4.3.1.17	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.3.1.18	"Glycine, serine and threonine metabolism"
+4.3.1.19	"Glycine, serine and threonine metabolism; Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.4.1.1	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; Biosynthesis of antibiotics"
+5.1.1.10	"Glycine, serine and threonine metabolism; Cysteine and methionine metabolism; D-Glutamine and D-glutamate metabolism; D-Arginine and D-ornithine metabolism"
+5.1.1.18	"Glycine, serine and threonine metabolism"
+1.1.1.310	Cysteine and methionine metabolism
+1.1.1.338	Cysteine and methionine metabolism
+1.13.11.20	Cysteine and methionine metabolism
+1.13.11.53	Cysteine and methionine metabolism
+1.13.11.54	Cysteine and methionine metabolism
+1.14.17.4	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+1.4.1.-	Cysteine and methionine metabolism
+1.8.1.10	Cysteine and methionine metabolism
+1.8.1.6	Cysteine and methionine metabolism
+1.8.4.1	Cysteine and methionine metabolism; Glutathione metabolism
+1.8.4.13	Cysteine and methionine metabolism
+1.8.4.14	Cysteine and methionine metabolism
+1.8.4.3	Cysteine and methionine metabolism; Glutathione metabolism
+1.8.4.4	Cysteine and methionine metabolism; Glutathione metabolism
+2.1.1.10	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+2.1.1.13	Cysteine and methionine metabolism; One carbon pool by folate; Biosynthesis of secondary metabolites
+2.1.1.14	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+2.1.1.37	Cysteine and methionine metabolism
+2.3.1.184	Cysteine and methionine metabolism
+2.3.1.30	Cysteine and methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites
+2.3.1.31	Cysteine and methionine metabolism; Biosynthesis of antibiotics
+2.3.1.46	Cysteine and methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites
+2.4.2.28	Cysteine and methionine metabolism
+2.4.2.44	Cysteine and methionine metabolism
+2.5.1.16	Cysteine and methionine metabolism; Arginine and proline metabolism; Glutathione metabolism
+2.5.1.22	Cysteine and methionine metabolism; Arginine and proline metabolism; Glutathione metabolism
+2.5.1.47	Cysteine and methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.48	Cysteine and methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.49	Cysteine and methionine metabolism
+2.5.1.6	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+2.5.1.65	Cysteine and methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites
+2.6.1.3	Cysteine and methionine metabolism
+2.6.1.42	"Cysteine and methionine metabolism; Valine, leucine and isoleucine degradation; Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.57	"Cysteine and methionine metabolism; Lysine biosynthesis; Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.7.1.100	Cysteine and methionine metabolism
+2.8.1.2	Cysteine and methionine metabolism
+3.1.3.77	Cysteine and methionine metabolism
+3.1.3.87	Cysteine and methionine metabolism
+3.2.2.16	Cysteine and methionine metabolism
+3.2.2.9	Cysteine and methionine metabolism
+3.3.1.1	Cysteine and methionine metabolism
+3.4.13.12	Cysteine and methionine metabolism
+3.5.1.31	Cysteine and methionine metabolism; Glyoxylate and dicarboxylate metabolism
+3.5.4.31	Cysteine and methionine metabolism
+3.5.99.7	Cysteine and methionine metabolism
+4.1.1.50	Cysteine and methionine metabolism; Arginine and proline metabolism
+4.2.1.109	Cysteine and methionine metabolism
+4.4.1.10	Cysteine and methionine metabolism
+4.4.1.11	Cysteine and methionine metabolism
+4.4.1.14	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+4.4.1.15	Cysteine and methionine metabolism
+4.4.1.21	Cysteine and methionine metabolism
+4.4.1.24	Cysteine and methionine metabolism
+4.4.1.25	Cysteine and methionine metabolism
+4.4.1.8	Cysteine and methionine metabolism; Biosynthesis of secondary metabolites
+5.3.1.23	Cysteine and methionine metabolism
+5.3.2.5	Cysteine and methionine metabolism
+6.3.2.2	Cysteine and methionine metabolism; Glutathione metabolism
+6.3.2.3	Cysteine and methionine metabolism; Glutathione metabolism
+1.1.1.178	"Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.31	"Valine, leucine and isoleucine degradation"
+1.2.1.27	"Valine, leucine and isoleucine degradation"
+1.2.3.1	"Valine, leucine and isoleucine degradation; Tyrosine metabolism; Tryptophan metabolism"
+1.2.4.4	"Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.2.7.7	"Valine, leucine and isoleucine degradation"
+1.3.8.4	"Valine, leucine and isoleucine degradation"
+1.3.99.12	"Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites"
+1.4.1.23	"Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.4.1.9	"Valine, leucine and isoleucine degradation; Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.1.168	"Valine, leucine and isoleucine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.3.10	"Valine, leucine and isoleucine degradation; Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.18	"Valine, leucine and isoleucine degradation"
+2.6.1.22	"Valine, leucine and isoleucine degradation"
+2.6.1.6	"Valine, leucine and isoleucine degradation; Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites"
+2.8.3.5	"Valine, leucine and isoleucine degradation"
+3.1.2.17	"Valine, leucine and isoleucine degradation"
+3.1.2.4	"Valine, leucine and isoleucine degradation"
+4.1.3.4	"Valine, leucine and isoleucine degradation"
+4.2.1.18	"Valine, leucine and isoleucine degradation"
+5.1.99.1	"Valine, leucine and isoleucine degradation; Glyoxylate and dicarboxylate metabolism"
+5.4.99.2	"Valine, leucine and isoleucine degradation; Glyoxylate and dicarboxylate metabolism"
+6.2.1.-	"Valine, leucine and isoleucine degradation; Tyrosine metabolism"
+6.2.1.16	"Valine, leucine and isoleucine degradation"
+6.4.1.3	"Valine, leucine and isoleucine degradation; Glyoxylate and dicarboxylate metabolism; Biosynthesis of antibiotics"
+6.4.1.4	"Valine, leucine and isoleucine degradation"
+1.1.1.85	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites"
+1.1.1.86	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.2.1.6	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.1.182	"Valine, leucine and isoleucine biosynthesis"
+2.3.3.13	"Valine, leucine and isoleucine biosynthesis; Pyruvate metabolism; Biosynthesis of secondary metabolites"
+2.6.1.66	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.33	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites"
+4.2.1.35	"Valine, leucine and isoleucine biosynthesis"
+4.2.1.9	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+5.4.99.3	"Valine, leucine and isoleucine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.87	Lysine biosynthesis; Biosynthesis of antibiotics
+1.17.1.8	Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.31	Lysine biosynthesis; Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.4.1.16	Lysine biosynthesis; Biosynthesis of secondary metabolites
+1.5.1.10	Lysine biosynthesis; Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.5.1.7	Lysine biosynthesis; Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.3.1.117	Lysine biosynthesis
+2.3.1.89	Lysine biosynthesis; Biosynthesis of secondary metabolites
+2.3.3.14	Lysine biosynthesis; Pyruvate metabolism; Biosynthesis of antibiotics
+2.6.1.17	Lysine biosynthesis
+2.6.1.39	Lysine biosynthesis; Lysine degradation; Biosynthesis of antibiotics
+2.6.1.83	Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.1.18	Lysine biosynthesis
+3.5.1.47	Lysine biosynthesis; Biosynthesis of secondary metabolites
+4.1.1.20	Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.1.114	Lysine biosynthesis; Biosynthesis of antibiotics
+4.2.1.36	Lysine biosynthesis; Biosynthesis of antibiotics
+4.3.3.7	Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.1.1.7	Lysine biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.99.58	Lysine biosynthesis
+6.3.2.10	Lysine biosynthesis
+6.3.2.13	Lysine biosynthesis
+6.3.2.43	Lysine biosynthesis
+1.13.12.2	Lysine degradation
+1.14.11.1	Lysine degradation
+1.14.11.4	Lysine degradation
+1.14.11.8	Lysine degradation
+1.14.13.59	Lysine degradation
+1.2.1.20	Lysine degradation
+1.2.1.47	Lysine degradation
+1.2.4.-	Lysine degradation
+1.4.1.11	Lysine degradation
+1.4.1.12	Lysine degradation; Arginine and proline metabolism; D-Arginine and D-ornithine metabolism
+1.4.3.14	Lysine degradation
+1.5.1.1	Lysine degradation; Arginine and proline metabolism
+1.5.1.16	Lysine degradation
+1.5.1.21	Lysine degradation
+1.5.1.8	Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.5.1.9	Lysine degradation; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.5.3.7	Lysine degradation
+1.5.99.3	Lysine degradation
+2.1.1.43	Lysine degradation
+2.1.1.59	Lysine degradation
+2.1.1.60	Lysine degradation
+2.3.1.102	Lysine degradation
+2.3.1.32	Lysine degradation
+2.4.1.50	Lysine degradation
+2.6.1.21	Lysine degradation; Arginine and proline metabolism; Phenylalanine metabolism; D-Arginine and D-ornithine metabolism; D-Alanine metabolism
+2.6.1.48	Lysine degradation
+2.6.1.65	Lysine degradation
+2.7.1.81	Lysine degradation
+2.8.3.9	Lysine degradation
+3.4.-.-	Lysine degradation
+3.5.1.17	Lysine degradation
+3.5.1.30	Lysine degradation
+3.5.1.63	Lysine degradation; Arginine and proline metabolism
+4.1.1.18	Lysine degradation; Biosynthesis of secondary metabolites
+4.1.2.-	Lysine degradation
+4.2.3.134	Lysine degradation
+4.3.1.14	Lysine degradation
+5.1.1.5	Lysine degradation
+5.1.1.9	Lysine degradation; D-Arginine and D-ornithine metabolism
+5.4.3.2	Lysine degradation
+5.4.3.3	Lysine degradation
+5.4.3.4	Lysine degradation
+6.3.2.38	Lysine degradation
+6.3.2.39	Lysine degradation
+1.14.11.26	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+1.14.20.1	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+1.21.3.1	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+2.1.3.7	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+2.3.1.164	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+2.3.1.175	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+2.6.1.74	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+3.1.1.41	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+3.5.1.11	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+3.5.1.93	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+3.5.2.6	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+5.1.1.17	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+6.3.2.26	Penicillin and cephalosporin biosynthesis; Biosynthesis of antibiotics
+1.1.1.104	Arginine and proline metabolism
+1.13.12.1	Arginine and proline metabolism
+1.14.11.2	Arginine and proline metabolism
+1.2.1.19	Arginine and proline metabolism
+1.2.1.41	Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.2.1.54	Arginine and proline metabolism
+1.2.1.71	Arginine and proline metabolism
+1.21.4.1	Arginine and proline metabolism
+1.4.3.-	Arginine and proline metabolism
+1.4.3.10	Arginine and proline metabolism
+1.4.3.22	Arginine and proline metabolism; Histidine metabolism; Tryptophan metabolism
+1.5.-.-	Arginine and proline metabolism
+1.5.1.11	Arginine and proline metabolism
+1.5.1.19	Arginine and proline metabolism
+1.5.1.2	Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.5.1.43	Arginine and proline metabolism
+1.5.3.14	Arginine and proline metabolism
+1.5.3.16	Arginine and proline metabolism
+1.5.3.17	Arginine and proline metabolism
+1.5.5.2	Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.5.99.13	Arginine and proline metabolism
+1.5.99.6	Arginine and proline metabolism
+2.3.1.109	Arginine and proline metabolism
+2.3.1.57	Arginine and proline metabolism
+2.3.1.64	Arginine and proline metabolism
+2.6.1.13	Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.6.1.23	Arginine and proline metabolism
+2.6.1.29	Arginine and proline metabolism
+2.6.1.81	Arginine and proline metabolism
+2.6.1.82	Arginine and proline metabolism
+2.6.1.84	Arginine and proline metabolism
+2.7.2.11	Arginine and proline metabolism; Biosynthesis of antibiotics
+2.7.3.1	Arginine and proline metabolism
+2.7.3.2	Arginine and proline metabolism
+2.7.3.3	Arginine and proline metabolism
+3.4.11.5	Arginine and proline metabolism
+3.4.13.18	Arginine and proline metabolism; Histidine metabolism
+3.4.13.20	Arginine and proline metabolism; Histidine metabolism
+3.5.1.4	Arginine and proline metabolism; Phenylalanine metabolism; Tryptophan metabolism
+3.5.1.53	Arginine and proline metabolism
+3.5.1.59	Arginine and proline metabolism
+3.5.1.62	Arginine and proline metabolism
+3.5.1.94	Arginine and proline metabolism
+3.5.1.96	Arginine and proline metabolism
+3.5.2.10	Arginine and proline metabolism
+3.5.2.14	Arginine and proline metabolism
+3.5.3.11	Arginine and proline metabolism
+3.5.3.12	Arginine and proline metabolism
+3.5.3.23	Arginine and proline metabolism
+3.5.3.7	Arginine and proline metabolism
+3.5.4.21	Arginine and proline metabolism
+3.5.4.22	Arginine and proline metabolism
+4.1.1.17	Arginine and proline metabolism; Glutathione metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.1.19	Arginine and proline metabolism
+4.1.1.75	Arginine and proline metabolism
+4.1.1.96	Arginine and proline metabolism
+4.1.3.16	Arginine and proline metabolism; Glyoxylate and dicarboxylate metabolism
+4.2.1.77	Arginine and proline metabolism
+4.3.1.12	Arginine and proline metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.1.1.4	Arginine and proline metabolism
+5.1.1.8	Arginine and proline metabolism
+6.3.1.11	Arginine and proline metabolism
+6.3.2.11	Arginine and proline metabolism; Histidine metabolism
+1.14.11.21	Clavulanic acid biosynthesis; Biosynthesis of antibiotics
+2.5.1.66	Clavulanic acid biosynthesis; Biosynthesis of antibiotics
+3.5.3.22	Clavulanic acid biosynthesis; Biosynthesis of antibiotics
+6.3.3.4	Clavulanic acid biosynthesis; Biosynthesis of antibiotics
+1.1.1.23	Histidine metabolism; Biosynthesis of secondary metabolites
+1.14.13.5	Histidine metabolism
+1.14.99.50	Histidine metabolism
+1.14.99.51	Histidine metabolism
+1.3.99.33	Histidine metabolism
+2.1.1.22	Histidine metabolism
+2.1.1.44	Histidine metabolism
+2.1.1.8	Histidine metabolism
+2.1.2.5	Histidine metabolism; One carbon pool by folate
+2.4.2.17	Histidine metabolism; Biosynthesis of secondary metabolites
+2.6.1.38	Histidine metabolism
+2.6.1.9	"Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+3.1.3.15	Histidine metabolism; Biosynthesis of secondary metabolites
+3.4.13.5	Histidine metabolism
+3.5.1.118	Histidine metabolism
+3.5.1.68	Histidine metabolism; Glyoxylate and dicarboxylate metabolism
+3.5.1.8	Histidine metabolism; Glyoxylate and dicarboxylate metabolism
+3.5.2.7	Histidine metabolism
+3.5.3.13	Histidine metabolism
+3.5.3.5	Histidine metabolism
+3.5.3.8	Histidine metabolism
+3.5.4.19	Histidine metabolism; Biosynthesis of secondary metabolites
+3.6.1.31	Histidine metabolism; Biosynthesis of secondary metabolites
+4.1.1.22	Histidine metabolism; Biosynthesis of secondary metabolites
+4.1.1.28	Histidine metabolism; Tyrosine metabolism; Phenylalanine metabolism; Tryptophan metabolism; Biosynthesis of secondary metabolites
+4.2.1.19	Histidine metabolism; Biosynthesis of secondary metabolites
+4.2.1.49	Histidine metabolism
+4.3.1.3	Histidine metabolism
+5.3.1.16	Histidine metabolism; Biosynthesis of secondary metabolites
+6.3.4.8	Histidine metabolism
+1.1.1.222	Tyrosine metabolism; Phenylalanine metabolism
+1.1.1.312	Tyrosine metabolism
+1.1.1.90	Tyrosine metabolism; Phenylalanine metabolism
+1.10.3.1	Tyrosine metabolism; Biosynthesis of secondary metabolites
+1.11.1.8	Tyrosine metabolism
+1.13.11.15	Tyrosine metabolism
+1.13.11.29	Tyrosine metabolism
+1.13.11.30	Tyrosine metabolism
+1.13.11.4	Tyrosine metabolism
+1.13.11.5	Tyrosine metabolism
+1.13.12.-	Tyrosine metabolism
+1.14.12.9	Tyrosine metabolism
+1.14.13.18	Tyrosine metabolism
+1.14.14.9	Tyrosine metabolism
+1.14.16.2	Tyrosine metabolism
+1.14.17.1	Tyrosine metabolism
+1.14.18.-	Tyrosine metabolism
+1.14.18.1	Tyrosine metabolism; Biosynthesis of secondary metabolites
+1.2.1.29	Tyrosine metabolism
+1.2.1.53	Tyrosine metabolism
+1.2.1.60	Tyrosine metabolism
+1.2.3.13	Tyrosine metabolism
+1.4.1.20	"Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.4.9.2	Tyrosine metabolism; Phenylalanine metabolism; Biosynthesis of secondary metabolites
+2.1.1.27	Tyrosine metabolism
+2.1.1.28	Tyrosine metabolism
+2.1.1.6	Tyrosine metabolism
+2.3.1.14	Tyrosine metabolism; Phenylalanine metabolism
+2.3.1.140	Tyrosine metabolism
+2.6.1.49	Tyrosine metabolism
+2.6.1.58	"Tyrosine metabolism; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+3.7.1.2	Tyrosine metabolism
+3.7.1.20	Tyrosine metabolism
+3.7.1.5	Tyrosine metabolism
+4.1.1.25	Tyrosine metabolism; Biosynthesis of secondary metabolites
+4.1.1.62	Tyrosine metabolism
+4.1.1.68	Tyrosine metabolism
+4.1.1.80	Tyrosine metabolism; Biosynthesis of secondary metabolites
+4.1.2.52	Tyrosine metabolism
+4.1.99.2	Tyrosine metabolism
+4.3.1.22	Tyrosine metabolism
+4.3.1.23	Tyrosine metabolism
+5.2.1.2	Tyrosine metabolism
+5.2.1.4	Tyrosine metabolism
+5.3.2.1	Tyrosine metabolism; Phenylalanine metabolism
+5.3.3.-	Tyrosine metabolism
+5.3.3.10	Tyrosine metabolism
+5.3.3.12	Tyrosine metabolism
+5.4.3.6	Tyrosine metabolism
+1.1.1.157	Phenylalanine metabolism
+1.11.1.21	Phenylalanine metabolism; Tryptophan metabolism; Biosynthesis of secondary metabolites
+1.13.11.16	Phenylalanine metabolism
+1.13.12.9	Phenylalanine metabolism
+1.14.12.19	Phenylalanine metabolism
+1.14.13.127	Phenylalanine metabolism
+1.14.13.14	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+1.14.13.149	Phenylalanine metabolism
+1.14.13.4	Phenylalanine metabolism
+1.14.16.1	"Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis"
+1.17.5.1	Phenylalanine metabolism
+1.2.1.10	Phenylalanine metabolism; Pyruvate metabolism
+1.2.1.39	Phenylalanine metabolism
+1.2.1.58	Phenylalanine metabolism
+1.2.1.91	Phenylalanine metabolism
+1.3.1.11	Phenylalanine metabolism
+1.3.1.31	Phenylalanine metabolism
+1.3.1.87	Phenylalanine metabolism
+1.4.99.6	Phenylalanine metabolism
+1.5.1.18	Phenylalanine metabolism
+2.1.1.104	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+2.3.1.13	Phenylalanine metabolism
+2.3.1.174	Phenylalanine metabolism
+2.3.1.192	Phenylalanine metabolism
+2.3.1.223	Phenylalanine metabolism
+2.3.1.36	Phenylalanine metabolism
+2.3.1.53	Phenylalanine metabolism
+2.3.1.71	Phenylalanine metabolism
+3.1.2.-	Phenylalanine metabolism; Biosynthesis of unsaturated fatty acids
+3.1.2.25	Phenylalanine metabolism
+3.3.2.12	Phenylalanine metabolism
+3.5.1.32	Phenylalanine metabolism
+3.7.1.14	Phenylalanine metabolism
+4.1.1.43	Phenylalanine metabolism; Tryptophan metabolism
+4.1.1.53	Phenylalanine metabolism
+4.1.2.41	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+4.1.3.39	Phenylalanine metabolism
+4.2.1.101	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+4.2.1.80	Phenylalanine metabolism
+4.3.1.24	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+4.3.1.25	Phenylalanine metabolism; Biosynthesis of secondary metabolites
+5.1.1.11	Phenylalanine metabolism
+5.3.3.18	Phenylalanine metabolism
+6.2.1.30	Phenylalanine metabolism
+1.1.1.110	Tryptophan metabolism
+1.1.1.190	Tryptophan metabolism
+1.1.1.191	Tryptophan metabolism
+1.10.3.4	Tryptophan metabolism
+1.11.1.6	Tryptophan metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.13.11.-	Tryptophan metabolism
+1.13.11.10	Tryptophan metabolism
+1.13.11.11	Tryptophan metabolism
+1.13.11.17	Tryptophan metabolism
+1.13.11.23	Tryptophan metabolism
+1.13.11.52	Tryptophan metabolism
+1.13.11.6	Tryptophan metabolism
+1.13.12.3	Tryptophan metabolism
+1.13.99.3	Tryptophan metabolism
+1.14.13.125	Tryptophan metabolism; Biosynthesis of secondary metabolites
+1.14.13.168	Tryptophan metabolism
+1.14.13.9	Tryptophan metabolism
+1.14.14.8	Tryptophan metabolism
+1.14.16.-	Tryptophan metabolism
+1.14.16.3	Tryptophan metabolism
+1.14.16.4	Tryptophan metabolism
+1.14.99.2	Tryptophan metabolism
+1.2.1.32	Tryptophan metabolism
+1.2.3.7	Tryptophan metabolism
+1.3.1.-	Tryptophan metabolism
+1.3.1.18	Tryptophan metabolism
+1.5.1.-	Tryptophan metabolism
+1.7.3.-	Tryptophan metabolism
+1.7.3.2	Tryptophan metabolism
+2.1.1.4	Tryptophan metabolism
+2.1.1.47	Tryptophan metabolism
+2.1.1.49	Tryptophan metabolism
+2.3.1.87	Tryptophan metabolism
+2.4.1.195	Tryptophan metabolism; Biosynthesis of secondary metabolites
+2.6.1.27	Tryptophan metabolism
+2.6.1.7	Tryptophan metabolism
+2.6.1.99	Tryptophan metabolism
+2.8.2.-	Tryptophan metabolism
+3.2.1.147	Tryptophan metabolism
+3.5.1.9	Tryptophan metabolism; Glyoxylate and dicarboxylate metabolism
+3.5.5.1	Tryptophan metabolism; Nitrogen metabolism
+3.5.99.5	Tryptophan metabolism
+3.7.1.3	Tryptophan metabolism
+4.1.1.45	Tryptophan metabolism
+4.1.1.74	Tryptophan metabolism
+4.1.99.1	Tryptophan metabolism
+4.2.1.84	Tryptophan metabolism
+4.4.1.-	Tryptophan metabolism
+4.99.1.6	Tryptophan metabolism
+1.1.1.24	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1.1.1.25	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.1.282	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.1.5.8	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.3.1.12	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.3.1.13	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.3.1.43	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+1.3.1.78	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+1.3.1.79	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1.4.1.24	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.2.1.10	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.2.1.11	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.3.3.-	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+2.4.2.18	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+2.5.1.19	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.5.1.54	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+2.6.1.78	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+2.6.1.79	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+2.7.1.71	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+3.3.2.13	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+4.1.1.48	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+4.1.3.27	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+4.1.3.45	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+4.2.1.10	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.118	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.51	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.1.91	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.3.4	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+4.2.3.5	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+5.3.1.24	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites"
+5.4.99.5	"Phenylalanine, tyrosine and tryptophan biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics"
+1.4.3.7	D-Glutamine and D-glutamate metabolism
+2.3.2.1	D-Glutamine and D-glutamate metabolism
+3.5.1.35	D-Glutamine and D-glutamate metabolism
+4.2.1.48	D-Glutamine and D-glutamate metabolism
+5.1.1.3	D-Glutamine and D-glutamate metabolism
+6.3.2.8	D-Glutamine and D-glutamate metabolism
+6.3.2.9	D-Glutamine and D-glutamate metabolism
+3.5.3.10	D-Arginine and D-ornithine metabolism
+5.1.1.12	D-Arginine and D-ornithine metabolism
+5.4.3.5	D-Arginine and D-ornithine metabolism
+2.6.1.41	D-Alanine metabolism
+5.1.1.1	D-Alanine metabolism
+6.1.1.13	D-Alanine metabolism
+6.3.2.16	D-Alanine metabolism
+6.3.2.4	D-Alanine metabolism
+1.11.1.-	Glutathione metabolism
+1.11.1.12	Glutathione metabolism
+1.11.1.15	Glutathione metabolism
+1.11.1.9	Glutathione metabolism
+1.5.4.1	Glutathione metabolism
+1.8.1.12	Glutathione metabolism
+1.8.1.13	Glutathione metabolism
+1.8.1.7	Glutathione metabolism
+1.8.3.3	Glutathione metabolism
+1.8.4.2	Glutathione metabolism
+1.8.4.7	Glutathione metabolism
+2.3.1.80	Glutathione metabolism
+2.3.2.2	Glutathione metabolism
+2.3.2.4	Glutathione metabolism
+2.5.1.18	Glutathione metabolism
+2.8.1.3	Glutathione metabolism
+3.4.11.1	Glutathione metabolism
+3.4.11.2	Glutathione metabolism
+3.4.11.23	Glutathione metabolism
+3.4.13.-	Glutathione metabolism
+3.4.19.13	Glutathione metabolism
+3.5.1.78	Glutathione metabolism
+3.5.2.9	Glutathione metabolism
+6.3.1.8	Glutathione metabolism
+6.3.1.9	Glutathione metabolism
+1.1.99.13	Starch and sucrose metabolism
+2.4.1.1	Starch and sucrose metabolism; Biosynthesis of secondary metabolites
+2.4.1.10	Starch and sucrose metabolism
+2.4.1.11	Starch and sucrose metabolism
+2.4.1.12	Starch and sucrose metabolism
+2.4.1.13	Starch and sucrose metabolism
+2.4.1.14	Starch and sucrose metabolism
+2.4.1.15	Starch and sucrose metabolism
+2.4.1.18	Starch and sucrose metabolism; Biosynthesis of secondary metabolites
+2.4.1.20	Starch and sucrose metabolism
+2.4.1.21	Starch and sucrose metabolism; Biosynthesis of secondary metabolites
+2.4.1.245	Starch and sucrose metabolism
+2.4.1.25	Starch and sucrose metabolism
+2.4.1.29	Starch and sucrose metabolism
+2.4.1.34	Starch and sucrose metabolism
+2.4.1.35	Starch and sucrose metabolism
+2.4.1.4	Starch and sucrose metabolism
+2.4.1.43	Starch and sucrose metabolism
+2.4.1.5	Starch and sucrose metabolism
+2.4.1.64	Starch and sucrose metabolism
+2.4.1.7	Starch and sucrose metabolism
+2.4.1.8	Starch and sucrose metabolism
+2.4.2.24	Starch and sucrose metabolism
+2.4.99.16	Starch and sucrose metabolism
+2.7.1.10	Starch and sucrose metabolism
+2.7.1.106	Starch and sucrose metabolism
+2.7.1.175	Starch and sucrose metabolism
+2.7.7.27	Starch and sucrose metabolism; Biosynthesis of secondary metabolites
+2.7.7.33	Starch and sucrose metabolism
+2.7.7.34	Starch and sucrose metabolism
+3.1.3.12	Starch and sucrose metabolism
+3.1.3.24	Starch and sucrose metabolism
+3.1.3.90	Starch and sucrose metabolism
+3.2.1.1	Starch and sucrose metabolism
+3.2.1.122	Starch and sucrose metabolism
+3.2.1.2	Starch and sucrose metabolism
+3.2.1.21	Starch and sucrose metabolism; Biosynthesis of secondary metabolites
+3.2.1.28	Starch and sucrose metabolism
+3.2.1.3	Starch and sucrose metabolism
+3.2.1.33	Starch and sucrose metabolism
+3.2.1.37	Starch and sucrose metabolism
+3.2.1.39	Starch and sucrose metabolism
+3.2.1.4	Starch and sucrose metabolism
+3.2.1.48	Starch and sucrose metabolism
+3.2.1.54	Starch and sucrose metabolism
+3.2.1.58	Starch and sucrose metabolism
+3.2.1.64	Starch and sucrose metabolism
+3.2.1.65	Starch and sucrose metabolism
+3.2.1.74	Starch and sucrose metabolism
+3.2.1.91	Starch and sucrose metabolism
+3.2.1.93	Starch and sucrose metabolism
+4.1.1.35	Starch and sucrose metabolism
+5.1.3.6	Starch and sucrose metabolism
+5.4.2.6	Starch and sucrose metabolism
+5.4.99.16	Starch and sucrose metabolism
+2.4.1.101	N-Glycan biosynthesis
+2.4.1.117	N-Glycan biosynthesis
+2.4.1.131	N-Glycan biosynthesis
+2.4.1.132	N-Glycan biosynthesis
+2.4.1.141	N-Glycan biosynthesis
+2.4.1.142	N-Glycan biosynthesis
+2.4.1.143	N-Glycan biosynthesis
+2.4.1.144	N-Glycan biosynthesis
+2.4.1.145	N-Glycan biosynthesis
+2.4.1.155	N-Glycan biosynthesis
+2.4.1.160	N-Glycan biosynthesis
+2.4.1.201	N-Glycan biosynthesis
+2.4.1.256	N-Glycan biosynthesis
+2.4.1.257	N-Glycan biosynthesis
+2.4.1.258	N-Glycan biosynthesis
+2.4.1.259	N-Glycan biosynthesis
+2.4.1.260	N-Glycan biosynthesis
+2.4.1.261	N-Glycan biosynthesis
+2.4.1.265	N-Glycan biosynthesis
+2.4.1.267	N-Glycan biosynthesis
+2.4.1.38	N-Glycan biosynthesis
+2.4.1.68	N-Glycan biosynthesis
+2.4.1.83	N-Glycan biosynthesis
+2.4.99.1	N-Glycan biosynthesis
+2.4.99.18	N-Glycan biosynthesis
+2.7.1.108	N-Glycan biosynthesis
+2.7.8.15	N-Glycan biosynthesis
+3.1.3.51	N-Glycan biosynthesis
+3.1.4.48	N-Glycan biosynthesis
+3.2.1.106	N-Glycan biosynthesis
+3.2.1.113	N-Glycan biosynthesis
+3.2.1.114	N-Glycan biosynthesis
+3.2.1.84	N-Glycan biosynthesis
+3.6.1.43	N-Glycan biosynthesis
+1.1.1.28	Pyruvate metabolism
+1.1.1.283	Pyruvate metabolism
+1.1.1.38	Pyruvate metabolism
+1.1.1.39	Pyruvate metabolism
+1.1.1.40	Pyruvate metabolism
+1.1.1.78	Pyruvate metabolism
+1.1.1.79	Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites
+1.1.1.82	Pyruvate metabolism
+1.1.2.3	Pyruvate metabolism
+1.1.2.4	Pyruvate metabolism
+1.1.2.5	Pyruvate metabolism
+1.1.99.7	Pyruvate metabolism
+1.13.12.4	Pyruvate metabolism
+1.2.1.22	Pyruvate metabolism
+1.2.1.23	Pyruvate metabolism
+1.2.1.49	Pyruvate metabolism
+1.2.3.3	Pyruvate metabolism
+1.2.3.6	Pyruvate metabolism
+1.2.5.1	Pyruvate metabolism
+1.2.7.-	Pyruvate metabolism
+1.2.99.6	Pyruvate metabolism
+2.3.1.54	Pyruvate metabolism
+2.3.1.8	Pyruvate metabolism
+2.3.3.6	Pyruvate metabolism
+2.3.3.9	Pyruvate metabolism; Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites
+2.7.2.1	Pyruvate metabolism
+2.7.2.12	Pyruvate metabolism
+2.7.9.1	Pyruvate metabolism
+2.7.9.2	Pyruvate metabolism
+2.8.3.1	Pyruvate metabolism
+3.1.2.1	Pyruvate metabolism
+3.1.2.6	Pyruvate metabolism
+3.6.1.7	Pyruvate metabolism
+4.1.1.3	Pyruvate metabolism
+4.1.1.31	Pyruvate metabolism
+4.1.1.38	Pyruvate metabolism
+4.1.1.78	Pyruvate metabolism
+4.1.2.36	Pyruvate metabolism
+4.1.3.-	Pyruvate metabolism
+4.2.1.130	Pyruvate metabolism
+4.4.1.5	Pyruvate metabolism
+5.1.2.1	Pyruvate metabolism
+1.1.1.26	Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites
+1.1.1.36	Glyoxylate and dicarboxylate metabolism
+1.1.1.60	Glyoxylate and dicarboxylate metabolism
+1.1.1.77	Glyoxylate and dicarboxylate metabolism
+1.1.1.92	Glyoxylate and dicarboxylate metabolism
+1.1.1.93	Glyoxylate and dicarboxylate metabolism
+1.1.3.15	Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.99.14	Glyoxylate and dicarboxylate metabolism
+1.2.1.17	Glyoxylate and dicarboxylate metabolism
+1.2.1.2	Glyoxylate and dicarboxylate metabolism
+1.2.1.21	Glyoxylate and dicarboxylate metabolism
+1.2.2.1	Glyoxylate and dicarboxylate metabolism
+1.2.3.4	Glyoxylate and dicarboxylate metabolism
+1.2.3.5	Glyoxylate and dicarboxylate metabolism
+1.3.1.7	Glyoxylate and dicarboxylate metabolism
+1.3.1.85	Glyoxylate and dicarboxylate metabolism
+1.3.8.12	Glyoxylate and dicarboxylate metabolism
+1.4.7.1	Glyoxylate and dicarboxylate metabolism; Nitrogen metabolism
+2.2.1.5	Glyoxylate and dicarboxylate metabolism
+2.3.3.12	Glyoxylate and dicarboxylate metabolism
+2.3.3.7	Glyoxylate and dicarboxylate metabolism
+2.7.2.6	Glyoxylate and dicarboxylate metabolism
+2.8.3.-	Glyoxylate and dicarboxylate metabolism
+2.8.3.2	Glyoxylate and dicarboxylate metabolism
+3.1.2.10	Glyoxylate and dicarboxylate metabolism
+3.1.2.30	Glyoxylate and dicarboxylate metabolism
+3.1.3.18	Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.3.2.4	Glyoxylate and dicarboxylate metabolism
+3.5.1.10	Glyoxylate and dicarboxylate metabolism; One carbon pool by folate
+3.5.1.49	Glyoxylate and dicarboxylate metabolism; Nitrogen metabolism
+3.5.1.56	Glyoxylate and dicarboxylate metabolism
+4.1.1.2	Glyoxylate and dicarboxylate metabolism
+4.1.1.39	Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.1.40	Glyoxylate and dicarboxylate metabolism
+4.1.1.47	Glyoxylate and dicarboxylate metabolism
+4.1.1.54	Glyoxylate and dicarboxylate metabolism
+4.1.1.8	Glyoxylate and dicarboxylate metabolism
+4.1.3.1	Glyoxylate and dicarboxylate metabolism; Biosynthesis of secondary metabolites
+4.1.3.13	Glyoxylate and dicarboxylate metabolism
+4.1.3.24	Glyoxylate and dicarboxylate metabolism
+4.1.3.42	Glyoxylate and dicarboxylate metabolism
+4.2.1.148	Glyoxylate and dicarboxylate metabolism
+4.2.1.32	Glyoxylate and dicarboxylate metabolism
+4.2.1.55	Glyoxylate and dicarboxylate metabolism
+4.3.1.2	Glyoxylate and dicarboxylate metabolism
+5.1.2.5	Glyoxylate and dicarboxylate metabolism
+5.3.1.22	Glyoxylate and dicarboxylate metabolism
+5.4.99.1	Glyoxylate and dicarboxylate metabolism
+6.2.1.8	Glyoxylate and dicarboxylate metabolism
+6.2.1.9	Glyoxylate and dicarboxylate metabolism
+1.5.1.15	One carbon pool by folate
+1.5.1.20	One carbon pool by folate
+1.5.1.3	One carbon pool by folate
+1.5.1.5	One carbon pool by folate
+1.5.1.6	One carbon pool by folate
+1.5.7.1	One carbon pool by folate
+2.1.1.19	One carbon pool by folate
+2.1.2.7	One carbon pool by folate
+2.1.2.9	One carbon pool by folate
+3.5.4.9	One carbon pool by folate
+4.3.1.4	One carbon pool by folate
+6.3.3.2	One carbon pool by folate
+6.3.4.3	One carbon pool by folate
+1.1.1.216	Terpenoid backbone biosynthesis
+1.1.1.267	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.34	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.88	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.17.1.2	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.17.7.1	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.17.7.3	Terpenoid backbone biosynthesis
+1.3.1.83	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+1.8.3.5	Terpenoid backbone biosynthesis; Biosynthesis of antibiotics
+1.8.3.6	Terpenoid backbone biosynthesis; Biosynthesis of antibiotics
+2.1.1.100	Terpenoid backbone biosynthesis; Biosynthesis of antibiotics
+2.2.1.7	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.1	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.10	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.20	Terpenoid backbone biosynthesis
+2.5.1.29	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.5.1.30	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.31	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.58	Terpenoid backbone biosynthesis; Biosynthesis of antibiotics
+2.5.1.68	Terpenoid backbone biosynthesis
+2.5.1.82	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.83	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.84	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.85	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.86	Terpenoid backbone biosynthesis
+2.5.1.87	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.88	Terpenoid backbone biosynthesis
+2.5.1.89	Terpenoid backbone biosynthesis
+2.5.1.90	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+2.5.1.91	Terpenoid backbone biosynthesis
+2.5.1.92	Terpenoid backbone biosynthesis
+2.7.1.-	Terpenoid backbone biosynthesis
+2.7.1.148	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.1.185	Terpenoid backbone biosynthesis
+2.7.1.186	Terpenoid backbone biosynthesis
+2.7.1.36	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.4.2	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.4.26	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+2.7.7.60	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.7.6	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+3.4.22.-	Terpenoid backbone biosynthesis
+3.4.24.84	Terpenoid backbone biosynthesis; Biosynthesis of antibiotics
+4.1.1.33	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.1.1.99	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+4.2.3.27	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites
+4.6.1.12	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.3.3.2	Terpenoid backbone biosynthesis; Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.13.12.16	Nitrogen metabolism
+1.14.99.39	Nitrogen metabolism
+1.18.6.1	Nitrogen metabolism
+1.19.6.1	Nitrogen metabolism
+1.7.1.1	Nitrogen metabolism
+1.7.1.10	Nitrogen metabolism
+1.7.1.14	Nitrogen metabolism
+1.7.1.15	Nitrogen metabolism
+1.7.1.2	Nitrogen metabolism
+1.7.1.3	Nitrogen metabolism
+1.7.1.4	Nitrogen metabolism
+1.7.2.1	Nitrogen metabolism
+1.7.2.2	Nitrogen metabolism
+1.7.2.4	Nitrogen metabolism
+1.7.2.5	Nitrogen metabolism
+1.7.2.6	Nitrogen metabolism
+1.7.3.1	Nitrogen metabolism
+1.7.7.1	Nitrogen metabolism
+1.7.7.2	Nitrogen metabolism
+1.7.99.1	Nitrogen metabolism
+1.7.99.4	Nitrogen metabolism
+1.7.99.8	Nitrogen metabolism
+1.9.6.1	Nitrogen metabolism
+4.2.1.1	Nitrogen metabolism
+4.2.1.104	Nitrogen metabolism
+1.12.98.4	Sulfur metabolism
+1.13.11.18	Sulfur metabolism
+1.13.11.55	Sulfur metabolism
+1.14.11.17	Sulfur metabolism
+1.14.13.111	Sulfur metabolism
+1.14.13.131	Sulfur metabolism
+1.14.14.5	Sulfur metabolism
+1.8.1.17	Sulfur metabolism
+1.8.1.2	Sulfur metabolism
+1.8.2.1	Sulfur metabolism
+1.8.2.3	Sulfur metabolism
+1.8.2.4	Sulfur metabolism
+1.8.3.1	Sulfur metabolism
+1.8.3.4	Sulfur metabolism
+1.8.4.8	Sulfur metabolism
+1.8.4.9	Sulfur metabolism
+1.8.5.-	Sulfur metabolism
+1.8.5.2	Sulfur metabolism
+1.8.5.3	Sulfur metabolism
+1.8.7.1	Sulfur metabolism
+1.8.99.2	Sulfur metabolism
+1.8.99.3	Sulfur metabolism
+1.8.99.5	Sulfur metabolism
+2.1.1.251	Sulfur metabolism
+2.1.1.269	Sulfur metabolism
+2.7.7.5	Sulfur metabolism
+2.8.1.1	Sulfur metabolism
+2.8.1.5	Sulfur metabolism
+3.1.3.7	Sulfur metabolism
+3.12.1.1	Sulfur metabolism
+3.6.2.1	Sulfur metabolism
+3.6.2.2	Sulfur metabolism
+3.6.3.-	Sulfur metabolism
+3.6.3.25	Sulfur metabolism
+3.6.3.36	Sulfur metabolism
+4.4.1.2	Sulfur metabolism
+4.4.1.3	Sulfur metabolism
+1.14.19.-	Biosynthesis of unsaturated fatty acids
+1.14.19.1	Biosynthesis of unsaturated fatty acids
+1.1.1.169	Biosynthesis of secondary metabolites
+1.1.1.193	Biosynthesis of secondary metabolites
+1.1.1.195	Biosynthesis of secondary metabolites
+1.1.1.206	Biosynthesis of secondary metabolites
+1.1.1.207	Biosynthesis of secondary metabolites
+1.1.1.208	Biosynthesis of secondary metabolites
+1.1.1.218	Biosynthesis of secondary metabolites
+1.1.1.219	Biosynthesis of secondary metabolites
+1.1.1.223	Biosynthesis of secondary metabolites
+1.1.1.241	Biosynthesis of secondary metabolites
+1.1.1.243	Biosynthesis of secondary metabolites
+1.1.1.247	Biosynthesis of secondary metabolites
+1.1.1.248	Biosynthesis of secondary metabolites
+1.1.1.273	Biosynthesis of secondary metabolites
+1.1.1.275	Biosynthesis of secondary metabolites
+1.1.1.288	Biosynthesis of secondary metabolites
+1.1.1.294	Biosynthesis of secondary metabolites
+1.1.1.295	Biosynthesis of secondary metabolites
+1.1.1.314	Biosynthesis of secondary metabolites
+1.1.1.324	Biosynthesis of secondary metabolites
+1.1.1.348	Biosynthesis of secondary metabolites
+1.1.1.5	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.1.1.8	Biosynthesis of secondary metabolites
+1.1.1.94	Biosynthesis of secondary metabolites
+1.1.3.21	Biosynthesis of secondary metabolites
+1.1.5.3	Biosynthesis of secondary metabolites
+1.11.1.7	Biosynthesis of secondary metabolites
+1.13.11.12	Biosynthesis of secondary metabolites
+1.13.11.51	Biosynthesis of secondary metabolites
+1.14.11.11	Biosynthesis of secondary metabolites
+1.14.11.12	Biosynthesis of secondary metabolites
+1.14.11.14	Biosynthesis of secondary metabolites
+1.14.11.15	Biosynthesis of secondary metabolites
+1.14.11.19	Biosynthesis of secondary metabolites
+1.14.11.22	Biosynthesis of secondary metabolites
+1.14.11.23	Biosynthesis of secondary metabolites
+1.14.11.31	Biosynthesis of secondary metabolites
+1.14.11.32	Biosynthesis of secondary metabolites
+1.14.11.9	Biosynthesis of secondary metabolites
+1.14.12.20	Biosynthesis of secondary metabolites
+1.14.13.104	Biosynthesis of secondary metabolites
+1.14.13.105	Biosynthesis of secondary metabolites
+1.14.13.108	Biosynthesis of secondary metabolites
+1.14.13.109	Biosynthesis of secondary metabolites
+1.14.13.110	Biosynthesis of secondary metabolites
+1.14.13.112	Biosynthesis of secondary metabolites
+1.14.13.117	Biosynthesis of secondary metabolites
+1.14.13.118	Biosynthesis of secondary metabolites
+1.14.13.122	Biosynthesis of secondary metabolites
+1.14.13.123	Biosynthesis of secondary metabolites
+1.14.13.124	Biosynthesis of secondary metabolites
+1.14.13.136	Biosynthesis of secondary metabolites
+1.14.13.137	Biosynthesis of secondary metabolites
+1.14.13.138	Biosynthesis of secondary metabolites
+1.14.13.139	Biosynthesis of secondary metabolites
+1.14.13.140	Biosynthesis of secondary metabolites
+1.14.13.143	Biosynthesis of secondary metabolites
+1.14.13.144	Biosynthesis of secondary metabolites
+1.14.13.145	Biosynthesis of secondary metabolites
+1.14.13.151	Biosynthesis of secondary metabolites
+1.14.13.152	Biosynthesis of secondary metabolites
+1.14.13.156	Biosynthesis of secondary metabolites
+1.14.13.178	Biosynthesis of secondary metabolites
+1.14.13.179	Biosynthesis of secondary metabolites
+1.14.13.21	Biosynthesis of secondary metabolites
+1.14.13.36	Biosynthesis of secondary metabolites
+1.14.13.37	Biosynthesis of secondary metabolites
+1.14.13.41	Biosynthesis of secondary metabolites
+1.14.13.47	Biosynthesis of secondary metabolites
+1.14.13.48	Biosynthesis of secondary metabolites
+1.14.13.49	Biosynthesis of secondary metabolites
+1.14.13.51	Biosynthesis of secondary metabolites
+1.14.13.52	Biosynthesis of secondary metabolites
+1.14.13.55	Biosynthesis of secondary metabolites
+1.14.13.56	Biosynthesis of secondary metabolites
+1.14.13.57	Biosynthesis of secondary metabolites
+1.14.13.68	Biosynthesis of secondary metabolites
+1.14.13.71	Biosynthesis of secondary metabolites
+1.14.13.74	Biosynthesis of secondary metabolites
+1.14.13.75	Biosynthesis of secondary metabolites
+1.14.13.77	Biosynthesis of secondary metabolites
+1.14.13.78	Biosynthesis of secondary metabolites
+1.14.13.79	Biosynthesis of secondary metabolites
+1.14.13.80	Biosynthesis of secondary metabolites
+1.14.13.81	Biosynthesis of secondary metabolites
+1.14.13.88	Biosynthesis of secondary metabolites
+1.14.13.89	Biosynthesis of secondary metabolites
+1.14.13.90	Biosynthesis of secondary metabolites
+1.14.13.91	Biosynthesis of secondary metabolites
+1.14.21.1	Biosynthesis of secondary metabolites
+1.14.21.2	Biosynthesis of secondary metabolites
+1.14.21.4	Biosynthesis of secondary metabolites
+1.14.21.5	Biosynthesis of secondary metabolites
+1.14.99.37	Biosynthesis of secondary metabolites
+1.14.99.45	Biosynthesis of secondary metabolites
+1.17.1.3	Biosynthesis of secondary metabolites
+1.17.7.2	Biosynthesis of secondary metabolites
+1.2.1.44	Biosynthesis of secondary metabolites
+1.2.1.50	Biosynthesis of secondary metabolites
+1.2.1.70	Biosynthesis of secondary metabolites
+1.2.1.74	Biosynthesis of secondary metabolites
+1.2.3.14	Biosynthesis of secondary metabolites
+1.21.3.2	Biosynthesis of secondary metabolites
+1.21.3.3	Biosynthesis of secondary metabolites
+1.23.5.1	Biosynthesis of secondary metabolites
+1.3.1.22	Biosynthesis of secondary metabolites
+1.3.1.28	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+1.3.1.33	Biosynthesis of secondary metabolites
+1.3.1.36	Biosynthesis of secondary metabolites
+1.3.1.42	Biosynthesis of secondary metabolites
+1.3.1.45	Biosynthesis of secondary metabolites
+1.3.1.69	Biosynthesis of secondary metabolites
+1.3.1.73	Biosynthesis of secondary metabolites
+1.3.1.75	Biosynthesis of secondary metabolites
+1.3.1.76	Biosynthesis of secondary metabolites
+1.3.1.77	Biosynthesis of secondary metabolites
+1.3.1.80	Biosynthesis of secondary metabolites
+1.3.1.81	Biosynthesis of secondary metabolites
+1.3.1.82	Biosynthesis of secondary metabolites
+1.3.3.3	Biosynthesis of secondary metabolites
+1.3.3.4	Biosynthesis of secondary metabolites
+1.3.3.8	Biosynthesis of secondary metabolites
+1.3.3.9	Biosynthesis of secondary metabolites
+1.3.5.3	Biosynthesis of secondary metabolites
+1.3.5.5	Biosynthesis of secondary metabolites
+1.3.5.6	Biosynthesis of secondary metabolites
+1.3.7.7	Biosynthesis of secondary metabolites
+1.3.99.22	Biosynthesis of secondary metabolites
+1.3.99.26	Biosynthesis of secondary metabolites
+1.3.99.28	Biosynthesis of secondary metabolites
+1.3.99.29	Biosynthesis of secondary metabolites
+1.3.99.30	Biosynthesis of secondary metabolites
+1.3.99.31	Biosynthesis of secondary metabolites
+1.4.1.18	Biosynthesis of secondary metabolites
+1.4.99.5	Biosynthesis of secondary metabolites
+1.5.1.27	Biosynthesis of secondary metabolites
+1.5.1.32	Biosynthesis of secondary metabolites
+1.5.3.12	Biosynthesis of secondary metabolites
+2.1.1.107	Biosynthesis of secondary metabolites
+2.1.1.11	Biosynthesis of secondary metabolites
+2.1.1.111	Biosynthesis of secondary metabolites
+2.1.1.115	Biosynthesis of secondary metabolites
+2.1.1.116	Biosynthesis of secondary metabolites
+2.1.1.117	Biosynthesis of secondary metabolites
+2.1.1.119	Biosynthesis of secondary metabolites
+2.1.1.120	Biosynthesis of secondary metabolites
+2.1.1.122	Biosynthesis of secondary metabolites
+2.1.1.128	Biosynthesis of secondary metabolites
+2.1.1.140	Biosynthesis of secondary metabolites
+2.1.1.141	Biosynthesis of secondary metabolites
+2.1.1.158	Biosynthesis of secondary metabolites
+2.1.1.159	Biosynthesis of secondary metabolites
+2.1.1.16	Biosynthesis of secondary metabolites
+2.1.1.160	Biosynthesis of secondary metabolites
+2.1.1.17	Biosynthesis of secondary metabolites
+2.1.1.212	Biosynthesis of secondary metabolites
+2.1.1.270	Biosynthesis of secondary metabolites
+2.1.1.53	Biosynthesis of secondary metabolites
+2.1.1.68	Biosynthesis of secondary metabolites
+2.1.1.71	Biosynthesis of secondary metabolites
+2.1.2.11	Biosynthesis of secondary metabolites
+2.3.1.133	Biosynthesis of secondary metabolites
+2.3.1.146	Biosynthesis of secondary metabolites
+2.3.1.15	Biosynthesis of secondary metabolites
+2.3.1.150	Biosynthesis of secondary metabolites
+2.3.1.159	Biosynthesis of secondary metabolites
+2.3.1.160	Biosynthesis of secondary metabolites
+2.3.1.166	Biosynthesis of secondary metabolites
+2.3.1.167	Biosynthesis of secondary metabolites
+2.3.1.170	Biosynthesis of secondary metabolites
+2.3.1.195	Biosynthesis of secondary metabolites
+2.3.1.211	Biosynthesis of secondary metabolites
+2.3.1.217	Biosynthesis of secondary metabolites
+2.3.1.218	Biosynthesis of secondary metabolites
+2.3.1.219	Biosynthesis of secondary metabolites
+2.3.1.5	Biosynthesis of secondary metabolites
+2.3.1.51	Biosynthesis of secondary metabolites
+2.3.1.74	Biosynthesis of secondary metabolites
+2.3.1.95	Biosynthesis of secondary metabolites
+2.4.1.114	Biosynthesis of secondary metabolites
+2.4.1.115	Biosynthesis of secondary metabolites
+2.4.1.159	Biosynthesis of secondary metabolites
+2.4.1.203	Biosynthesis of secondary metabolites
+2.4.1.219	Biosynthesis of secondary metabolites
+2.4.1.263	Biosynthesis of secondary metabolites
+2.4.1.63	Biosynthesis of secondary metabolites
+2.4.1.85	Biosynthesis of secondary metabolites
+2.4.1.91	Biosynthesis of secondary metabolites
+2.4.2.40	Biosynthesis of secondary metabolites
+2.5.1.112	Biosynthesis of secondary metabolites
+2.5.1.24	Biosynthesis of secondary metabolites
+2.5.1.27	Biosynthesis of secondary metabolites
+2.5.1.32	Biosynthesis of secondary metabolites
+2.5.1.44	Biosynthesis of secondary metabolites
+2.5.1.50	Biosynthesis of secondary metabolites
+2.5.1.61	Biosynthesis of secondary metabolites
+2.5.1.62	Biosynthesis of secondary metabolites
+2.5.1.75	Biosynthesis of secondary metabolites
+2.5.1.78	Biosynthesis of secondary metabolites
+2.5.1.9	Biosynthesis of secondary metabolites
+2.5.1.96	Biosynthesis of secondary metabolites
+2.7.1.107	Biosynthesis of secondary metabolites
+2.7.1.174	Biosynthesis of secondary metabolites
+2.7.1.26	Biosynthesis of secondary metabolites
+2.7.7.2	Biosynthesis of secondary metabolites
+2.7.7.41	Biosynthesis of secondary metabolites
+2.7.8.1	Biosynthesis of secondary metabolites
+2.7.8.24	Biosynthesis of secondary metabolites
+2.7.8.29	Biosynthesis of secondary metabolites
+2.8.2.24	Biosynthesis of secondary metabolites
+3.1.1.10	Biosynthesis of secondary metabolites
+3.1.1.14	Biosynthesis of secondary metabolites
+3.1.1.32	Biosynthesis of secondary metabolites
+3.1.1.4	Biosynthesis of secondary metabolites
+3.1.1.78	Biosynthesis of secondary metabolites
+3.1.1.80	Biosynthesis of secondary metabolites
+3.1.1.82	Biosynthesis of secondary metabolites
+3.1.1.84	Biosynthesis of secondary metabolites
+3.1.3.4	Biosynthesis of secondary metabolites
+3.1.3.81	Biosynthesis of secondary metabolites
+3.1.4.3	Biosynthesis of secondary metabolites
+3.1.4.4	Biosynthesis of secondary metabolites
+3.1.7.10	Biosynthesis of secondary metabolites
+3.1.7.3	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.1.7.5	Biosynthesis of secondary metabolites
+3.2.1.105	Biosynthesis of secondary metabolites
+3.2.1.117	Biosynthesis of secondary metabolites
+3.2.1.118	Biosynthesis of secondary metabolites
+3.2.2.25	Biosynthesis of secondary metabolites
+3.3.2.1	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+3.5.1.22	Biosynthesis of secondary metabolites
+3.5.4.25	Biosynthesis of secondary metabolites
+3.5.5.4	Biosynthesis of secondary metabolites
+3.6.1.26	Biosynthesis of secondary metabolites
+4.1.1.11	Biosynthesis of secondary metabolites
+4.1.1.37	Biosynthesis of secondary metabolites
+4.1.1.65	Biosynthesis of secondary metabolites
+4.1.2.10	Biosynthesis of secondary metabolites
+4.1.2.11	Biosynthesis of secondary metabolites
+4.1.2.46	Biosynthesis of secondary metabolites
+4.1.2.47	Biosynthesis of secondary metabolites
+4.1.99.12	Biosynthesis of secondary metabolites
+4.1.99.16	Biosynthesis of secondary metabolites
+4.1.99.5	Biosynthesis of secondary metabolites
+4.2.1.105	Biosynthesis of secondary metabolites
+4.2.1.123	Biosynthesis of secondary metabolites
+4.2.1.124	Biosynthesis of secondary metabolites
+4.2.1.125	Biosynthesis of secondary metabolites
+4.2.1.127	Biosynthesis of secondary metabolites
+4.2.1.129	Biosynthesis of secondary metabolites
+4.2.1.133	Biosynthesis of secondary metabolites
+4.2.1.139	Biosynthesis of secondary metabolites
+4.2.1.24	Biosynthesis of secondary metabolites
+4.2.1.65	Biosynthesis of secondary metabolites
+4.2.1.75	Biosynthesis of secondary metabolites
+4.2.1.78	Biosynthesis of secondary metabolites
+4.2.1.92	Biosynthesis of secondary metabolites
+4.2.3.10	Biosynthesis of secondary metabolites
+4.2.3.103	Biosynthesis of secondary metabolites
+4.2.3.108	Biosynthesis of secondary metabolites
+4.2.3.11	Biosynthesis of secondary metabolites
+4.2.3.111	Biosynthesis of secondary metabolites
+4.2.3.119	Biosynthesis of secondary metabolites
+4.2.3.120	Biosynthesis of secondary metabolites
+4.2.3.13	Biosynthesis of secondary metabolites
+4.2.3.131	Biosynthesis of secondary metabolites
+4.2.3.132	Biosynthesis of secondary metabolites
+4.2.3.141	Biosynthesis of secondary metabolites
+4.2.3.15	Biosynthesis of secondary metabolites
+4.2.3.16	Biosynthesis of secondary metabolites
+4.2.3.17	Biosynthesis of secondary metabolites
+4.2.3.18	Biosynthesis of secondary metabolites
+4.2.3.19	Biosynthesis of secondary metabolites
+4.2.3.20	Biosynthesis of secondary metabolites
+4.2.3.21	Biosynthesis of secondary metabolites
+4.2.3.22	Biosynthesis of secondary metabolites
+4.2.3.23	Biosynthesis of secondary metabolites
+4.2.3.24	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.3.25	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.3.26	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.2.3.28	Biosynthesis of secondary metabolites
+4.2.3.29	Biosynthesis of secondary metabolites
+4.2.3.30	Biosynthesis of secondary metabolites
+4.2.3.32	Biosynthesis of secondary metabolites
+4.2.3.33	Biosynthesis of secondary metabolites
+4.2.3.34	Biosynthesis of secondary metabolites
+4.2.3.35	Biosynthesis of secondary metabolites
+4.2.3.37	Biosynthesis of secondary metabolites
+4.2.3.38	Biosynthesis of secondary metabolites
+4.2.3.39	Biosynthesis of secondary metabolites
+4.2.3.42	Biosynthesis of secondary metabolites
+4.2.3.43	Biosynthesis of secondary metabolites
+4.2.3.44	Biosynthesis of secondary metabolites
+4.2.3.46	Biosynthesis of secondary metabolites
+4.2.3.56	Biosynthesis of secondary metabolites
+4.2.3.57	Biosynthesis of secondary metabolites
+4.2.3.66	Biosynthesis of secondary metabolites
+4.2.3.8	Biosynthesis of secondary metabolites
+4.2.3.9	Biosynthesis of secondary metabolites
+4.2.99.21	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+4.3.3.2	Biosynthesis of secondary metabolites
+4.3.3.3	Biosynthesis of secondary metabolites
+4.4.1.9	Biosynthesis of secondary metabolites
+4.99.1.1	Biosynthesis of secondary metabolites
+4.99.1.4	Biosynthesis of secondary metabolites
+5.2.1.12	Biosynthesis of secondary metabolites
+5.2.1.13	Biosynthesis of secondary metabolites
+5.2.1.9	Biosynthesis of secondary metabolites
+5.3.99.6	Biosynthesis of secondary metabolites
+5.3.99.9	Biosynthesis of secondary metabolites
+5.4.2.5	Biosynthesis of secondary metabolites; Biosynthesis of antibiotics
+5.4.3.8	Biosynthesis of secondary metabolites
+5.4.4.4	Biosynthesis of secondary metabolites
+5.4.99.31	Biosynthesis of secondary metabolites
+5.4.99.33	Biosynthesis of secondary metabolites
+5.4.99.35	Biosynthesis of secondary metabolites
+5.4.99.39	Biosynthesis of secondary metabolites
+5.4.99.41	Biosynthesis of secondary metabolites
+5.4.99.53	Biosynthesis of secondary metabolites
+5.5.1.12	Biosynthesis of secondary metabolites
+5.5.1.13	Biosynthesis of secondary metabolites
+5.5.1.14	Biosynthesis of secondary metabolites
+5.5.1.17	Biosynthesis of secondary metabolites
+5.5.1.18	Biosynthesis of secondary metabolites
+5.5.1.19	Biosynthesis of secondary metabolites
+5.5.1.6	Biosynthesis of secondary metabolites
+5.5.1.8	Biosynthesis of secondary metabolites
+6.1.1.17	Biosynthesis of secondary metabolites
+6.2.1.32	Biosynthesis of secondary metabolites
+6.3.2.1	Biosynthesis of secondary metabolites
+6.6.1.1	Biosynthesis of secondary metabolites
+1.1.1.133	Biosynthesis of antibiotics
+1.1.1.18	Biosynthesis of antibiotics
+1.1.1.183	Biosynthesis of antibiotics
+1.1.1.266	Biosynthesis of antibiotics
+1.1.1.309	Biosynthesis of antibiotics
+1.1.1.329	Biosynthesis of antibiotics
+1.1.1.339	Biosynthesis of antibiotics
+1.1.1.344	Biosynthesis of antibiotics
+1.1.1.347	Biosynthesis of antibiotics
+1.1.1.362	Biosynthesis of antibiotics
+1.1.1.364	Biosynthesis of antibiotics
+1.1.3.43	Biosynthesis of antibiotics
+1.1.3.44	Biosynthesis of antibiotics
+1.1.3.45	Biosynthesis of antibiotics
+1.1.3.46	Biosynthesis of antibiotics
+1.1.99.38	Biosynthesis of antibiotics
+1.11.1.23	Biosynthesis of antibiotics
+1.13.11.46	Biosynthesis of antibiotics
+1.13.11.72	Biosynthesis of antibiotics
+1.13.11.80	Biosynthesis of antibiotics
+1.13.12.21	Biosynthesis of antibiotics
+1.13.12.22	Biosynthesis of antibiotics
+1.14.13.154	Biosynthesis of antibiotics
+1.14.13.180	Biosynthesis of antibiotics
+1.14.13.181	Biosynthesis of antibiotics
+1.14.13.185	Biosynthesis of antibiotics
+1.14.13.186	Biosynthesis of antibiotics
+1.14.13.188	Biosynthesis of antibiotics
+1.14.13.200	Biosynthesis of antibiotics
+1.14.14.13	Biosynthesis of antibiotics
+1.14.20.3	Biosynthesis of antibiotics
+1.2.1.86	Biosynthesis of antibiotics
+1.3.1.86	Biosynthesis of antibiotics
+1.3.3.14	Biosynthesis of antibiotics
+2.1.1.101	Biosynthesis of antibiotics
+2.1.1.102	Biosynthesis of antibiotics
+2.1.1.234	Biosynthesis of antibiotics
+2.1.1.235	Biosynthesis of antibiotics
+2.1.1.237	Biosynthesis of antibiotics
+2.1.1.238	Biosynthesis of antibiotics
+2.1.1.239	Biosynthesis of antibiotics
+2.1.1.254	Biosynthesis of antibiotics
+2.1.1.284	Biosynthesis of antibiotics
+2.1.1.285	Biosynthesis of antibiotics
+2.1.1.288	Biosynthesis of antibiotics
+2.1.1.292	Biosynthesis of antibiotics
+2.1.1.305	Biosynthesis of antibiotics
+2.1.1.306	Biosynthesis of antibiotics
+2.1.1.307	Biosynthesis of antibiotics
+2.1.1.38	Biosynthesis of antibiotics
+2.1.3.12	Biosynthesis of antibiotics
+2.1.4.2	Biosynthesis of antibiotics
+2.3.1.157	Biosynthesis of antibiotics
+2.3.1.183	Biosynthesis of antibiotics
+2.3.1.226	Biosynthesis of antibiotics
+2.3.1.235	Biosynthesis of antibiotics
+2.3.1.239	Biosynthesis of antibiotics
+2.3.1.240	Biosynthesis of antibiotics
+2.3.1.94	Biosynthesis of antibiotics
+2.3.2.19	Biosynthesis of antibiotics
+2.4.1.277	Biosynthesis of antibiotics
+2.4.1.278	Biosynthesis of antibiotics
+2.4.1.283	Biosynthesis of antibiotics
+2.4.1.284	Biosynthesis of antibiotics
+2.4.1.285	Biosynthesis of antibiotics
+2.4.1.302	Biosynthesis of antibiotics
+2.4.1.316	Biosynthesis of antibiotics
+2.4.1.317	Biosynthesis of antibiotics
+2.4.1.318	Biosynthesis of antibiotics
+2.4.1.326	Biosynthesis of antibiotics
+2.4.1.327	Biosynthesis of antibiotics
+2.4.1.328	Biosynthesis of antibiotics
+2.4.1.331	Biosynthesis of antibiotics
+2.4.2.27	Biosynthesis of antibiotics
+2.4.2.49	Biosynthesis of antibiotics
+2.5.1.111	Biosynthesis of antibiotics
+2.5.1.38	Biosynthesis of antibiotics
+2.6.1.100	Biosynthesis of antibiotics
+2.6.1.101	Biosynthesis of antibiotics
+2.6.1.103	Biosynthesis of antibiotics
+2.6.1.106	Biosynthesis of antibiotics
+2.6.1.33	Biosynthesis of antibiotics
+2.6.1.50	Biosynthesis of antibiotics
+2.6.1.56	Biosynthesis of antibiotics
+2.6.1.93	Biosynthesis of antibiotics
+2.6.1.94	Biosynthesis of antibiotics
+2.6.1.98	Biosynthesis of antibiotics
+2.7.1.179	Biosynthesis of antibiotics
+2.7.1.65	Biosynthesis of antibiotics
+2.7.1.72	Biosynthesis of antibiotics
+2.7.7.23	Biosynthesis of antibiotics
+2.7.7.24	Biosynthesis of antibiotics
+3.1.1.95	Biosynthesis of antibiotics
+3.1.3.25	Biosynthesis of antibiotics
+3.1.3.39	Biosynthesis of antibiotics
+3.1.3.40	Biosynthesis of antibiotics
+3.1.3.88	Biosynthesis of antibiotics
+3.5.1.112	Biosynthesis of antibiotics
+3.5.1.113	Biosynthesis of antibiotics
+3.6.1.57	Biosynthesis of antibiotics
+4.1.1.82	Biosynthesis of antibiotics
+4.1.1.95	Biosynthesis of antibiotics
+4.2.1.144	Biosynthesis of antibiotics
+4.2.1.154	Biosynthesis of antibiotics
+4.2.1.46	Biosynthesis of antibiotics
+4.2.3.124	Biosynthesis of antibiotics
+4.3.1.30	Biosynthesis of antibiotics
+4.3.2.6	Biosynthesis of antibiotics
+5.1.1.14	Biosynthesis of antibiotics
+5.1.3.13	Biosynthesis of antibiotics
+5.1.3.25	Biosynthesis of antibiotics
+5.4.2.10	Biosynthesis of antibiotics
+5.4.2.3	Biosynthesis of antibiotics
+5.4.2.9	Biosynthesis of antibiotics
+5.5.1.23	Biosynthesis of antibiotics
+5.5.1.26	Biosynthesis of antibiotics
+5.5.1.4	Biosynthesis of antibiotics
+6.2.1.39	Biosynthesis of antibiotics
+6.3.1.15	Biosynthesis of antibiotics
+6.3.3.6	Biosynthesis of antibiotics

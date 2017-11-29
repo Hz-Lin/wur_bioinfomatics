@@ -1,0 +1,27 @@
+KEGG pathway	Description	p-value	significant base on p-value	significant after FDR
+map00010	Phenylalanine metabolism	0.0110072718725	yes	no
+map00020	Phenylalanine metabolism	0.269272686836	no	no
+map00040	Phenylalanine metabolism	0.188734246112	no	no
+map00051	Phenylalanine metabolism	0.0374999996417	yes	no
+map00053	Phenylalanine metabolism	0.642747700115	no	no
+map00061	Phenylalanine metabolism	0.000326229045676	yes	yes
+map00071	Phenylalanine metabolism	0.442197125429	no	yes
+map00130	Phenylalanine metabolism	0.188734246112	no	yes
+map00190	Phenylalanine metabolism	0.0812160943721	no	yes
+map00220	Phenylalanine metabolism	0.00627439810784	yes	no
+map00230	Phenylalanine metabolism	0.000406655722116	yes	yes
+map00240	Phenylalanine metabolism	0.0805128904537	no	yes
+map00270	Phenylalanine metabolism	0.00269329747648	yes	no
+map00311	Phenylalanine metabolism	0.00492850355507	yes	no
+map00330	Phenylalanine metabolism	0.0805128904537	no	no
+map00331	Phenylalanine metabolism	0.000529346098239	yes	yes
+map00350	Phenylalanine metabolism	0.188734246112	no	yes
+map00360	Phenylalanine metabolism	0.34180493937	no	yes
+map00380	Phenylalanine metabolism	0.269272686836	no	yes
+map00473	Phenylalanine metabolism	0.269272686836	no	yes
+map00480	Phenylalanine metabolism	0.148045866654	no	yes
+map00620	Phenylalanine metabolism	0.112971530071	no	yes
+map00630	Phenylalanine metabolism	0.188734246112	no	yes
+map00910	Phenylalanine metabolism	0.566666270077	no	yes
+map00920	Phenylalanine metabolism	0.222817716914	no	yes
+map01110	Phenylalanine metabolism	0.0125556698184	yes	no

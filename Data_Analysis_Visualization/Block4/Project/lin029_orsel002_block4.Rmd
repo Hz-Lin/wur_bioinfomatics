@@ -1,0 +1,313 @@
+---
+title: 'Block 4: Regression'
+author: "Huizhi Lin (881125518130) & Jan Orsel (080695690010)"
+date: "November 20, 2017"
+output: word_document
+---
+
+In this project we tried to analyse how gene expression levels in specific metabolic pathways are related to each other. We did this with the help of linear regression models where we regress gene expression levels with each other. Unlike the previous project we now used the breast cancer data as shown in the block of code below. For this project the difference in normal and tumour tissue was not taken into account.
+```{r data}
+breast.data <- read.table("get_normal_vs_tumor2_RAW_Breast.out", sep=' ', header=TRUE)
+```
+
+## Task A
+
+For the first assignment a new dataframe was created that only contained the genes 'EHHADH, PCCB, OXCT1, MCCC1 and GCDH'. This deleted the header names so we had to add them manually again.
+```{r small data}
+small.data <- as.data.frame(cbind(breast.data$EHHADH,breast.data$PCCB,breast.data$OXCT1,breast.data$MCCC1,breast.data$GCDH))
+colnames(small.data) <- c('EHHADH','PCCB','OXCT1','MCCC1','GCDH')
+```
+
+The data of these was visualised with the pairs function to give a first impression on possible correlation. The pairs function created a mirrored matrix scatter plot.
+```{r matrix scatter plot}
+pairs(small.data)
+```
+
+At first impression the plot does not show significant correlations between these five genes. Then we log-transform the data and visualised it.
+```{r matrix scatter plot log}
+log.data <- log(small.data)
+pairs(log.data)
+```
+
+We created histograms using ggplot to visualise if the data was normally distributed. This was done for all the 5 genes of the krebs cycle.
+```{r histogram}
+library(ggplot2)
+pl.EHHADH <- ggplot(data=small.data,aes(x=small.data$EHHADH)) + geom_histogram(binwidth=10,color='yellow') + xlab("EHHADH")
+pl.PCCB <- ggplot(data=small.data,aes(x=small.data$PCCB)) + geom_histogram(binwidth=10,color='yellow') + xlab("PCCB")
+pl.OXCT1 <- ggplot(data=small.data,aes(x=small.data$OXCT1)) + geom_histogram(binwidth=10,color='yellow') + xlab("OXCT1")
+pl.MCCC1 <- ggplot(data=small.data,aes(x=small.data$MCCC1)) + geom_histogram(binwidth=10,color='yellow') + xlab("MCCC1")
+pl.GCDH <- ggplot(data=small.data,aes(x=small.data$GCDH)) + geom_histogram(binwidth=10,color='yellow') + xlab("GCDH")
+print(pl.EHHADH)
+print(pl.PCCB)
+print(pl.OXCT1)
+print(pl.MCCC1)
+print(pl.GCDH)
+```
+
+Based on these histograms we conclude that our variables are not normally distributed. Therefore we visualised them after the log-transformation to see if they had become normally distributed. The code for creating histograms on the log-transformed data is shown below.
+```{r histogram log}
+library(ggplot2)
+pllg.EHHADH <- ggplot(data=log.data,aes(x=log.data$EHHADH)) + geom_histogram(binwidth=0.1,color='yellow') + xlab("EHHADH")
+pllg.PCCB <- ggplot(data=log.data,aes(x=log.data$PCCB)) + geom_histogram(binwidth=0.1,color='yellow') + xlab("PCCB")
+pllg.OXCT1 <- ggplot(data=log.data,aes(x=log.data$OXCT1)) + geom_histogram(binwidth=0.1,color='yellow') + xlab("OXCT1")
+pllg.MCCC1 <- ggplot(data=log.data,aes(x=log.data$MCCC1)) + geom_histogram(binwidth=0.1,color='yellow') + xlab("MCCC1")
+pllg.GCDH <- ggplot(data=log.data,aes(x=log.data$GCDH)) + geom_histogram(binwidth=0.1,color='yellow') + xlab("GCDH")
+par(mfrow=c(1,5))
+print(pllg.EHHADH)
+print(pllg.PCCB)
+print(pllg.OXCT1)
+print(pllg.MCCC1)
+print(pllg.GCDH)
+```
+Though far from perfect after the log-transformation the variables seem more or less normally distributed.
+
+First we created multiple linear regression models that predict genes from the Krebs cycle using the other genes from this cycle with the non-transformed data. For each model a scatter plot was created. On the x-axis of these scatterplots are the observed values and the predicted values are projected on the y-axix. A diagonal line is drawn to visualise what a  perfect prediction would look like.
+
+**Model 1:** 
+EHHADH as dependent variable, other genes as independent variable
+```{r model 1}
+model1 <- lm(EHHADH ~ PCCB + OXCT1 + MCCC1 + GCDH, data=small.data)
+summary(model1)
+ypred1 <- predict(model1)
+plot(small.data$EHHADH,ypred1)
+abline(a=0,b=1)
+```
+**Model 2:**
+PCCB as dependent variable, other genes as independent variable
+```{r model 2}
+model2 <- lm(PCCB ~ EHHADH + OXCT1 + MCCC1 + GCDH, data=small.data)
+summary(model2)
+ypred2 <- predict(model2)
+plot(small.data$PCCB,ypred2)
+abline(a=0,b=1)
+```
+**Model 3:**
+OXCT1 as dependent variable, other genes as independent variable
+```{r model 3}
+model3 <- lm(OXCT1 ~ PCCB + EHHADH + MCCC1 + GCDH, data=small.data)
+summary(model3)
+ypred3 <- predict(model3)
+plot(small.data$OXCT1,ypred3)
+abline(a=0,b=1)
+```
+**Model 4:**
+MCCC1 as dependent variable, other genes as independent variable
+```{r model 4}
+model4 <- lm(MCCC1 ~ PCCB + EHHADH + OXCT1 + GCDH, data=small.data)
+summary(model4)
+ypred4 <- predict(model4)
+plot(small.data$MCCC1,ypred4)
+abline(a=0,b=1)
+```
+**Model 5:** 
+GCDH as dependent variable, other genes as independent variable
+```{r model 5}
+model5 <- lm(GCDH ~ PCCB + EHHADH + OXCT1 + MCCC1, data=small.data)
+summary(model5)
+ypred5 <- predict(model5)
+plot(small.data$GCDH,ypred5)
+abline(a=0,b=1)
+```
+
+The same multiple linear regression models were created using the log-transformed data. For these models a scatterplot is plotted too, the x and y axis contain the same variables as in the plots shown above.
+**Model 1 log:**
+EHHADH as dependent variable, other genes as independent variable
+```{r model 1 log}
+model1.log <- lm(EHHADH ~ PCCB + OXCT1 + MCCC1 + GCDH, data=log.data)
+summary(model1.log)
+ypred1.log <- predict(model1.log)
+plot(log.data$EHHADH,ypred1.log)
+abline(a=0,b=1)
+```
+**Model 2 log:**
+PCCB as dependent variable, other genes as independent variable
+```{r model 2 log}
+model2.log <- lm(PCCB ~ EHHADH + OXCT1 + MCCC1 + GCDH, data=log.data)
+summary(model2.log)
+ypred2.log <- predict(model2.log)
+plot(log.data$PCCB,ypred2.log)
+abline(a=0,b=1)
+```
+**Model 3 log:**
+OXCT1 as dependent variable, other genes as independent variable
+```{r model 3 log}
+model3.log <- lm(OXCT1 ~ PCCB + EHHADH + MCCC1 + GCDH, data=log.data)
+summary(model3.log)
+ypred3.log <- predict(model3.log)
+plot(log.data$OXCT1,ypred3.log)
+abline(a=0,b=1)
+```
+**Model 4 log:** 
+MCCC1 as dependent variable, other genes as independent variable
+```{r model 4 log}
+model4.log <- lm(MCCC1 ~ PCCB + EHHADH + OXCT1 + GCDH, data=log.data)
+summary(model4.log)
+ypred4.log <- predict(model4.log)
+plot(log.data$MCCC1,ypred4.log)
+abline(a=0,b=1)
+```
+**Model 5 log:** 
+GCDH as dependent variable, other genes as independent variable
+```{r model 5 log}
+model5.log <- lm(GCDH ~ PCCB + EHHADH + MCCC1 + OXCT1, data=log.data)
+summary(model5.log)
+ypred5.log <- predict(model5.log)
+plot(log.data$GCDH,ypred5.log)
+abline(a=0,b=1)
+```
+
+The following table shows the R� values for the models created on both the non transformed and log transformed data.
+
+Predicted gene |  R^2^ |    Sig.var+       | R^2^ (log) | Sig.variables+(log) 
+---------------|---------------------------|------------|---------------------
+EHHADH         | 0.025 | MCCC1             | 0.067      | OXCT1,MCCC1,GCDH  
+PCCB           | 0.251 | MCCC1,GCDH        | 0.250      | MCCC1,GCDH
+OXCT1          | 0.092 | MCCC1             | 0.090      | EHHADH,MCCC1
+MCCC1          | 0.236 | PCCB,EHHADH,OXCT1 | 0.249      | PCCB,EHHADH,OXCT1,GCDH,OXCT1
+GCDH           | 0.122 | PCCB              | 0.162      | PCCB,EHHADH,MCCC1
++ Significant variables with p<0.05
+
+When looking at the summaries of the models it becomes clear that the coefficients are larger numbers for the non-transformed data but often these variables are not significant. The coefficients for the log-transformed data are closer to zero but often are far more often significant. For model 4 all 4 genes generate significant B-coefficients. We concluded that the predictive properties of these models is rather poor. This is shown by the low R� values and the poorly predicted scatterplots.
+
+## Task B
+
+For this task, we used the *breast.data* data frame. First we inspect the data.
+```{r inspect the data}
+dim(breast.data)
+colnames(breast.data)
+tail(colnames(breast.data))
+```
+
+Then we realised the last column of this data is tissue, which is not a gene expression value. Therefore, we created a new data frame without this column, and transform it into a matrix.
+```{r data matrix}
+bdata <- as.matrix(breast.data[,1:2561])
+```
+
+Afterwards we loaded in the  **glmnet** package, we used lasso regression to create models that predict each gene of the Krebs cycle using all the genes as possible independent variables. The lasso method would then calculate the optimal genes to use to create a model. 
+We then tried to use leave-one-out cross validation however we realised it would take too much time to finish creating just one model. Therefore, we wanted to use the 10-fold cross validation. However, we have 503 samples in our data, and 503 is a prime number so this could not be divided by ten. In the end we had to delete the last 3 samples out of our dataset to be capable of using ten fold cross validation.
+
+Inside the block of code for each model it is shown which genes the lasso model used to create the model. These genes are shown after the colnames(x.)[which(coef(mdl.) != 0)].
+```{r five hundard samples}
+# create a new matrix with only 500 samples
+bdata.less <- bdata[1:500,]
+# create a 100-porin grid
+grid <- 10^seq(10,-10,length=200)
+# load the glmnet labrary
+library(glmnet)
+```
+
+**Lasso Model 1:**
+```{r lasso EHHADH}
+x1 <- bdata.less[,-which(colnames(bdata.less) =='EHHADH')]
+y1 <- bdata.less[,which(colnames(bdata.less) =='EHHADH')]
+# split data into 10-fold
+fold1 <- split(sample(1:nrow(bdata.less)), 1:10)
+ypred1 <- rep(NA, nrow(bdata.less))
+for (i in fold1){
+  mdl1 <- cv.glmnet(x=x1[-i,],y=y1[-i], alpha=1, lambda=grid)
+  for (pos in i){
+  ypred1[pos] <- predict(mdl1, newx=t(x1[pos,]))
+  }
+}
+# calculate the Q-square
+Q2.1 <- sum((ypred1-mean(y1))^2)/sum((y1-mean(y1))^2)
+colnames(x1)[which(coef(mdl1) != 0)]
+# visulazition
+plot(y1,ypred1,main=sprintf('%s lasso Q^2=%.2f','EHHADH',Q2.1))
+abline(a=0,b=1)
+```
+
+**Lasso Model 2:**
+```{r lasso PCCB}
+x2 <- bdata.less[,-which(colnames(bdata.less) =='PCCB')]
+y2 <- bdata.less[,which(colnames(bdata.less) =='PCCB')]
+# split data into 10-fold
+fold2 <- split(sample(1:nrow(bdata.less)), 1:10)
+ypred2 <- rep(NA, nrow(bdata.less))
+for (i in fold2){
+  mdl2 <- cv.glmnet(x=x2[-i,],y=y2[-i], alpha=1, lambda=grid)
+  for (pos in i){
+  ypred2[pos] <- predict(mdl2, newx=t(x2[pos,]))
+  }
+}
+# calculate the Q-square
+Q2.2 <- sum((ypred2-mean(y2))^2)/sum((y2-mean(y2))^2)
+colnames(x2)[which(coef(mdl2) != 0)]
+# visulazition
+plot(y2,ypred2,main=sprintf('%s lasso Q^2=%.2f','PCCB',Q2.2))
+abline(a=0,b=1)
+```
+
+**Lasso Model 3:**
+```{r lasso OXCT1}
+x3 <- bdata.less[,-which(colnames(bdata.less) =='OXCT1')]
+y3 <- bdata.less[,which(colnames(bdata.less) =='OXCT1')]
+# split data into 10-fold
+fold3 <- split(sample(1:nrow(bdata.less)), 1:10)
+ypred3 <- rep(NA, nrow(bdata.less))
+for (i in fold3){
+  mdl3 <- cv.glmnet(x=x3[-i,],y=y3[-i], alpha=1, lambda=grid)
+  for (pos in i){
+  ypred3[pos] <- predict(mdl3, newx=t(x3[pos,]))
+  }
+}
+# calculate the Q-square
+Q2.3 <- sum((ypred3-mean(y3))^2)/sum((y3-mean(y3))^2)
+colnames(x3)[which(coef(mdl3) != 0)]
+# visulazition
+plot(y3,ypred3,main=sprintf('%s lasso Q^2=%.2f','OXCT1',Q2.3))
+abline(a=0,b=1)
+```
+
+**Lasso Model 4:**
+```{r lasso MCCC1}
+x4 <- bdata.less[,-which(colnames(bdata.less) =='MCCC1')]
+y4 <- bdata.less[,which(colnames(bdata.less) =='MCCC1')]
+# split data into 10-fold
+fold4 <- split(sample(1:nrow(bdata.less)), 1:10)
+ypred4 <- rep(NA, nrow(bdata.less))
+for (i in fold4){
+  mdl4 <- cv.glmnet(x=x4[-i,],y=y4[-i], alpha=1, lambda=grid)
+  for (pos in i){
+  ypred4[pos] <- predict(mdl4, newx=t(x4[pos,]))
+  }
+}
+# calculate the Q-square
+Q2.4 <- sum((ypred4-mean(y4))^2)/sum((y4-mean(y4))^2)
+colnames(x4)[which(coef(mdl4) != 0)]
+# visulazition
+plot(y4,ypred4,main=sprintf('%s lasso Q^2=%.2f','MCCC1',Q2.4))
+abline(a=0,b=1)
+```
+
+**Lasso Model 5:**
+```{r lasso GCDH}
+x5 <- bdata.less[,-which(colnames(bdata.less) =='GCDH')]
+y5 <- bdata.less[,which(colnames(bdata.less) =='GCDH')]
+# split data into 10-fold
+fold5 <- split(sample(1:nrow(bdata.less)), 1:10)
+ypred5 <- rep(NA, nrow(bdata.less))
+for (i in fold5){
+  mdl5 <- cv.glmnet(x=x5[-i,],y=y5[-i], alpha=1, lambda=grid)
+  for (pos in i){
+  ypred5[pos] <- predict(mdl5, newx=t(x5[pos,]))
+  }
+}
+# calculate the Q-square
+Q2.5 <- sum((ypred5-mean(y5))^2)/sum((y5-mean(y5))^2)
+colnames(x5)[which(coef(mdl5) != 0)]
+# visulazition
+plot(y5,ypred5,main=sprintf('%s lasso Q^2=%.2f','GCDH',Q2.5))
+abline(a=0,b=1)
+```
+
+
+Using ten fold cross validation a Q� value was calculated for all models. These Q� values are shown in the table below. The models for PCCB and MCCC1 are a lot better, the Q� is reasonably high and the plots show correlation between the line and the predicted values. Of these two the model for PCCB is clearly the best model. 
+
+**Predicted gene** | **Q^2^ value for model** 
+-------------------|--------------------------
+EHHADH             |  0.06                    
+PCCB               |  0.49                    
+OXCT1              |  0.11                    
+MCCC1              |  0.31                    
+GCDH               |  0.09                    

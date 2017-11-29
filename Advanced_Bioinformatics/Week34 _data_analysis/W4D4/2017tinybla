@@ -1,0 +1,19 @@
+# BLASTP 2.6.0+
+# Query: g4
+# Database: yeastdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+g4	YKR105C	93.643	582	6	1	1	551	1	582	0.0	1086
+# BLASTP 2.6.0+
+# Query: g5
+# Database: yeastdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+g5	YCR039C	100.000	210	0	0	1	210	1	210	9.58e-154	422
+# BLASTP 2.6.0+
+# Query: g6
+# Database: yeastdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+g6	YCR040W	100.000	175	0	0	1	175	1	175	4.76e-132	365
+# BLAST processed 3 queries

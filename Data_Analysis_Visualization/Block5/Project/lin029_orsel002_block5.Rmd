@@ -1,0 +1,158 @@
+---
+title: 'Block 5: Hypothesis Tests'
+author: "Huizhi Lin (881125518130) & Jan Orsel (960608"
+date: "November 24, 2017"
+output: word_document
+---
+During this project the goal is to find out for which genes the expression levels  differ significantly between normal and tumour samples. The genes analysed are the genes in the female reproductive system dataset.
+
+## Inspect the data set
+We first read the data into a data frame and then inspected the data using the code below.
+```{r inspect data}
+data <- read.table('get_normal_vs_tumor2_RAW_Female.Reproductive.System.out', header = TRUE, sep = ' ')
+dim(data)
+colnames(data)
+```
+This data frame has 130 rows (samples) and 2562 columns (2561 genes and one extra column with the information of tissue samples).
+
+
+## creating dataframes of normal tissue and tumor tissue
+Before we could start doing hypothesis testing, we had to create two subdata set, one containing the normal samples and the other one containing the tumour samples.
+```{r seperate data}
+normal <- data[data$tissue=='normal',]
+tumor <- data[data$tissue=='tumor',]
+```
+
+Then we selected 6 genes and created histograms to visualise their distribution. This was done in order to check if the data is normally distributed.
+```{r histogram}
+library(ggplot2)
+library("gridExtra")
+pl <- lapply(34:39, function(i){
+  ggplot(data=normal,aes(x=normal[,i])) + geom_histogram(binwidth=10) + xlab(sprintf("%s normal",colnames(normal)[i]))
+}) 
+marrangeGrob(pl, nrow=2, ncol=3)
+pl <- lapply(34:39, function(i){
+  ggplot(data=tumor,aes(x=tumor[,i])) + geom_histogram(binwidth=10) + xlab(sprintf("%s tumor",colnames(tumor)[i]))
+}) 
+marrangeGrob(pl, nrow=2, ncol=3)
+```
+
+The histograms show that the data for most of the genes is not normally distributed, which is futher proved by the *Shapiro-Wilk* normality test shows below. Furthermore it shows that the range of expression varies enormously for each gene. This makes choosing an appropriate bin size harder. 
+```{r normality test}
+# normal samples
+for (i in 34:39){
+  result <- shapiro.test(normal[,i])
+  print(result)
+}
+# tumor samples
+for (i in 34:39){
+  result <- shapiro.test(tumor[,i])
+  print(result)
+}
+```
+
+Therefore we decided to create a new data frame with log transformed data in the hope that this data would become normal distributed. 
+```{r log transforme data}
+logdata <- data
+logdata[,1:2561] <- log(logdata[,1:2561])
+normal.log <- logdata[logdata$tissue=='normal',]     
+tumor.log <- logdata[logdata$tissue=='tumor',]   
+```
+
+After the log transformation, we created histograms of the same 6 genes, and check the distribution with  *Shapiro-Wilk* test.
+```{r log trans data histogram}
+pl <- lapply(34:39, function(i){
+  ggplot(data=normal.log,aes(x=normal.log[,i])) + geom_histogram(binwidth=0.05) + xlab(sprintf("%s normal",colnames(normal.log)[i]))
+}) 
+marrangeGrob(pl, nrow=2, ncol=3)
+pl <- lapply(34:39, function(i){
+  ggplot(data=tumor.log,aes(x=tumor.log[,i])) + geom_histogram(binwidth=0.05) + xlab(sprintf("%s tumor",colnames(tumor.log)[i]))
+})
+marrangeGrob(pl, nrow=2, ncol=3)
+```
+```{r normality test logdata}
+# normal samples
+for (i in 34:39){
+  result <- shapiro.test(normal.log[,i])
+  print(result)
+}
+# tumor samples
+for (i in 34:39){
+  result <- shapiro.test(tumor.log[,i])
+  print(result)
+}
+```
+The results shows that after log-transformation, two of the 6 genes in the normal samples and three of the 6 genes in the tumour samples are still not normally distributed.
+
+
+## hypothesis tests
+### t-test
+First we chose to use t-test. We decided to use a two sided t test because a gene can either be up-regulated or down-regulated in a normal sample compared to a tumour sample.
+H0 = There is no difference in expression of the genes analysed between the normal and the tumour samples.
+Ha = There is a difference in expression of the genes analysed between the normal and the tumour samples.
+
+First we tested only the first gene in the data set to verify that the results are as expected. Then in a for loop all the p-values for all the genes is assigned to a variable called pvals.
+```{r t tests}
+t.test(normal.log[,1], tumor.log[,1], 'two.sided')
+pvals <- sapply(1:2561,function(i){
+  t.test(normal.log[,i],tumor.log[,i],"two.sided")$p.value
+})
+hist(pvals)
+```
+This histogram shows the distribution of p- values, the first bin contains all genes get a p-value under 0.05.
+
+Then we created a new data frame with all the genes name as first column and their p-values as second column.
+```{r dataframe p value}
+genes <- colnames(logdata)[-2562]
+df.ttest <- data.frame(genes,pvals)
+df.ttest = df.ttest[order(df.ttest$pvals),]
+```
+
+We applied the  *Bonferroni* and *Benjamini-Hochberg* methods to limit the probability of false discovery. We also assign the adjust p-values from these two method to the data frame.
+```{r correcting for multiple testing}
+df.ttest$Bonferroni <- p.adjust(df.ttest$pvals, method = "bonferroni")
+df.ttest$BH <- p.adjust(df.ttest$pvals, method = "BH")
+head(df.ttest, n=10)
+```
+
+Above here we got our top 10 most significant genes. We made boxplots to check if there are any artefacts. We are looking for very strange looking boxplots where something could have gone wrong with the measuring equipment. 
+```{r boxplot significant genes}
+par(mfrow=c(2,5))
+for (i in 1:10){
+  gene <- df.ttest[i,1]
+  index <- grep(sprintf("^%s$",gene), colnames(normal.log))
+  boxplot(normal.log[,index],tumor.log[,index],names=c("normal","tumor"),main=sprintf("%s",gene))
+}
+```
+In our opinion the boxplots do not indicate any clear measuring errors. For some genes the distribution is small, for example the PDXL normal sample is ranges relatively small but there is no evidence that this is incorrect.
+
+### Mann-Whitney U test
+Because we found some genes do not follow a normal distribution even after the log-transformation we decided to also do *Mann-Whitney U test*. This test is less powerful but designed to work with data that is not normally distributed..
+```{r u tests}
+wilcox.test(normal[,1], tumor[,1])
+pvals <- sapply(1:2561,function(i){
+  wilcox.test(normal[,i],tumor[,i])$p.value
+})
+hist(pvals)
+```
+
+Then we created a new data frame with all the genes name as first column and their p-values as second column. And we applied *Bonferroni* and *Benjamini-Hochberg* method to limit the probability of false discovery.
+```{r correcting for multiple testing u test}
+genes <- colnames(data)[-2562]
+df.utest <- data.frame(genes,pvals)
+df.utest = df.utest[order(df.utest$pvals),]
+df.utest$Bonferroni <- p.adjust(df.utest$pvals, method = "bonferroni")
+df.utest$BH <- p.adjust(df.utest$pvals, method = "BH")
+head(df.utest, n=10)
+```
+
+Here we got our top 10 most significant genes. We made boxplots to check if some of these genes turned out to be significant because of artefacts or machine errors.
+```{r boxplot significant genes from u test}
+par(mfrow=c(2,5))
+for (i in 1:10){
+  gene <- df.utest[i,1]
+  index <- grep(sprintf("^%s$",gene), colnames(normal))
+  boxplot(normal[,index],tumor[,index],names=c("normal","tumor"),main=sprintf("%s",gene))
+}
+```
+The boxplots visualise the distribution of the 10 genes where the difference between normal and tumour samples is most significant. These boxplots are created to check if the difference in significance is derived from actual difference between the two distribution or if the difference is derived form an error in the data. The ten boxplots above these ten don’t show very clearly if that is the case, the ten boxplots derived from the Mann-Whitney U test show some clear candidates where something might have gone wrong. A few plots show a distribution for either normal or tumour tissue that is simply not realistic in real life, especially compared to their tissue counterpart. The boxplot for BHMT2 shows two very small boxes, it could be that this is the natural distribution for this gene but a few very weird outliers suggest otherwise. Some of the genes in this top ten are also in the top ten of the t-test derived data. It would be wise to double check the original data to see if there were any mistakes made by the measuring equipment.
