@@ -1,0 +1,397 @@
+---
+title: 'Block 6: Classification'
+author: "Huizhi Lin (88112551813)"
+date: "November 30, 2017"
+output: word_document
+---
+
+The aim of this project is to build classifiers to discriminate normal from tumor tissue, based on metabolic gene expression patterns. I have used the following tissue (sub)sets:  skin, breast and all tissues. First I load all the libraries I need to use in this project.
+```{r load libraries}
+library(rpart)
+library(chemometrics)
+library(class)
+library(tree)
+library(randomForest)
+```
+
+Then I created three data frames for data of skin, breast and all tissues, and inspect the data sets.
+```{r load data}
+skin <- read.table("get_normal_vs_tumor2_RAW_Skin.out",sep=" ",header=TRUE)
+breast <- read.table("get_normal_vs_tumor2_RAW_Breast.out",sep=" ",header=TRUE)
+all <- read.table("get_normal_vs_tumor_RAW.out",sep=" ",header=TRUE)
+dim(skin)
+tail(colnames(skin))
+dim(breast)
+tail(colnames(breast))
+dim(all)
+tail(colnames(all))
+```
+All data frames contains 2562 columns which repersent 2561 genes and the 2562nd column (tissue) contains the indicator of sample labels (normal or tumor). The data frame of skin tiusses has 72 rows (samples: 29 healthy and 43 tumor). The data frame of breast tiusses has 503 rows (samples: 142 healthy and 361 tumor). The data frame of breast tiusses has 2130 rows (samples: 688 healthy and 1444 tumor).
+
+
+## Skin Tissues
+
+### k-nearest neighbour
+Firstly, I made boxplot of several genes to check their ranges.
+```{r skin boxplot}
+boxplot(skin[,1:9])
+```
+
+The boxplot shows that there are huge differences in the ranges between different genes. Since the K-nearest neighbour uses Euclidean distance, and it is sensitive to scale of the individual features, I chose to create a new scaled data for the futher analyses.
+```{r skin scaled data}
+nskin <- skin
+nskin[,-2562] <- scale(skin[,-2562])
+boxplot(nskin[,1:9])
+```
+
+Then I tried cross-validation to find the optimal k
+```{r skin optimal k}
+ntrain.skin <- round(nrow(skin)*3/4)
+set.seed(30)
+train.skin <- sample(1:nrow(skin),ntrain.skin)
+res.skin <- knnEval(nskin[,-2562],nskin[,2562],train.skin,kfold=10,knnvec=seq(1,25,1),legpos="bottomright")
+```
+
+The plot shows that k=1 is good enough.  Therefore I crated the model with k =1, and calculated the accuracy of the results and inspect the confusion matrices on both the trainning set and the test set.
+```{r skin knn accuracy}
+# trainning set
+preds <- knn(nskin[train.skin,-2562],nskin[train.skin,-2562],nskin[train.skin,2562],k=1)
+length(which(preds==nskin[train.skin,2562]))/length(preds)
+table(preds,nskin[train.skin,2562])
+# test set
+preds <- knn(nskin[train.skin,-2562],nskin[-train.skin,-2562],nskin[train.skin,2562],k=1)
+length(which(preds==nskin[-train.skin,2562]))/length(preds)
+table(preds,nskin[-train.skin,2562])
+```
+Because k=1, the accuracy on the trainning set is 100%. Moreover the result also yields 100% accuracy on the test set. 
+
+### Logistic regression
+First I created the model and summary it to see which probesets are assigned large weight in the model.
+```{r skin lr}
+lr.skin <- glm(tissue~.,data=skin[train.skin,],family="binomial")
+summary(lr.skin)
+```
+
+Based on the summary, all the genes until gene "CDIPT" are informative for this model. While a lot genes are not used in this model (with 'NA' as  Estimate). Then I created a list of all the names of these genes (53 in total, sorted by Estimate).
+```{r skin informative genes}
+genes.skin <- names(sort(lr.skin$coefficients[-1]))
+print(length(genes.skin))
+print(genes.skin)
+```
+I also calculate the accuracy of the results and inspect the confusion matrices on both the trainning set and the test set.
+```{r skin lr accuracy}
+# training set
+preds <- predict(lr.skin,newdata=skin[train.skin,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==skin[train.skin,2562]))/length(preds)
+table(preds,skin[train.skin,2562])
+# test set
+preds <- predict(lr.skin,newdata=skin[-train.skin,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==skin[-train.skin,2562]))/length(preds)
+table(preds,skin[-train.skin,2562])
+```
+The accuracy on the trainning set is 100%. But the accuracy on the test set is only 0.67, and the confusion matrix shows that there are both false positive and false negetive. This means the model is overtrained.
+
+### Dicision tree
+First I created the decision tree and visualized the tree.
+```{r skin tree}
+tree.skin <- tree(tissue~.,data=skin[train.skin,])
+plot(tree.skin)
+text(tree.skin)
+```
+
+This is a very simple tree and it only has two leaves and one split. If The expression of gene *PRDX4* is large than 1808.15, than the sample is predicted as normal sample, while the sample with the expression of gene *PRDX4* below 1808.15 is predicted as tumor sample.
+
+```{r skin tree accuracy}
+# training set
+preds <- predict(tree.skin,newdata=skin[train.skin,],type="class")
+length(which(preds==skin[train.skin,2562]))/length(preds)
+table(preds,skin[train.skin,2562])
+# test set
+preds <- predict(tree.skin,newdata=skin[-train.skin,],type="class")
+length(which(preds==skin[-train.skin,2562]))/length(preds)
+table(preds,skin[-train.skin,2562])
+```
+Although the tree is very simple, the accuracy is 100% on both the training set and test set.
+Although the tree is too simple to be pruned, I still made the plot and it proved that the tree does not need pruning
+```{r skin tree pruning}
+cv.results <- cv.tree(tree.skin, FUN=prune.misclass)
+plot(cv.results$size, cv.results$dev, type="b")
+```
+
+### Random forest
+Lastly, I also created a random forest classifier, and calculated the accuracy.
+```{r skin forest}
+forest.skin <- randomForest(tissue~.,data=skin[train.skin,])
+# accuracy on training data
+preds <- predict(forest.skin,newdata=skin[train.skin,],type="class")
+length(which(preds==skin[train.skin,2562]))/length(preds)
+table(preds,skin[train.skin,2562])
+# accuracy on test data
+preds <- predict(forest.skin,newdata=skin[-train.skin,],type="class")
+length(which(preds==skin[-train.skin,2562]))/length(preds)
+table(preds,skin[-train.skin,2562])
+```
+It yields 100% accuracy on both the trainning data and test data. Therefore it is a rather good classifier.
+For the skin tissue dataset, KNN, dicision tree and random forest clsssifiers are equally good while the logistic regression classifier performs badly.
+
+
+## Breast Tissues
+### k-nearest neighbour
+Firstly, I made boxplot of several genes to check their ranges.
+```{r breast boxplot}
+boxplot(breast[,1:9])
+```
+
+The boxplot shows that there are huge differences in the ranges between different genes. Then I created a scaled data frame.
+```{r breast scaled data}
+nbreast <- breast
+nbreast[,-2562] <- scale(breast[,-2562])
+boxplot(nbreast[,1:9])
+```
+
+I used cross-validation to find the optimal k.
+```{r breast optimal k}
+ntrain.breast <- round(nrow(breast)*3/4)
+set.seed(30)
+train.breast <- sample(1:nrow(breast),ntrain.breast)
+res.breast <- knnEval(nbreast[,-2562],nbreast[,2562],train.breast,kfold=10,knnvec=seq(1,25,1),legpos="bottomright")
+```
+
+The plot shows that the optimal k is 4.
+
+Therefore I crated the model with k =4, and calculated the accuracy of the results and inspect the confusion matrices on both the trainning set and the test set.
+```{r breast knn accuracy}
+# trainning set
+preds <- knn(nbreast[train.breast,-2562],nbreast[train.breast,-2562],nbreast[train.breast,2562],k=4)
+length(which(preds==nbreast[train.breast,2562]))/length(preds)
+table(preds,nbreast[train.breast,2562])
+# test set
+preds <- knn(nbreast[train.breast,-2562],nbreast[-train.breast,-2562],nbreast[train.breast,2562],k=4)
+length(which(preds==nbreast[-train.breast,2562]))/length(preds)
+table(preds,nbreast[-train.breast,2562])
+```
+The accuracy on the trainning set is 98.9%, there are 4 tumor samples have been predicted as normal. However, althouth I expect the accuracy of the test set is lower, the result also yields 100% accuracy on the test set. 
+
+### Logistic regression
+First I created the model and summary it to see which probesets are assigned large weight in the model.
+```{r breast lr}
+lr.breast <- glm(tissue~.,data=breast[train.breast,],family="binomial")
+summary(lr.breast)
+```
+
+Then I created a list of all the names of these genes (53 in total, sorted by Estimate).
+```{r skin lr informative genes}
+genes.breast <- names(sort(lr.breast$coefficients[-1]))
+print(length(genes.breast))
+```
+
+I also calculate the accuracy of the results and inspect the confusion matrices on both the trainning set and the test set.
+```{r breast lr accuracy}
+# training set
+preds <- predict(lr.breast,newdata=breast[train.breast,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==breast[train.breast,2562]))/length(preds)
+table(preds,breast[train.breast,2562])
+# test set
+preds <- predict(lr.breast,newdata=breast[-train.breast,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==breast[-train.breast,2562]))/length(preds)
+table(preds,breast[-train.breast,2562])
+```
+The accuracy on the trainning set is 100%. But the accuracy on the test set is only 0.48, and the confusion matrix shows that there are both a lot of false positive and false negetive cases. This means the model is overtrained.
+
+### Dicision tree
+First I created the decision tree and visualized the tree.
+```{r breast tree}
+tree.breast <- tree(tissue~.,data=breast[train.breast,])
+plot(tree.breast)
+text(tree.breast)
+```
+
+This is a tree with 4 leaves and 3 splits. It splits first based on the expression level of gene *GMPPA*, and later splits based on the expression level of gene *NAALADL1* and *DCK*.
+
+```{r breast tree accuracy}
+# training set
+preds <- predict(tree.breast,newdata=breast[train.breast,],type="class")
+length(which(preds==breast[train.breast,2562]))/length(preds)
+table(preds,breast[train.breast,2562])
+# test set
+preds <- predict(tree.breast,newdata=breast[-train.breast,],type="class")
+length(which(preds==breast[-train.breast,2562]))/length(preds)
+table(preds,breast[-train.breast,2562])
+```
+The accuracy on the trainning set is 99.7%. And as expected, the accuracy is slightly lower on the test set (95.2%). The confusion matrix shows that there is one normal sample has been predicted as tumor while 5 tumor samples have been predicted as normal.
+
+Then I used cross-validation to find the optimal level of pruning.
+```{r breast tree pruning}
+cv.results <- cv.tree(tree.breast, FUN=prune.misclass)
+plot(cv.results$size, cv.results$dev, type="b")
+smalltree.breast <- prune.misclass(tree.breast,best=2)
+plot(smalltree.breast); text(smalltree.breast)
+```
+Based on the plot form the cross-validaton, the optimal level is 2. Then I also plot the pruned tree, which is slightly simpler than the orignal tree.
+
+### Random forest
+Lastly, I also created a random forest classifier, and calculated the accuracy.
+```{r breast forest}
+forest.breast <- randomForest(tissue~.,data=breast[train.breast,])
+# accuracy on training data
+preds <- predict(forest.breast,newdata=breast[train.breast,],type="class")
+length(which(preds==breast[train.breast,2562]))/length(preds)
+table(preds,breast[train.breast,2562])
+# accuracy on test data
+preds <- predict(forest.breast,newdata=breast[-train.breast,],type="class")
+length(which(preds==breast[-train.breast,2562]))/length(preds)
+table(preds,breast[-train.breast,2562])
+```
+It yields 100% accuracy on the trainning data and 99.2% accuracy on test data.There is only one normal sample has been predicted as tumor. Therefore it is a rather good classifier.
+Same as the skin tissue dataset, KNN, dicision tree and random forest clsssifiers are equally good while the logistic regression classifier performs badly.
+
+
+## All Tissues
+### pre-select a subset
+I created a subset from the *all* dataframe with 200 genes.
+I chose the genes that have large weight in the logistic regression models from the skin and breast dataset.
+```{r all subset}
+### find genes
+intersect(genes.skin,genes.breast)
+idx <- which(genes.skin %in% genes.breast)
+genes.extra <- genes.breast[-idx]
+genes <- c(genes.skin,genes.extra[1:147])
+# create new datafram
+idx.col <- which(genes %in% colnames(all))
+all.small <- all[,c(idx.col,2562)]
+```
+As shown above, first I check the genes in both models. I found that all the genes have large weight in the model from the skin dataset are also in the model from the breast dataset. Therefore, I kept those the genes (53) and added anothor 147 genes from breast sample models to the reduced dataframe. I also add the column *tissue* as the last column into the dataframe.
+
+### k-nearest neighbour
+Firstly, I made boxplot of several genes to check their ranges.
+```{r all boxplot}
+boxplot(all.small[,1:9])
+```
+Because there are huge differences in the ranges between genes I created scaled dataset for the futher analyses.
+```{r all scaled data}
+nall.small <- all.small
+nall.small[,-201] <- scale(all.small[,-201])
+boxplot(nall.small[,1:9])
+```
+
+Then I used cross-validation to find the optimal k.
+```{r all optimal k}
+ntrain.all.small <- round(nrow(all.small)*3/4)
+set.seed(30)
+train.all.small <- sample(1:nrow(all.small),ntrain.all.small)
+res.all.small <- knnEval(nall.small[,-201],nall.small[,201],train.all.small,kfold=10,knnvec=seq(1,25,1),legpos="bottomright")
+```
+The plot shows that k=1 is the best chose.
+Therefore I crated the model with k =1, and calculated the accuracy of the results and inspect the confusion matrices on both the trainning set and the test set.
+```{r all knn accuracy}
+# trainning set
+preds <- knn(nall.small[train.all.small,-201],nall.small[train.all.small,-201],nall.small[train.all.small,201],k=1)
+length(which(preds==nall.small[train.all.small,201]))/length(preds)
+table(preds,nall.small[train.all.small,201])
+# test set
+preds <- knn(nall.small[train.all.small,-201],nall.small[-train.all.small,-201],nall.small[train.all.small,201],k=1)
+length(which(preds==nall.small[-train.all.small,201]))/length(preds)
+table(preds,nall.small[-train.all.small,201])
+```
+Because k=1, the accuracy on the trainning set is 100%. While the result yields 98.3% accuracy on the test set. There are both normal and tumor samples have been predict wrong.
+
+### Logistic regression
+First I created the model and summary it to see which probesets are assigned large weight in the model.
+```{r all lr}
+lr.all.small <- glm(tissue~.,data=all.small[train.all.small,],family="binomial")
+summary(lr.all.small)
+```
+
+```{r all lr accuracy}
+# training set
+preds <- predict(lr.all.small,newdata=all.small[train.all.small,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==all.small[train.all.small,201]))/length(preds)
+table(preds,all.small[train.all.small,201])
+# test set
+preds <- predict(lr.all.small,newdata=all.small[-train.all.small,],type="response")
+preds <- ifelse(preds>0.5,"tumor","normal")
+length(which(preds==all.small[-train.all.small,201]))/length(preds)
+table(preds,all.small[-train.all.small,201])
+```
+The accuracy on the trainning set is 100%. But the accuracy on the test set is only 96.1%, and the confusion matrix shows that there are both false positive and false negetive cases. Not as the skin and breast datasets before, this model is not overtrained. This may becasue I did not use all the genes, I only used the genes that might be informative (can discriminate between normal and tumor tissues).
+
+### Dicision tree
+First I created the decision tree and visualized the tree.
+```{r all tree}
+tree.all.small <- tree(tissue~.,data=all.small[train.all.small,])
+plot(tree.all.small)
+text(tree.all.small)
+```
+
+This is a relatively complex tree and need pruning.
+```{r all tree pruning}
+cv.results <- cv.tree(tree.all.small, FUN=prune.misclass)
+plot(cv.results$size, cv.results$dev, type="b")
+smalltree.all.small <- prune.misclass(tree.all.small,best=10)
+plot(smalltree.all.small); text(smalltree.all.small)
+```
+
+Based on the plot form the cross-validaton, the optimal level is around 10. Then I also plot the pruned tree, which is much simpler than the orignal tree.
+```{r all tree accuracy}
+# training set
+preds <- predict(smalltree.all.small,newdata=all.small[train.all.small,],type="class")
+length(which(preds==all.small[train.all.small,201]))/length(preds)
+table(preds,all.small[train.all.small,201])
+# test set
+preds <- predict(smalltree.all.small,newdata=all.small[-train.all.small,],type="class")
+length(which(preds==all.small[-train.all.small,201]))/length(preds)
+table(preds,all.small[-train.all.small,201])
+```
+After pruning, the accuracy is 94.5% on training set and 94.6% on test set. Moreover there are both normal and tumor samples have been predicted wrong in both trainning set and test set. The dicision tree classifier of all tissue dataset is much complex but less accurat than the skin and breast dataset. This might due to the different gene experision in different tissues.
+
+
+### Random forest
+Lastly, I also created a random forest classifier, and calculated the accuracy.
+```{r all forest}
+forest.all.small <- randomForest(tissue~.,data=all.small[train.all.small,])
+# accuracy on training data
+preds <- predict(forest.all.small,newdata=all.small[train.all.small,],type="class")
+length(which(preds==all.small[train.all.small,201]))/length(preds)
+table(preds,all.small[train.all.small,201])
+# accuracy on test data
+preds <- predict(forest.all.small,newdata=all.small[-train.all.small,],type="class")
+length(which(preds==all.small[-train.all.small,201]))/length(preds)
+table(preds,all.small[-train.all.small,201])
+```
+It yields 100% accuracy on the trainning data and the accuracy on test data is 99.2%. There are 4 normal samples have been predicted as tumoe. Therefore it is a rather good classifier.
+The resluts shows that it is more difficult to bulit a accurate clssifier with the dataset of all tissue than the skin and breast dataset. This because same genes may have different experision level in different tissues, and their differences bwteen tumor and normal samples may also differ in tissues. 
+
+## Discussion
+
+Since there may be differenc features between skin, breast and all other tissues, I expect low accuracy when use a model on other dataset.
+Therefore, I tried to use the random forest models from these three dataset on each other and calculated the accuracy.
+```{r each other}
+# skin and breast
+preds <- predict(forest.skin,newdata=breast,type="class")
+length(which(preds==breast[,2562]))/length(preds)
+table(preds,breast[,2562])
+preds <- predict(forest.breast,newdata=skin,type="class")
+length(which(preds==skin[,2562]))/length(preds)
+table(preds,skin[,2562])
+# skin and all
+preds <- predict(forest.all.small,newdata=skin,type="class")
+length(which(preds==skin[,2562]))/length(preds)
+table(preds,skin[,2562])
+preds <- predict(forest.skin,newdata=all,type="class")
+length(which(preds==all[,2562]))/length(preds)
+table(preds,all[,2562])
+# breast and all
+preds <- predict(forest.all.small,newdata=breast,type="class")
+length(which(preds==breast[,2562]))/length(preds)
+table(preds,breast[,2562])
+preds <- predict(forest.breast,newdata=all,type="class")
+length(which(preds==all[,2562]))/length(preds)
+table(preds,all[,2562])
+```
+
+The result shows that besides use the classifier developed from skin or breast on the all tissue dataset, other preditions have relatively low accuracy. It proves the idea that it is not suitable to use a model trained on one of these datasets to predict for any of the others.
